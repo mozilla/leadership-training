@@ -1,10 +1,11 @@
 # Mentorship Program
+#### Late August - Early November
 12 week online mentorship program on Working Open for Mozilla community members
 
 Testing the [Open Leadership Training Series](https://docs.google.com/document/d/1XCfmtvn6pV9Q20f5brbO6fkm7crfXcEXDF2nRsgo1o0/edit) + one on one mentorship
 
 
-This program is designed to connect open leaders and increase collaboration and contributorship on open projects in our network. This will serve as a generalized way to test a shared onboarding experience across our communities, increase collaboration among programs and strengthen bonds within our network.
+####This program is designed to connect open leaders and increase collaboration and contributorship on open projects in our network. This will serve as a generalized way to test a shared onboarding experience across our communities, increase collaboration among programs and strengthen bonds within our network.
 
 ## Who is this for?
 Community members starting up or currently leading open projects within any Mozilla program (Science, Learning, Advocacy, IoT, Women & Web Literacy, Participation +more).

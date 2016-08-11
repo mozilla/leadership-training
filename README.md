@@ -44,6 +44,6 @@ Week 7 | [Open Communications](https://drive.google.com/open?id=0BytjEIvMn7SRWEQ
 Week 8 | [Open Communications](https://drive.google.com/open?id=0BytjEIvMn7SRWEQxelhLeERYbWs)
 Week 9 | [Running Awesome Community Events](https://drive.google.com/open?id=0BytjEIvMn7SRaldGRUJpTk5TQ1E) | Review Goals & Progress. Bring in topic expert if needed
 Week 10 | [Open Project Maintenance](https://drive.google.com/open?id=0BytjEIvMn7SRM0RVT3Z1NjctQ2s)
-Week 11 | MozFest | Review Goals & Progress. Bring in topic expert if needed.
+Week 11 | MozFest | Meet in person at MozFest! \o/
 Week 12 | [Open Leadership Outro and Next Steps](https://drive.google.com/open?id=0BytjEIvMn7SRakRpYS1FaVY4RHc) | Celebrate & Debrief
 

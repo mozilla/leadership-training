@@ -1,5 +1,5 @@
 # Mentorship Program
-#### Late August - Early November
+#### August 22 - November 7
 12 week online mentorship program on Working Open for Mozilla community members
 
 Testing the [Open Leadership Training Series](https://docs.google.com/document/d/1XCfmtvn6pV9Q20f5brbO6fkm7crfXcEXDF2nRsgo1o0/edit) + one on one mentorship

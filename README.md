@@ -13,7 +13,7 @@ Community members starting up or currently leading open projects within any Mozi
 **Commitment**: 3-5h / week
 
 ## What will you learn?
-The [Open Leadership Training Series](https://docs.google.com/document/d/1XCfmtvn6pV9Q20f5brbO6fkm7crfXcEXDF2nRsgo1o0/edit)) (OLTS) is designed to teach you best practices in  “working open” -- a way of working in which
+The [Open Leadership Training Series](https://docs.google.com/document/d/1XCfmtvn6pV9Q20f5brbO6fkm7crfXcEXDF2nRsgo1o0/edit) (OLTS) is designed to teach you best practices in  “working open” -- a way of working in which
 * a community of people collaborate to make or build something amazing, 
 * and any product or knowledge that the community of collaborators creates is shared widely and freely with the public on the world wide web.
  

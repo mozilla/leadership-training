@@ -14,9 +14,9 @@ Community members starting up or currently leading open projects within any Mozi
 
 ## What will you learn?
 The [Open Leadership Training Series](https://docs.google.com/document/d/1XCfmtvn6pV9Q20f5brbO6fkm7crfXcEXDF2nRsgo1o0/edit) (OLTS) is designed to teach you best practices in  “working open” -- a way of working in which
-* a community of people collaborate to make or build something amazing, 
+* a community of people collaborate to make or build something amazing,
 * and any product or knowledge that the community of collaborators creates is shared widely and freely with the public on the world wide web.
- 
+
 The 1:1 mentorship will provide additional support as you apply what you’ve learned to your specific project community.
 
 ## Who are the mentors?
@@ -32,18 +32,20 @@ The mentors are Mozilla staff and community members who have completed Open Lead
 
 ## Schedule
 
+As a cohort, we'll meet every Monday at 12ET. [See the meeting in your TimeZone](http://arewemeetingyet.com/Toronto/2016-08-22/12:00/w/Project%20Mentorship).
+
 week | Module | Mentorship
 --- | --- | ---
-Week 1 | [Introduction to Open Leadership](https://drive.google.com/open?id=0BytjEIvMn7SRcWVpcF9SdFB3LTQ), [Opening Your Project](https://drive.google.com/open?id=0BytjEIvMn7SRdmk4N2ViN0M3cEE) - Open Canvas | 12 Week Goal Setting Exercise. Mozilla staff member will join
-Week 2 | [Opening Your Project](https://drive.google.com/open?id=0BytjEIvMn7SRdmk4N2ViN0M3cEE) - README, Roadmap
-Week 3 | [Building Communities of Contributors](https://drive.google.com/folderview?id=0BytjEIvMn7SRbm1kZXZTWFZFTGs&usp=sharing) - Visualize your Network, Personas & Pathways, Distributed Leadership | Review Goals & Progress. Bring in topic expert if needed
-Week 4 | [Building Communities of Contributors](https://drive.google.com/folderview?id=0BytjEIvMn7SRbm1kZXZTWFZFTGs&usp=sharing) - Code of Conduct & Contributor Guidelines
-Week 5 | [Get Your Project Online -- Getting Started with GitHub](https://drive.google.com/open?id=0BytjEIvMn7SRNXVUVEFVTnVRZ0k) | Review Goals & Progress. Bring in topic expert if needed
-Week 6 | [GitHub for Collaboration](https://drive.google.com/open?id=0BytjEIvMn7SRVzR1bkc5RVZyNnM)
-Week 7 | [Open Communications](https://drive.google.com/open?id=0BytjEIvMn7SRWEQxelhLeERYbWs) | Review Goals & Progress. Bring in topic expert if needed
-Week 8 | [Open Communications](https://drive.google.com/open?id=0BytjEIvMn7SRWEQxelhLeERYbWs)
-Week 9 | [Running Awesome Community Events](https://drive.google.com/open?id=0BytjEIvMn7SRaldGRUJpTk5TQ1E) | Review Goals & Progress. Bring in topic expert if needed
-Week 10 | [Open Project Maintenance](https://drive.google.com/open?id=0BytjEIvMn7SRM0RVT3Z1NjctQ2s)
-Week 11 | MozFest | Meet in person at MozFest! \o/
-Week 12 | [Open Leadership Outro and Next Steps](https://drive.google.com/open?id=0BytjEIvMn7SRakRpYS1FaVY4RHc) | Celebrate & Debrief
+August 22 | [Introduction to Open Leadership](https://drive.google.com/open?id=0BytjEIvMn7SRcWVpcF9SdFB3LTQ), [Opening Your Project](https://drive.google.com/open?id=0BytjEIvMn7SRdmk4N2ViN0M3cEE) - Open Canvas | 12 Week Goal Setting Exercise. Mozilla staff member will join
+August 29 | [Opening Your Project](https://drive.google.com/open?id=0BytjEIvMn7SRdmk4N2ViN0M3cEE) - README, Roadmap
+September 5 | [Building Communities of Contributors](https://drive.google.com/folderview?id=0BytjEIvMn7SRbm1kZXZTWFZFTGs&usp=sharing) - Visualize your Network, Personas & Pathways, Distributed Leadership | Review Goals & Progress. Bring in topic expert if needed
+September 12 | [Building Communities of Contributors](https://drive.google.com/folderview?id=0BytjEIvMn7SRbm1kZXZTWFZFTGs&usp=sharing) - Code of Conduct & Contributor Guidelines
+September 19 | [Get Your Project Online -- Getting Started with GitHub](https://drive.google.com/open?id=0BytjEIvMn7SRNXVUVEFVTnVRZ0k) | Review Goals & Progress. Bring in topic expert if needed
+September 26 | [GitHub for Collaboration](https://drive.google.com/open?id=0BytjEIvMn7SRVzR1bkc5RVZyNnM)
+October 3 | [Open Communications](https://drive.google.com/open?id=0BytjEIvMn7SRWEQxelhLeERYbWs) | Review Goals & Progress. Bring in topic expert if needed
+October 10 | [Open Communications](https://drive.google.com/open?id=0BytjEIvMn7SRWEQxelhLeERYbWs)
+October 17 | [Running Awesome Community Events](https://drive.google.com/open?id=0BytjEIvMn7SRaldGRUJpTk5TQ1E) | Review Goals & Progress. Bring in topic expert if needed
+October 24 | [Open Project Maintenance](https://drive.google.com/open?id=0BytjEIvMn7SRM0RVT3Z1NjctQ2s)
+October 28-30 | MozFest | Meet in person at MozFest! \o/
+November 7 | [Open Leadership Outro and Next Steps](https://drive.google.com/open?id=0BytjEIvMn7SRakRpYS1FaVY4RHc) | Celebrate & Debrief
 

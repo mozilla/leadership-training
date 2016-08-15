@@ -58,10 +58,13 @@ Timing / Notes:
   * It's okay if you don't finish this week
 * [2 - 5 min] Wrap-up
   * Can you meet at the same time two weeks from now? Adjust time if needed.
+    * Is there anyone else who should join this call? Project collaborators?
   * Reminder to join chat
   * Let your mentee know you are available if they have questions / need help. Let them know the best way to reach you.
 
 ##### Second to Fifth Meeting
+
+For any of these meetings, you may want to reach out to anther mentor who has some expertise needed on this project.
 
 AGENDA
 * Highlights from the past two weeks

@@ -15,8 +15,6 @@ Mentors will:
 
 ## 1:1 meetings
 
-#### Goals
-
 There are three main goals of these mentorship meetings. You'll see these reflected in the structure and resources we provide.
 
 1. **Connect as humans**: Use this one on one time to get to know the people you are mentoring and help connect them to others in the network. For many of them, this will be their first time at MozFest -- these meetings give them a chance to make a buddy before the big event.
@@ -26,15 +24,56 @@ There are three main goals of these mentorship meetings. You'll see these reflec
   * Set goals around their project and help break them down to tasks to work on over the next 12 weeks.
   * Connect them to resources or skills they may need, if possible.
 3. **Apply lessons from Working Open**: Help participants apply what they're learning in the *Open Leadership Training Series* to their specific projects.
-  * Review their assignments and provide feedback when appropriate.
+  * If you have time, review their assignments and provide feedback when appropriate.
   * Encourage them to apply best practices from working open to their work.
 
 #### Structure
 
-**First Meeting**
+##### Logistics
+* Schedule using Google Calendar (Appointment slots can be helpful)
+* Use Google Hangouts - "Add video call" to the meeting invite
+* Use an etherpad to keep track of an agenda / goals / timelines
+  * Example etherpad from our first mentorhsip round: [https://public.etherpad-mozilla.org/p/wow-oliver](https://public.etherpad-mozilla.org/p/wow-oliver)
+  * Template etherpad: [https://public.etherpad-mozilla.org/p/project-mentorship-template](https://public.etherpad-mozilla.org/p/project-mentorship-template)
+* Chat - the whole cohort will be added to a chat room on [chat.mozillafoundation.org](http://chat.mozillafoundation.org/)
 
-**Second to Fifth Meeting**
+##### First Meeting
 
-**Sixth and Final Meeting**
+AGENDA (see [full agenda in the template](https://public.etherpad-mozilla.org/p/project-mentorship-template)):
+* Review project lead needs/expectations (Goal setting exercise)
+* Check logistics for future meetings (times, people to include)
+* Reminder to join chat
+
+Timing / Notes:
+
+* [5 - 10 min] Getting to know each other! Before jumping into the agenda, take some time to get to know your mentee.
+  * Say hi :) Tell them a bit about yourself
+  * Get to know them
+  * Get to know they're excited about
+* [10 - 15min] Review project lead needs/expectations (Setting 12 weeks goals)
+  * Now that you know more about their project, ask them what they want to see on their project in 12 weeks (right after MozFest).
+  * Recommended reading: [Setting SMART Goals](https://docs.google.com/document/d/1CAhFgm_27HHVGFtmw1HKpm2yQNmeggE7uGgm3blvYkA/edit?usp=sharing)
+* [5 - 10 min]
+  * Start breaking down the goals into 2-week sized tasks to complete
+  * It's okay if you don't finish this week
+* [2 - 5 min] Wrap-up
+  * Can you meet at the same time two weeks from now? Adjust time if needed.
+  * Reminder to join chat
+  * Let your mentee know you are available if they have questions / need help. Let them know the best way to reach you.
+
+##### Second to Fifth Meeting
+
+AGENDA
+* Highlights from the past two weeks
+* Review goals/timeline
+* Review assignments
+* Where can we help?
+
+##### Sixth and Final Meeting
+
+Celebration, Debrief & Review
+* Agenda & notes will come when we get closer to this
 
 #### Templates
+
+* [Meeting etherpad template (first week)](https://public.etherpad-mozilla.org/p/project-mentorship-template)

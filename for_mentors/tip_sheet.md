@@ -27,9 +27,9 @@ There are three main goals of these mentorship meetings. You'll see these reflec
   * If you have time, review their assignments and provide feedback when appropriate.
   * Encourage them to apply best practices from working open to their work.
 
-#### Structure
+### Structure
 
-##### Logistics
+#### Logistics
 * Schedule using Google Calendar (Appointment slots can be helpful)
 * Use Google Hangouts - "Add video call" to the meeting invite
 * Use an etherpad to keep track of an agenda / goals / timelines
@@ -37,7 +37,7 @@ There are three main goals of these mentorship meetings. You'll see these reflec
   * Template etherpad: [https://public.etherpad-mozilla.org/p/project-mentorship-template](https://public.etherpad-mozilla.org/p/project-mentorship-template)
 * Chat - the whole cohort will be added to a chat room on [chat.mozillafoundation.org](http://chat.mozillafoundation.org/)
 
-##### First Meeting
+#### First Meeting
 
 AGENDA (see [full agenda in the template](https://public.etherpad-mozilla.org/p/project-mentorship-template)):
 * Review project lead needs/expectations (Goal setting exercise)
@@ -62,7 +62,7 @@ Timing / Notes:
   * Reminder to join chat
   * Let your mentee know you are available if they have questions / need help. Let them know the best way to reach you.
 
-##### Second to Fifth Meeting
+#### Second to Fifth Meeting
 
 For any of these meetings, you may want to reach out to anther mentor who has some expertise needed on this project.
 
@@ -72,11 +72,11 @@ AGENDA
 * Review assignments
 * Where can we help?
 
-##### Sixth and Final Meeting
+#### Sixth and Final Meeting
 
 Celebration, Debrief & Review
 * Agenda & notes will come when we get closer to this
 
-#### Templates
+### Templates
 
 * [Meeting etherpad template (first week)](https://public.etherpad-mozilla.org/p/project-mentorship-template)

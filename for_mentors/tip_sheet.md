@@ -33,7 +33,7 @@ There are three main goals of these mentorship meetings. You'll see these reflec
 * Schedule using Google Calendar (Appointment slots can be helpful)
 * Use Google Hangouts - "Add video call" to the meeting invite
 * Use an etherpad to keep track of an agenda / goals / timelines
-  * Example etherpad from our first mentorhsip round: [https://public.etherpad-mozilla.org/p/wow-oliver](https://public.etherpad-mozilla.org/p/wow-oliver)
+  * Example etherpad from our first mentorship round: [https://public.etherpad-mozilla.org/p/wow-oliver](https://public.etherpad-mozilla.org/p/wow-oliver)
   * Template etherpad: [https://public.etherpad-mozilla.org/p/project-mentorship-template](https://public.etherpad-mozilla.org/p/project-mentorship-template)
 * Chat - the whole cohort will be added to a chat room on [chat.mozillafoundation.org](http://chat.mozillafoundation.org/)
 
@@ -49,7 +49,7 @@ Timing / Notes:
 * [5 - 10 min] Getting to know each other! Before jumping into the agenda, take some time to get to know your mentee.
   * Say hi :) Tell them a bit about yourself
   * Get to know them
-  * Get to know they're excited about
+  * Get to know what they're excited about
 * [10 - 15min] Review project lead needs/expectations (Setting 12 weeks goals)
   * Now that you know more about their project, ask them what they want to see on their project in 12 weeks (right after MozFest).
   * Recommended reading: [Setting SMART Goals](https://docs.google.com/document/d/1CAhFgm_27HHVGFtmw1HKpm2yQNmeggE7uGgm3blvYkA/edit?usp=sharing)
@@ -80,3 +80,7 @@ Celebration, Debrief & Review
 ### Templates
 
 * [Meeting etherpad template (first week)](https://public.etherpad-mozilla.org/p/project-mentorship-template)
+
+### Suggested Reading
+* [Roadies & Rockstars](http://blog.workopen.org/leadership/) on Working Open @ Mozilla | OpenMatt
+* [Setting SMART goals](https://docs.google.com/document/d/1CAhFgm_27HHVGFtmw1HKpm2yQNmeggE7uGgm3blvYkA/edit?usp=sharing)

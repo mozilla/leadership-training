@@ -67,6 +67,13 @@ Hi. My name is Dennis from Nairobi, Kenya. I have been a Mozillian for a while n
 
 ***
 
+#### Dorine Flies ([@@epikhub](https://github.com/@epikhub))
+*Canterbury Kent UK*
+
+An interest in Sociology and Anthropology within an open source and computer gaming context; a participation research blend that explores the digital, through play, as mechanisms that builds resilience to adversity.
+
+***
+
 #### Edoardo Viola ([@edovio](https://github.com/edovio))
 *Cagliari, Italy*
 
@@ -95,6 +102,20 @@ I am a user experience designer (and learning developer) in Detroit Michigan. I 
 
 ***
 
+#### Martin Skelly ([@mskell](https://github.com/mskell))
+*Edinburgh / Dundee, Scotland*
+
+I'm a lecturer in Product Design at the University of Dundee, I'm collaborating with Mozilla Foundation as a researcher on the Open Internet of Things (IoT) Studio project, and I make my own research prototypes at Skelly Studio.
+
+I use design and digital technologies to prototype new experiences, interactions and products for brands, design agencies and universities.
+
+I'm fascinated by the potential that our connected digital lives offers for creating new experiences and the questions this opens up around privacy, control and happiness. I create data driven products, and design meaningful experiences that link our physical world with our digital world.
+
+
+
+
+***
+
 #### Max Franz ([@maxkfranz](https://github.com/maxkfranz))
 *Toronto, Canada*
 
@@ -109,12 +130,33 @@ King's College London alumnus. I was a software engineer at CERN where I focused
 
 ***
 
+#### Sean Carroll ([@seanfcarroll](https://github.com/seanfcarroll))
+*Geneva, Switzerland*
+
+Lead developer on crowdai.org. Interested on open source, web development, infrastructure and now machine learning.
+
+***
+
+#### Sharada Prasanna Mohanty ([@spMohanty](https://github.com/spMohanty))
+*Geneva, Switzerland*
+
+S.P. Mohanty is a PhD Student at École Polytechnique Fédérale de Lausanne   associated with School of Life Sciences and School of Computer and Communications. His research revolves around rethinking many classical problems and approaches in computer science while keeping open problems in Life Sciences in mind. As an open source enthusiast, he has been involved with Google Summer of Code since 2012, as a student, mentor and as an org-admin for a humanitarian open source organisation called as Sigmah. During a stint at CERN, he was involved in running the CERN Public Computing Challenge with the Theoretical Physics Department, CERN and Citizen Cyberscience Center, IT Department, CERN. Over the years, he also helped organised the CERN Webfest, an annual hackathon at CERN in collaboration with Mozilla Science Labs and Citizen Cyberscience Center, IT Department CERN.  During another stint at UNOSAT, he was the lead developer for GeoTag-X, an opensource crowdsourcing platform for Humanitarian Data Analysis. And finally, a tinkerer at heart, he religiously attends all hackathons he can, spending sleepless weekends building 3D games to teach kids particle physics, to digital harnesses to help demining dogs be more efficient and safe during demining operations.
+
+***
+
 #### Shwetal Shah ([@shwetal27](https://github.com/shwetal27))
 *London, United Kingdom*
 
 Junior consultant at a group of 3 IT companies in London (OSSCube- system integration, One point IQ- Big Data Analytics, One point consulting- IT consulting and Entreprise Architecture services).
 
 Whilst acquiring a  Masters of Science in International Marketing, volunteered with the Scottish Youth Parliament giving talks on Scottish Policies to young children and organized TEDx at university, after moving to London actively participated in and organized hackathons, Mozilla Science Fest and 3 Day Startup and now organizes monthly science talks at Explore-Science!
+
+***
+
+#### Siddharth Rao ([@sidtechnical](https://github.com/sidtechnical))
+*Brussels, Belgium*
+
+Sid is a Free and Open Source Software (FOSS) enthusiast and a privacy fanatic who specializes in the security analysis of communication protocols. He is also passionate about Internet services and infrastructure in developing nations. Sid co-founded the social venture ThirdEye, which builds affordable e-­readers for visually-challenged people. He is a past Erasmus Mundus fellow and holds double master's degrees from Aalto University, Finland (Information and Network Security) and University of Tartu, Estonia (Cryptography). As an Open Web Fellow, Sid will be based at European Digital Rights (EDRi), where he will help define policies related to data protection, surveillance, copyright, and network neutrality.
 
 ***
 

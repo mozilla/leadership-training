@@ -67,7 +67,7 @@ Hi. My name is Dennis from Nairobi, Kenya. I have been a Mozillian for a while n
 
 ***
 
-#### Dorine Flies ([@@epikhub](https://github.com/@epikhub))
+#### Dorine Flies ([@epikhub](https://github.com/epikhub))
 *Canterbury Kent UK*
 
 An interest in Sociology and Anthropology within an open source and computer gaming context; a participation research blend that explores the digital, through play, as mechanisms that builds resilience to adversity.

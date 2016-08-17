@@ -1,6 +1,6 @@
 # Participants
 
-Read more about the participants joining us in this mentorship program
+Read more about the Open Project Leads joining us in this mentorship program
 
 ***
 

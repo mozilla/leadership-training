@@ -23,6 +23,7 @@ There are three main goals of these mentorship meetings. You'll see these reflec
 2. **Help their project suceed**: We're helping participants engage and deepen contributorship on their projects and sessions.
   * Set goals around their project and help break them down to tasks to work on over the next 12 weeks.
   * Connect them to resources or skills they may need, if possible.
+  * Help them craft / prepare their MozFest session so they can leverage the event to help their project.
 3. **Apply lessons from Working Open**: Help participants apply what they're learning in the *Open Leadership Training Series* to their specific projects.
   * If you have time, review their assignments and provide feedback when appropriate.
   * Encourage them to apply best practices from working open to their work.

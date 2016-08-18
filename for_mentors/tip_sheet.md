@@ -84,3 +84,5 @@ Celebration, Debrief & Review
 ### Suggested Reading
 * [Roadies & Rockstars](http://blog.workopen.org/leadership/) on Working Open @ Mozilla | OpenMatt
 * [Setting SMART goals](https://docs.google.com/document/d/1CAhFgm_27HHVGFtmw1HKpm2yQNmeggE7uGgm3blvYkA/edit?usp=sharing)
+* [7 Tips for positive mentoring outcomes](http://www.management-mentors.com/about/corporate-mentoring-matters-blog/7-tips-for-positive-mentoring-outcomes?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+management-mentors%2FWsXO+%28Corporate+Mentoring+Matters%29)
+* [Mentoring Standard, Research Publications](http://www.mentoringstandard.com/researchpublications/)

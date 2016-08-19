@@ -1,5 +1,5 @@
 
-## Mentors
+# Mentors
 
 ***
 
@@ -119,7 +119,9 @@ Reformed computational plant biologist, unreformed hacker. @mozillascience fello
 
 Sceintific brain for hire. Used to work at CERN, now a data science consultant and open-sourcer"
 
-## Experts
+***
+
+# Experts
 
 ***
 
@@ -169,7 +171,6 @@ Expertise: GitHub/git, JS (server side), Ops
 ***
 
 #### Christopher Kittel ([@chreman](https://github.com/chreman))
-**
 
 systems science, environmental economics, text&data mining
 

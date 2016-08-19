@@ -39,8 +39,8 @@ As a cohort, we'll meet every Monday at 12ET. [See the meeting in your TimeZone]
 
 week | Module | Mentorship
 --- | --- | ---
-August 22 | [Introduction to Open Leadership](https://drive.google.com/open?id=0BytjEIvMn7SRcWVpcF9SdFB3LTQ), [Opening Your Project](https://drive.google.com/open?id=0BytjEIvMn7SRdmk4N2ViN0M3cEE) - Open Canvas | 12 Week Goal Setting Exercise.
-August 29 | [Opening Your Project](https://drive.google.com/open?id=0BytjEIvMn7SRdmk4N2ViN0M3cEE) - README, Roadmap
+August 22 | [Introduction to Open Leadership](https://drive.google.com/open?id=0BytjEIvMn7SRcWVpcF9SdFB3LTQ) | 12 Week Goal Setting Exercise.
+August 29 | [Opening Your Project](https://drive.google.com/open?id=0BytjEIvMn7SRdmk4N2ViN0M3cEE) - Open Canvas, README, Roadmap
 September 5 | [Building Communities of Contributors](https://drive.google.com/folderview?id=0BytjEIvMn7SRbm1kZXZTWFZFTGs&usp=sharing) - Visualize your Network, Personas & Pathways, Distributed Leadership | Review Goals & Progress. Bring in topic expert if needed
 September 12 | [Building Communities of Contributors](https://drive.google.com/folderview?id=0BytjEIvMn7SRbm1kZXZTWFZFTGs&usp=sharing) - Code of Conduct & Contributor Guidelines
 September 19 | [Get Your Project Online -- Getting Started with GitHub](https://drive.google.com/open?id=0BytjEIvMn7SRNXVUVEFVTnVRZ0k) | Review Goals & Progress. Bring in topic expert if needed

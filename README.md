@@ -12,7 +12,7 @@ Community members starting up or currently leading open projects within any Mozi
 
 **Commitment**: ~3h / week
 
-See the [full list of participants in our Fall 2016 round](https://github.com/MozillaFoundation/mentorship-program/blob/master/participants.md).
+See the [full list of participants](https://github.com/MozillaFoundation/mentorship-program/blob/master/participants.md) in our Fall 2016 round.
 
 ## What will you learn?
 The [Open Leadership Training Series](https://docs.google.com/document/d/1XCfmtvn6pV9Q20f5brbO6fkm7crfXcEXDF2nRsgo1o0/edit) (OLTS) is designed to teach you best practices in  “working open” -- a way of working in which

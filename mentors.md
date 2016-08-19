@@ -117,7 +117,7 @@ Reformed computational plant biologist, unreformed hacker. @mozillascience fello
 ![](https://avatars2.githubusercontent.com/u/1448859?v=3&s=100)
 
 
-Sceintific brain for hire. Used to work at CERN, now a data science consultant and open-sourcer"
+Sceintific brain for hire. Used to work at CERN, now a data science consultant and open-sourcer
 
 ***
 
@@ -283,4 +283,4 @@ Expertise: JS/React, css/html, using git on our projects, battling cross-platfor
 
 I live in Gainesville, FL where I work as a learning strategist for the Mozilla Science Lab. I also ride bikes, write and draw comics, drink tea, and do everything in my power to keep my houseplants alive.
 
-Expertise: Strategy and design for learning experiences; content development and curriculum creation."
+Expertise: Strategy and design for learning experiences; content development and curriculum creation.

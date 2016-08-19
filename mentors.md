@@ -243,6 +243,15 @@ Expertise: epidemiology, statistics, R, Git, Bash
 
 ***
 
+#### Natalie Worth ([@natalieworth](https://github.com/natalieworth))
+*Vancouver, B.C., Canada*
+
+Designer working on Advocacy with the Mozilla Foundation.
+
+Expertise: Visual design
+
+***
+
 #### Oliver Sauter ([@oliversauter](https://github.com/oliversauter))
 *Berlin, Germany*
 

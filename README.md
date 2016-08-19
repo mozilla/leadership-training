@@ -12,6 +12,8 @@ Community members starting up or currently leading open projects within any Mozi
 
 **Commitment**: ~3h / week
 
+See the [full list of participants in our Fall 2016 round](https://github.com/MozillaFoundation/mentorship-program/blob/master/participants.md).
+
 ## What will you learn?
 The [Open Leadership Training Series](https://docs.google.com/document/d/1XCfmtvn6pV9Q20f5brbO6fkm7crfXcEXDF2nRsgo1o0/edit) (OLTS) is designed to teach you best practices in  “working open” -- a way of working in which
 * a community of people collaborate to make or build something amazing,
@@ -22,6 +24,7 @@ The 1:1 mentorship will provide additional support as you apply what you’ve le
 ## Who are the mentors?
 The mentors are Mozilla staff and community members who have completed Open Leadership training and mentorship in the past. They all have experience running open projects, facilitating events and building communities. They’ve demonstrated an understanding of working openly and collaboratively on projects.
 
+See the [list of mentors](https://github.com/MozillaFoundation/mentorship-program/blob/master/mentors.md) for our Fall 2016 round.
 
 ## What will it looks like?
 * **Meetings**

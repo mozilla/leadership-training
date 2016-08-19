@@ -9,7 +9,7 @@
 ![](https://avatars3.githubusercontent.com/u/617994?v=3&s=100)
 
 
-code, science, open source and prototyping @mozilla (web + science = ) alum:@OICR_news @wormbase @uwaterloo // Fully known & truly loved
+code, science, open source and prototyping @mozilla (web + science = ) alum:@OICR_news @wormbase @uwaterloo
 
 ***
 

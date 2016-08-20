@@ -59,7 +59,7 @@ PhD student in applied bioinformatics & co-founder of openSNP.org
 ![](https://avatars0.githubusercontent.com/u/1254693?v=3&s=100)
 
 
-the guy behind the guy / Principal Scientist (computational oncology) & Community Manager (mobile and technology platforms) / open science advocate
+Principal Scientist (computational oncology) & Community Manager (mobile and technology platforms) / open science advocate
 
 ***
 

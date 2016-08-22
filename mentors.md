@@ -293,4 +293,4 @@ Expertise: JS/React, css/html, using git on our projects, battling cross-platfor
 
 I live in Gainesville, FL where I work as a learning strategist for the Mozilla Science Lab. I also ride bikes, write and draw comics, drink tea, and do everything in my power to keep my houseplants alive.
 
-Expertise: Strategy and design for learning experiences; content development and curriculum creation.
+Expertise: Strategy and design for learning experiences; content development and curriculum creation; design of interactive technologies and experiences for museums and cultural centeres. 

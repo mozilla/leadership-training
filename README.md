@@ -52,3 +52,6 @@ October 24 | [Open Project Maintenance](https://drive.google.com/open?id=0BytjEI
 October 28-30 | MozFest | Meet in person at MozFest! \o/
 November 7 | [Open Leadership Outro and Next Steps](https://drive.google.com/open?id=0BytjEIvMn7SRakRpYS1FaVY4RHc) | Celebrate & Debrief
 
+## Code of Conduct
+
+Please note that we will be following the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)

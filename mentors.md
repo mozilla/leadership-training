@@ -118,7 +118,7 @@ Developer into science, transport and APIs
 ![](https://avatars2.githubusercontent.com/u/1448859?v=3&s=100)
 
 
-Sceintific brain for hire. Used to work at CERN, now a data science consultant and open-sourcer
+Scientific brain for hire. Used to work at CERN, now a technical consultant and open-source creator.
 
 ***
 

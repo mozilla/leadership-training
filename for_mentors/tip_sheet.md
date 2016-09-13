@@ -87,4 +87,4 @@ Celebration, Debrief & Review
 * [Setting SMART goals](https://docs.google.com/document/d/1CAhFgm_27HHVGFtmw1HKpm2yQNmeggE7uGgm3blvYkA/edit?usp=sharing)
 * [7 Tips for positive mentoring outcomes](http://www.management-mentors.com/about/corporate-mentoring-matters-blog/7-tips-for-positive-mentoring-outcomes?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+management-mentors%2FWsXO+%28Corporate+Mentoring+Matters%29)
 * [Mentoring Standard, Research Publications](http://www.mentoringstandard.com/researchpublications/)
-* [Great Mentorship? It's All About Self-Awareness And Seeking Out A Sounding Board](//www.inc.com/kelly-hoey/great-mentorship-it-s-all-about-self-awareness-and-seeking-out-a-sounding-board.html)
+* [Great Mentorship? It's All About Self-Awareness And Seeking Out A Sounding Board](http://www.inc.com/kelly-hoey/great-mentorship-it-s-all-about-self-awareness-and-seeking-out-a-sounding-board.html)

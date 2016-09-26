@@ -128,3 +128,5 @@ http://www.nytimes.com/2015/10/26/your-money/learning-to-deal-with-the-impostor-
 
 Imposter Syndrome Is The Real Fraud: Here's How To Stop it.
 http://www.forbes.com/sites/christinavuleta/2016/08/15/imposter-syndrome-is-the-real-fraud-heres-how-to-stop-it/#799db62a1a0b
+
+![](http://i.imgur.com/bPSUR.gif)

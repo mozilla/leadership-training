@@ -88,3 +88,43 @@ Celebration, Debrief & Review
 * [7 Tips for positive mentoring outcomes](http://www.management-mentors.com/about/corporate-mentoring-matters-blog/7-tips-for-positive-mentoring-outcomes?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+management-mentors%2FWsXO+%28Corporate+Mentoring+Matters%29)
 * [Mentoring Standard, Research Publications](http://www.mentoringstandard.com/researchpublications/)
 * [Great Mentorship? It's All About Self-Awareness And Seeking Out A Sounding Board](http://www.inc.com/kelly-hoey/great-mentorship-it-s-all-about-self-awareness-and-seeking-out-a-sounding-board.html)
+
+
+Mozilla Outreachy Program Mentoring (Deck)
+https://docs.google.com/presentation/d/1SMP2E9jcZGop3YvV25Soidj4msyuJC6FD2-M7_JgDJM/edit#slide=id.ga39cad493_0_10
+
+Designed Alliance - social contract: https://docs.google.com/document/d/1MJMaYnm2aQkLm0Fr1cGIq9ipWkwRNv_6oL9-X1qxkMA/edit
+
+Giving Feedback:
+
+How to Make Feedback Feel Normal
+https://hbr.org/2016/08/how-to-make-feedback-feel-normal
+
+The Gender Gap in Feedback and Self-Perception
+https://hbr.org/2016/08/the-gender-gap-in-feedback-and-self-perception
+
+Book: Thanks for the Feedback: The Science and Art of Receiving Feedback Well
+https://www.amazon.com/Thanks-Feedback-Science-Receiving-Well/dp/0143127136/ref=sr_1_2?ie=UTF8&qid=1474664509&sr=8-2&keywords=feedback
+
+Superb article on how to engage a mentor:
+An 18-Step Checklist to Engage Mentors and Funders
+https://unreasonable.is/build-strong-friends/
+I believe it's important to onboard mentees as well as mentors.
+
+Three levels of listening:
+http://www.coactive.com/learning-hub/fundamentals/res/FUN-Topics/FUN-Co-Active-Coaching-Skills-Listening.pdf
+asking powerful questions
+http://www.coactive.com/ee_newsletter/images/uploads/31-Powerful-Questions.pdf
+not holding assumptions
+
+we hold everyone naturally creative, resourceful and whole -- we're here to help them find the answers themselves
+http://www.coactive.com/blog3/2014/09/naturally-creative-resourceful-and-whole-co-active-inspiration
+
+peer mentoring
+
+imposter syndrome
+Learning to Deal With the Impostor Syndrome
+http://www.nytimes.com/2015/10/26/your-money/learning-to-deal-with-the-impostor-syndrome.html?_r=0
+
+Imposter Syndrome Is The Real Fraud: Here's How To Stop it.
+http://www.forbes.com/sites/christinavuleta/2016/08/15/imposter-syndrome-is-the-real-fraud-heres-how-to-stop-it/#799db62a1a0b

@@ -46,8 +46,8 @@ September 12 | [Building Communities of Contributors](https://drive.google.com/f
 September 19 | [Get Your Project Online -- Getting Started with GitHub](https://drive.google.com/open?id=0BytjEIvMn7SRNXVUVEFVTnVRZ0k) | Review Goals & Progress. Bring in topic expert if needed
 September 26 | [GitHub for Collaboration](https://drive.google.com/open?id=0BytjEIvMn7SRVzR1bkc5RVZyNnM)
 October 3 | [Open Communications](https://drive.google.com/open?id=0BytjEIvMn7SRWEQxelhLeERYbWs) | Review Goals & Progress. Bring in topic expert if needed
-October 10 | [Open Communications](https://drive.google.com/open?id=0BytjEIvMn7SRWEQxelhLeERYbWs)
-October 17 | [Running Awesome Community Events](https://drive.google.com/open?id=0BytjEIvMn7SRaldGRUJpTk5TQ1E) | Review Goals & Progress. Bring in topic expert if needed
+October 10 | [Running Awesome Community Events](https://drive.google.com/open?id=0BytjEIvMn7SRaldGRUJpTk5TQ1E) - Designing an Open Event, Event Planning & Facilitation
+October 17 | [Running Awesome Community Events](https://drive.google.com/open?id=0BytjEIvMn7SRaldGRUJpTk5TQ1E) - Event Follow-up, Documentation & Reporting | Review Goals & Progress. Bring in topic expert if needed
 October 24 | [Open Project Maintenance](https://drive.google.com/open?id=0BytjEIvMn7SRM0RVT3Z1NjctQ2s)
 October 28-30 | MozFest | Meet in person at MozFest! \o/
 November 7 | [Open Leadership Outro and Next Steps](https://drive.google.com/open?id=0BytjEIvMn7SRakRpYS1FaVY4RHc) | Celebrate & Debrief

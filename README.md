@@ -1,4 +1,4 @@
-# Mentorship Program
+# Mentorship Program - Fall 2016
 #### August 22 - November 7
 12 week online mentorship program on Working Open for Mozilla community members
 

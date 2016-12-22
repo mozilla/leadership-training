@@ -38,6 +38,8 @@ The mentors are Mozilla staff and community members who have completed Open Lead
 * **Homework**
   * 1-2h / week - complete that week’s assignment from the OLTS
 
+Open Leadership Training requires you to add one meeting a week (from 30 to 90min) to your schedule and complete assignments around your open project. 
+
 ## Schedule
 
 week | Meeting | Modules

@@ -3,12 +3,9 @@
 14 week online mentorship program on Working Open for Mozilla community members
 
 
+####Are you building in the open? Join forces with Mozilla!
 
-Testing the [Open Leadership Training Series](http://mzl.la/open-leadership) + one on one mentorship
-
-
-####This program is designed to connect open leaders and increase collaboration and contributorship on open projects in our network. This will serve as a generalized way to test a shared onboarding experience across our communities, increase collaboration among programs and strengthen bonds within our network.
-
+Open Leadership Training Round 3 starts in March 2017! We’re looking for Open Project Leaders who want to engage more contributors in their work, increase collaboration, and connect with other leaders in the Mozilla Leadership Network. Apply to be an Open Project Lead today!
 
 
 ## Who is this for?
@@ -60,6 +57,9 @@ Week 12 | (2 days) [Global Sprint](https://science.mozilla.org/global-sprint-201
 Week 13 | (1 hour) Full cohort: final demos! (30 min) 1:1 with your mentor: celebrate & debrief.
 Week 14 | (1.5 hours) Full cohort meeting: maintaining + assessing | [Project Maintenance](https://mozilla.github.io/open-leadership-training-series/articles/open-project-maintenance/)
 
+## Previous Rounds
+
+You can read about our [Fall 2016 round here](https://github.com/MozillaFoundation/mentorship-program/tree/2016).
 
 ## Code of Conduct
 

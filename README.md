@@ -1,56 +1,65 @@
-# Mentorship Program
-#### August 22 - November 7
-12 week online mentorship program on Working Open for Mozilla community members
+# Open Leadership Training, Spring 2017
+#### March - June 2017
+14 week online mentorship program on Working Open for Mozilla community members
 
-Testing the [Open Leadership Training Series](https://docs.google.com/document/d/1XCfmtvn6pV9Q20f5brbO6fkm7crfXcEXDF2nRsgo1o0/edit) + one on one mentorship
+
+
+Testing the [Open Leadership Training Series](http://mzl.la/open-leadership) + one on one mentorship
 
 
 ####This program is designed to connect open leaders and increase collaboration and contributorship on open projects in our network. This will serve as a generalized way to test a shared onboarding experience across our communities, increase collaboration among programs and strengthen bonds within our network.
 
+
+
 ## Who is this for?
-Community members starting up or currently leading open projects within any Mozilla program (Science, Learning, Advocacy, IoT, Women & Web Literacy, Participation +more).
 
-**Commitment**: ~3h / week
+Open Leadership Training is for anyone who is currently running or starting an open project and wants to invest in their open leadership skills. Project leads, partners, or small groups of co-leaders responsible for project success and growth.
 
-See the [full list of participants](https://github.com/MozillaFoundation/mentorship-program/blob/master/participants.md) in our Fall 2016 round.
+The project doesn’t have to be technical! It can be curriculum (open educational resource), an open data project or report, an open source software project, or anything else that has:
+
+1. a way for others to get involved
+2. a feature, release, or MVP (minimum viable product) to work on publicly with community members for the duration of the program
+
+**Commitment**: ~3h / week for 14 weeks + available during the Global Sprint 2017 (details TBA)
+
 
 ## What will you learn?
-The [Open Leadership Training Series](https://docs.google.com/document/d/1XCfmtvn6pV9Q20f5brbO6fkm7crfXcEXDF2nRsgo1o0/edit) (OLTS) is designed to teach you best practices in  “working open” -- a way of working in which
-* a community of people collaborate to make or build something amazing,
-* and any product or knowledge that the community of collaborators creates is shared widely and freely with the public on the world wide web.
+The [Open Leadership Training Series](http://mzl.la/open-leadership) (OLTS) is designed to teach you best practices in  “working open” -- a way of working in which
+* everyone is invited to collaborate on something amazing,
+* and any new product or knowledge is shared widely and freely.
 
 The 1:1 mentorship will provide additional support as you apply what you’ve learned to your specific project community.
 
 ## Who are the mentors?
-The mentors are Mozilla staff and community members who have completed Open Leadership training and mentorship in the past. They all have experience running open projects, facilitating events and building communities. They’ve demonstrated an understanding of working openly and collaboratively on projects.
+The mentors are Mozilla staff and community members who have completed Open Leadership Training in the past. They all have experience running open projects, facilitating events and building communities. They’ve demonstrated an understanding of working openly and collaboratively on projects.
 
-See the [list of mentors](https://github.com/MozillaFoundation/mentorship-program/blob/master/mentors.md) for our Fall 2016 round.
-
-## What will it looks like?
-* **Meetings**
-  * 1h / week - office hours run by Mozilla staff with the entire cohort. We’ll introduce the next module and go over any discussion questions from assignments.
-  * 30min / 2 weeks - 1:1 mentorship meetings every two weeks with your mentor. Additional topic experts may join from time to time as needed.
+## What will it look like?
+* **Meetings** (one meeting a week, 30 - 90min)
+  * 1.5h x 5 - office hours run by Mozilla staff with the entire cohort. We’ll introduce the next module and go over any discussion questions from assignments.
+  * 30min every 2 weeks - 1:1 mentorship meetings every two weeks with your mentor. Additional topic experts may join from time to time as needed.
+  * 1h x 3 - demo calls where you'll share your progress with the Mozilla commmunity and ask for help
 * **Homework**
   * 1-2h / week - complete that week’s assignment from the OLTS
 
 ## Schedule
 
-As a cohort, we'll meet every Monday at 12ET. [See the meeting in your TimeZone](http://arewemeetingyet.com/Toronto/2016-08-22/12:00/w/Project%20Mentorship).
-
-week | Module | Mentorship
+week | Meeting | Modules
 --- | --- | ---
-August 22 | [Introduction to Open Leadership](https://drive.google.com/open?id=0BytjEIvMn7SRcWVpcF9SdFB3LTQ) | 12 Week Goal Setting Exercise.
-August 29 | [Opening Your Project](https://drive.google.com/open?id=0BytjEIvMn7SRdmk4N2ViN0M3cEE) - Open Canvas, README
-September 5 | [Opening Your Project](https://drive.google.com/open?id=0BytjEIvMn7SRdmk4N2ViN0M3cEE) - Roadmap, [Building Communities of Contributors](https://drive.google.com/folderview?id=0BytjEIvMn7SRbm1kZXZTWFZFTGs&usp=sharing) - Visualize your Network, Personas & Pathways | Review Goals & Progress. Bring in topic expert if needed
-September 12 | [Building Communities of Contributors](https://drive.google.com/folderview?id=0BytjEIvMn7SRbm1kZXZTWFZFTGs&usp=sharing) - Distributed Leadership, Code of Conduct & Contributor Guidelines
-September 19 | [Get Your Project Online -- Getting Started with GitHub](https://drive.google.com/open?id=0BytjEIvMn7SRNXVUVEFVTnVRZ0k) | Review Goals & Progress. Bring in topic expert if needed
-September 26 | [GitHub for Collaboration](https://drive.google.com/open?id=0BytjEIvMn7SRVzR1bkc5RVZyNnM)
-October 3 | [Open Communications](https://drive.google.com/open?id=0BytjEIvMn7SRWEQxelhLeERYbWs) | Review Goals & Progress. Bring in topic expert if needed
-October 10 | [Running Awesome Community Events](https://drive.google.com/open?id=0BytjEIvMn7SRaldGRUJpTk5TQ1E) - Designing an Open Event, Event Planning & Facilitation
-October 17 | [Running Awesome Community Events](https://drive.google.com/open?id=0BytjEIvMn7SRaldGRUJpTk5TQ1E) - Event Follow-up, Documentation & Reporting | Review Goals & Progress. Bring in topic expert if needed
-October 24 | [Open Project Maintenance](https://drive.google.com/open?id=0BytjEIvMn7SRM0RVT3Z1NjctQ2s)
-October 28-30 | MozFest | Meet in person at MozFest! \o/
-November 7 | [Open Leadership Outro and Next Steps](https://drive.google.com/open?id=0BytjEIvMn7SRakRpYS1FaVY4RHc) | Celebrate & Debrief
+Week 1 | (1.5 hours) Full cohort: Meet everyone! Online real-time training. | [what is open](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/introduction-to-working-open/), [about mozilla](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/getting-to-know-mozilla-and-the-leadership-network/), [project planning basics](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/)
+Week 2 | (1.5 hours) Full cohort: Online real-time training. | [facilitations & leadership, documentation](https://mozilla.github.io/open-leadership-training-series/articles/running-awesome-community-events/)
+Week 3 | (30 min) 1:1 with your mentor: set 12 week goals for your project | your mentor will assign you four [additional modules](http://mzl.la/open-leadership) based on your project and experience.
+Week 4 | (1 hour) Open office hours
+Week 5 | (30 min) 1:1 with your mentor: review goals & progress, bring in topic expert if needed. | additional module A [complete on your own or with your mentor]
+Week 6 | (1 hour) Full cohort: demo your progress & get help
+Week 7 | (30 min) 1:1 with your mentor: review goals & progress, bring in topic expert if needed.  | additional module B [complete on your own or with your mentor]
+Week 8 | (1 hour) Open office hours
+Week 9 | (30 min) 1:1 with your mentor: review goals & progress, bring in topic expert if needed.  | additional module C [complete on your own or with your mentor]
+Week 10 | (1 hour) Full cohort: demo your progress & get help
+Week 11 | (30 min) 1:1 with your mentor: review goals & progress, bring in topic expert if needed.  | additional module D [complete on your own or with your mentor]
+Week 12 | (2 days) [Global Sprint](https://science.mozilla.org/global-sprint-2016) (details TBA) | practical experience engaging a new set of contributors
+Week 13 | (1 hour) Full cohort: final demos! (30 min) 1:1 with your mentor: celebrate & debrief.
+Week 14 | (1.5 hours) Full cohort meeting: maintaining + assessing | [Project Maintenance](https://mozilla.github.io/open-leadership-training-series/articles/open-project-maintenance/)
+
 
 ## Code of Conduct
 

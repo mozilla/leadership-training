@@ -1,6 +1,8 @@
 
 # Mentors
 
+These are the Fall 2016 mentors. Check back soon as we update this to list the 2017 mentors!
+
 ***
 
 #### Abigail Cabunoc Mayes ([@acabunoc](https://github.com/acabunoc))
@@ -293,4 +295,4 @@ Expertise: JS/React, css/html, using git on our projects, battling cross-platfor
 
 I live in Gainesville, FL where I work as a learning strategist for the Mozilla Science Lab. I also ride bikes, write and draw comics, drink tea, and do everything in my power to keep my houseplants alive.
 
-Expertise: Strategy and design for learning experiences; content development and curriculum creation; design of interactive technologies and experiences for museums and cultural centeres. 
+Expertise: Strategy and design for learning experiences; content development and curriculum creation; design of interactive technologies and experiences for museums and cultural centeres.

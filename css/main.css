@@ -23,6 +23,8 @@
 
 h2 {
   margin: 1rem 0;
+  font-family: Arvo,sans-serif;
+  color:black;
 }
 
 ol.toc {
@@ -30,11 +32,11 @@ ol.toc {
 }
 
 h3 {
-  color: #4383bf;
   font-weight: 200;
   margin-top: 3rem;
   margin-bottom: 2rem;
   font-size: 2rem;
+  font-family: Arvo,sans-serif;
 }
 
 h5 {
@@ -50,11 +52,11 @@ h5 {
 }
 
 a, a:link {
-  color:#299b7d;
+  color:#3bb7ef;
 }
 
 a:hover {
-  color:#299b7d;
+  color:#014c8c;
   text-decoration: underline;
 }
 
@@ -198,7 +200,7 @@ html.no-js .sidebar .collapsible-content {
 .sidebar-header {
   position: relative;
   font-size: 1rem;
-  padding: 1rem 0;
+  padding: 1rem 1em;
   overflow: hidden;
 }
 
@@ -208,10 +210,18 @@ html.no-js .sidebar .collapsible-content {
 }
 
 .sidebar-header .moz-logo {
-  width: 100%;
+  /*width: 100%;*/
   /*max-width: 100px;*/
-  padding:0 1em;
-  max-width: 150px;
+  /*max-width: 150px;*/
+  width:100px;
+}
+
+.sidebar-header span {
+  padding: 0.3em 0;
+  font-family: Arvo,sans-serif;
+  background-color: #FABA00;
+  font-weight:700;
+  line-height: 1.9;
 }
 
 .sidebar-header .glyphicon-menu-hamburger {
@@ -258,7 +268,7 @@ html.no-js .sidebar .collapsible-content {
 
 .sidebar-menu > li > a:hover,
 .sidebar-menu > li > a:focus {
-  background-color: #82D1F5;
+  background-color: #3bb7ef;
   color:black;
   transition: background-color 3ms;
 }
@@ -453,23 +463,23 @@ td, th {
 }
 
 a.btn {
-  border: none;
-  background: #4383bf;
-  border-bottom: solid 2px #3875a8;
-  color: #fff;
+  border: 1px solid #3bb7ef;
+  color: #000;
   transition: background 0.2s ease-in-out;
   border-radius: 2px;
   white-space:normal;
   text-decoration: none;
-  padding: 0.85rem 4rem 0.7rem 4rem;
+  padding: 0.5rem 1rem;
   margin-top: 1rem;
   line-height: 2rem;
+  font-weight: 600;
+  text-transform: uppercase;
 }
 
 a.btn:hover {
   opacity: 1;
-  background: #2f6896;
-  color: #fff;
+  background: #3bb7ef;
+  color: #000;
 }
 
 /* PASSING */

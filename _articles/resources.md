@@ -2,7 +2,7 @@
 layout: page
 title: "Resources"
 date: 2016-10-06 14:05:56
-following: _articles/past-rounds.md
+following: _articles/mentors.md
 ---
 
 ### Curriculum

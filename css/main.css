@@ -14,7 +14,7 @@
 }
 
 .home-card {
-  padding:1em 0;
+  padding:1.5em 0.5em;
   margin-bottom:2em;
   box-shadow:0 0 .625em .3125em rgba(0,0,0,.08)
 }
@@ -44,8 +44,11 @@
 
 .intro {
   letter-spacing: 0rem;
-  text-align: center;
   margin:0.5em 0 2em;
+}
+
+.home-page .intro {
+  text-align: center;
 }
 
 .lesson-content .intro p {

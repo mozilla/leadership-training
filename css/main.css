@@ -1,3 +1,24 @@
+.hero-unit-trio h1 {
+  font-family: Arvo,sans-serif;
+  font-size: 1.9rem;
+  color:#000;
+}
+
+.highlight {
+  padding: 0.3em 0;
+  font-family: Arvo,sans-serif;
+  background-color: #FABA00;
+  font-weight:700;
+  line-height: 1.9;
+  color:#000;
+}
+
+.home-card {
+  padding:1em 0;
+  margin-bottom:1em;
+  box-shadow:0 0 .625em .3125em rgba(0,0,0,.08)
+}
+
 .hero-unit {
   background-color: #82D1F5;
   text-align: center;
@@ -21,6 +42,17 @@
   color: black;
 }
 
+.intro {
+  letter-spacing: 0rem;
+  text-align: center;
+  margin:0.5em 0 2em;
+}
+
+.lesson-content .intro p {
+  font-size: 1.3rem;
+  line-height: 2rem;
+}
+
 h2 {
   margin: 1rem 0;
   font-family: Arvo,sans-serif;
@@ -37,6 +69,7 @@ h3 {
   margin-bottom: 2rem;
   font-size: 2rem;
   font-family: Arvo,sans-serif;
+  color: #E0A800;
 }
 
 h5 {
@@ -161,7 +194,8 @@ html.no-js .sidebar .collapsible-content {
   color: #000;
   font-size: 1rem;
   padding: 0;
-  box-shadow: 0 5px 5px rgba(0,0,0,.2);
+  border-right: 1px solid #cfcfcf;
+  /*box-shadow: 0 5px 5px rgba(0,0,0,.5);*/
 }
 
 .sidebar a {
@@ -210,9 +244,6 @@ html.no-js .sidebar .collapsible-content {
 }
 
 .sidebar-header .moz-logo {
-  /*width: 100%;*/
-  /*max-width: 100px;*/
-  /*max-width: 150px;*/
   width:100px;
 }
 
@@ -463,10 +494,9 @@ td, th {
 }
 
 a.btn {
-  border: 1px solid #3bb7ef;
+  border: 2px solid #3bb7ef;
   color: #000;
   transition: background 0.2s ease-in-out;
-  border-radius: 2px;
   white-space:normal;
   text-decoration: none;
   padding: 0.5rem 1rem;
@@ -540,7 +570,7 @@ a.btn:hover {
 }
 
 .mofooter {
-  background: #4d4f53;
+  background: #000;
   color: #fff;
   text-align: center;
   padding: 2.8125rem 0.625rem;
@@ -694,7 +724,7 @@ hr {
 .help-us {
   margin-top: 2.5rem;
   padding-top: 1rem;
-  border-top: solid 1px #ddd;
+  border-top: solid 1px #cfcfcf;
 }
 
 .anchorjs-link {

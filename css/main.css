@@ -1,4 +1,4 @@
-.hero-unit-trio h1 {
+.home-card h1 {
   font-family: Arvo,sans-serif;
   font-size: 1.9rem;
   color:#000;
@@ -15,7 +15,7 @@
 
 .home-card {
   padding:1em 0;
-  margin-bottom:1em;
+  margin-bottom:2em;
   box-shadow:0 0 .625em .3125em rgba(0,0,0,.08)
 }
 
@@ -426,8 +426,8 @@ html.no-js .sidebar .collapsible-content {
 
 .sidebar footer {
   padding: 20px;
-  color: rgba(255,255,255,.5);
-  margin: 2rem 0;
+  color:rgba(0,0,0,0.8);
+  border-top:1px solid #cfcfcf;
 }
 
 #content {

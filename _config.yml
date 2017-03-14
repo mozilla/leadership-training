@@ -17,7 +17,7 @@ github:
 collections:
   articles:
     output: true
-permalink: /awesome/:name/
+    permalink: /:path/
 
 # Build settings
 markdown: kramdown

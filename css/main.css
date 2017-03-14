@@ -456,8 +456,13 @@ blockquote {
   margin-bottom: 2rem;
   line-height: 2.2rem;
   font-size: 1.25rem;
-  border-left: 2px solid rgba(67, 131, 191, 0.3);
-  color: #4383bf;
+  border-left: 2px solid rgba(0, 0, 0, 0.3);
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.lesson-content blockquote p {
+  font-size: 1.25rem;
+  color: rgba(0, 0, 0, 0.5);
 }
 
 body ul, body ol {

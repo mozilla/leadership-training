@@ -7,3 +7,4 @@ contents:
   - _articles/past-rounds/round-1.md
 ---
 
+Take a look at the past round of Open Leadership Training.

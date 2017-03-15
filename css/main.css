@@ -7,7 +7,7 @@
 .highlight {
   padding: 0.3em 0;
   font-family: Arvo,sans-serif;
-  background-color: #FABA00;
+  background-color: #FA8CFF;
   font-weight:700;
   line-height: 1.9;
   color:#000;
@@ -20,7 +20,7 @@
 }
 
 .hero-unit {
-  background-color: #82D1F5;
+  background-color: #00FFFF;
   text-align: center;
   padding: 4em 1em 3em;
 }
@@ -72,7 +72,7 @@ h3 {
   margin-bottom: 2rem;
   font-size: 2rem;
   font-family: Arvo,sans-serif;
-  color: #E0A800;
+  color: #A95FAD;
 }
 
 h5 {
@@ -253,7 +253,7 @@ html.no-js .sidebar .collapsible-content {
 .sidebar-header span {
   padding: 0.3em 0;
   font-family: Arvo,sans-serif;
-  background-color: #FABA00;
+  background-color: #FA8CFF;
   font-weight:700;
   line-height: 1.9;
 }
@@ -302,7 +302,7 @@ html.no-js .sidebar .collapsible-content {
 
 .sidebar-menu > li > a:hover,
 .sidebar-menu > li > a:focus {
-  background-color: #3bb7ef;
+  background-color: #66FFFF;
   color:black;
   transition: background-color 3ms;
 }
@@ -313,7 +313,7 @@ html.no-js .sidebar .collapsible-content {
 }
 
 .sidebar-menu li.selected {
-  background-color: #82D1F5;
+  background-color: #A6FFFF;
 }
 
 .sidebar-menu strong {
@@ -518,7 +518,8 @@ a.btn {
 
 a.btn:hover {
   opacity: 1;
-  background: #3bb7ef;
+  background: #00FFFF;
+  border-color: #00FFFF;
   color: #000;
 }
 

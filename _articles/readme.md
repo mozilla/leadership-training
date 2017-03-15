@@ -3,6 +3,7 @@ layout: page
 title: "README"
 following: _articles/schedule.md
 ---
+![](/leadership-training/img/Working-open.jpg)
 
 ### Open Leadership Training
 
@@ -14,6 +15,7 @@ Open Leadership Training Round 3 starts in March 2017! We’re looking for Open 
 
 
 <div class="home-card"><center><b>Applications are closed for Open Leadership Training Round 3</b></center></div>
+
 
 An Open Project Lead is a Mozilla community member who is running or starting an open project. Over the course of the program, they will:
 

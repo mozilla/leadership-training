@@ -2,7 +2,7 @@
 layout: page
 title: "Mentors"
 date: 2016-10-06 14:05:56
-following: _articles/past-rounds.md
+following: _articles/projects.md
 ---
 
 ### Mentors for Round 3
@@ -175,3 +175,9 @@ Program Manager, Open Web Fellows
 I live in Nairobi, Kenya but occasionally spend my time in Kisumu in Kenya as well. I am currently pursuing a Master of Science on Occupational Health and Safety. I am a Public health and Technology enthusiast. I describe myself as a budding researcher and scientist. I am also a feminist:-)
 
 *Area(s) of Expertise*:
+
+#### Zannah Marsh ([@zee-moz](http://github.com/zee-moz))
+
+I live in Gainesville, FL where I work as a learning strategist for the Mozilla Science Lab. I also ride bikes, write and draw comics, drink tea, and do everything in my power to keep my houseplants alive.
+
+*Area(s) of Expertise*: Strategy and design for learning experiences; content development and curriculum creation.

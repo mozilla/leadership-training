@@ -3,11 +3,12 @@ layout: page
 title: "README"
 following: _articles/schedule.md
 ---
-![](/leadership-training/img/Working-open.jpg)
 
 ### Open Leadership Training
 
 >*Open Leadership Training is a 14 week online mentorship program on Working Open in the Mozilla Network*
+
+![](/leadership-training/img/Quote-card.jpg)
 
 #### Are you building in the open? Join forces with Mozilla!
 

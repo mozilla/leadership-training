@@ -12,7 +12,7 @@ following: _articles/projects.md
 
 code, science, open source and prototyping @mozilla (web + science = ) alum:@MozillaScience @OICR_news @wormbase @uwaterloo
 
-*Area(s) of Expertise*:
+*Area(s) of Expertise*: open source, bioinformatics, javascript, perl
 
 #### Achintya Rao ([@RaoOfPhysics](https://github.com/RaoOfPhysics))
 Science communicator at CERN and PhD student in scicomm at UWE Bristol. Interested in open practices across all stages of research.

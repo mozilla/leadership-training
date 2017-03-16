@@ -14,6 +14,10 @@ code, science, open source and prototyping @mozilla (web + science = ) alum:@Moz
 
 *Area(s) of Expertise*:
 
+#### Achintya Rao ([@RaoOfPhysics](https://github.com/RaoOfPhysics))
+Science communicator at CERN and PhD student in scicomm at UWE Bristol. Interested in open practices across all stages of research.
+*Area(s) of Expertise*: Science communication
+
 #### Akshay Roongta ([@clownbigmole](https://github.com/clownbigmole))
 
 I am a design researcher, and have worked in the areas of renewable energy, sanitation and hygiene amongst others. One of my most challenging and rewarding projects was working as a designer and interim project manager for the multi-stakeholder Bill & Melinda Gates Project — Project Sammaan — on sanitation, during my time at Quicksand Design Studio. I also co-founded amrutdhara, a social enterprise in the urban drinking water space. I am currently working on systems for involving grassroots workers in development planning using ICT and researching how organisations working in development planning build and share knowledge. I'm also very interested in big data, privacy and what the future holds for us with hyper-connectivity.
@@ -108,12 +112,6 @@ I'm the Portfolio Manager for Mozilla's Gigabit Community Fund in Chattanooga, T
 Mozilla fellow for science and Turing Institute research fellow studying adolescent brain development. Passionate advocate for reproducible research and improving diversity in STEMM fields. In her spare time she hangs out with her dog in the Lake District.
 
 *Area(s) of Expertise*: graph theory; neuroscience; reporting reproducible analyses; simple web development; hand holding through new and uncharted (by the mentee) waters
-
-#### Liza Durón ([@elidron](https://github.com/elidron))
-
-Netonographer for Women empowerment social investigations, Regional Director for We Heart It and big data lover. creating a better and safe web for everyone.
-
-*Area(s) of Expertise*: Investigation, Strategy, human interaction, ux/ui, marketing, communication, web literacy,  community development, civic tech, design, education programs.
 
 #### Maryann Wangari ([@maryannkareh](https://twitter.com/maryannkareh))
 

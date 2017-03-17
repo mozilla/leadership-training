@@ -5,7 +5,7 @@ date: 2016-10-06 14:05:56
 following: _articles/past-rounds.md
 ---
 
-### List of Accepted Projects
+### List of Participating Projects
 
 
 #### Aerogami: learning how things fly with paper planes and internet

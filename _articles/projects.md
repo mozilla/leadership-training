@@ -42,8 +42,7 @@ A key management tool and Public Key Infrastructure based on cross-referenced bl
 #### Connect Chicago Innovation Grant Program
 *Denise Linn ([@DKLinn](https://twitter.com/DKLinn))*
 
-Connect Chicago is a cross-sector civic leadership initiative to make Chicago the most digitally skilled, connected, and dynamic city in America. The Connect Chicago Innovation Grant Program, a component of Connect Chicago to be launched in 2017, will spur new interventions to improve Internet access and digital skills in Chicago. Three values will be built into the Connect Chicago Innovation Grant Program: innovation, equity, and openness.
-
+Connect Chicago is a cross-sector civic leadership initiative to make Chicago the most digitally skilled, connected, and dynamic city in America. The soon to be launched Connect Chicago Innovation Program will spur new interventions to improve Internet access and digital skills in Chicago. Three values will be built into the Connect Chicago Innovation Grant Program: innovation, equity, and openness.
 
 #### Digital Windows
 *Ashlanett Sanders ([@ashlanett](https://twitter.com/ashlanett))*

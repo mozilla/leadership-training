@@ -7,6 +7,10 @@ following: _articles/past-rounds.md
 
 ### List of Participating Projects
 
+#### AcademicGlassCeiling
+*Kelly Clancy ([@kellybclancy](https://twitter.com/kellybclancy)) & Raquel Martins*
+
+The female (cis/female-identifying/gender non-conforming) population is grossly underrepresented among the upper echelons of academia. This platform will be a space to share their experiences and build safer, more inclusive campuses for academics and students alike. We envision users will use this platform to share workplace reviews across categories ranging from compensation to parenting support to mentorship. We hope to help users to develop robust mentoring and support networks, and empower them with the information they need to break through the glass ceiling.
 
 #### Aerogami: learning how things fly with paper planes and internet
 *Kshitiz Khanal ([@kshitizkhanal7](https://github.com/kshitizkhanal7))*
@@ -55,11 +59,6 @@ Digital Windows is a platform for live streaming real-world activity that studen
 Drawing Board is conceived as a resource that will hopefully lead to more nuanced conversations about education, an audience that is engaged in education policy, and pithy pieces that are cool and shareable.
 
 We intend to enrich the stories we shall tell using text, data visualisation, and audio clips.
-
-#### Echo
-*Kelly Clancy ([@kellybclancy](https://twitter.com/kellybclancy)) & Raquel Martins*
-
-Echo is an anonymous online reporting tool to aggregate allegations of sexual misconduct in academia and serve as a signal boost to rapidly identify threats. This would be a space for users to anonymously report their experiences, shielding them from accusations of slander or retaliation. This project is inspired by cases like that of Geoff Marcy, Jacob Appelbaum, and others. Echo is a space for independently collecting data on different employers to hold them more accountable.
 
 #### Facilitating teen-driven inquiry and working in the open (draft title)
 *David Bild ([@dbild](https://github.com/dbild))*

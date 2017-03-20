@@ -175,7 +175,7 @@ https://wiki.mozilla.org/Kerala/Mozilla2School
 In Open Derby, a small group of graduates and post-docs collaborate to analyze open data with R, Git and R-markdown, and write a manuscript for submission to an open-access academic journal. The project promotes uptake of open science by teaching open science tools on-the-fly, providing a framework for other research groups to follow, and producing a fully-reproducible academic paper.
 
 #### Open Funders
-*Leslie L. Cheung* ([@@lesliePhD](https://twitter.com/@lesliePhD))
+*Leslie L. Cheung* ([@lesliePhD](https://twitter.com/lesliePhD))
 
 The goal is to consolidate and publish funder data online (private, public, charitable foundations etc.) in a centralized location. The information would include who, where, when, what, and how much they have previously funded in order for reliable searches to be conducted by others who seek information.
 

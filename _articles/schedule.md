@@ -45,7 +45,7 @@ June 1/2 | (2 days) [Global Sprint](https://science.mozilla.org/programs/events/
 
 
 ### WOW Cohort
-All the demo calls will be happening together with the Online Cohort.
+This Cohort is run in partnership with [Mozilla Science](http://science.mozilla.org/), featuring only Science projects. All the demo calls will be happening together with the Online Cohort.
 
 Date | Events
 --- | ---

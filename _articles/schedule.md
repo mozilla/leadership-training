@@ -35,6 +35,6 @@ week | Meeting | Modules
 **Week 10**:<br /> May 23/24 | (1 hour) Full cohort: demo your progress & get help
 **Week 11**:<br /> May 30/31 | (30 min) 1:1 with your mentor: review goals & progress, bring in topic expert if needed.  | additional module D [complete on your own or with your mentor]
 June 1/2 | (2 days) [Global Sprint](https://science.mozilla.org/programs/events/global-sprint-2017) (June 1-2) | practical experience engaging a new set of contributors
-**Week 12**:<br /> May 6/7 | (1 hour) Full cohort: final demos!
-**Week 13**:<br /> May 13/14 | (30 min) 1:1 with your mentor: celebrate & debrief.
-**Week 14**:<br /> May 20/21 | (1.5 hours) Full cohort meeting: maintaining + assessing | [Project Maintenance](https://mozilla.github.io/open-leadership-training-series/articles/open-project-maintenance/)
+**Week 12**:<br /> June 6/7 | (1 hour) Full cohort: final demos!
+**Week 13**:<br /> June 13/14 | (30 min) 1:1 with your mentor: celebrate & debrief.
+**Week 14**:<br /> June 20/21 | (1.5 hours) Full cohort meeting: maintaining + assessing | [Project Maintenance](https://mozilla.github.io/open-leadership-training-series/articles/open-project-maintenance/)

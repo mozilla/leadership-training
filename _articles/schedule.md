@@ -32,14 +32,14 @@ Week | Meeting | Modules
 **Week 3**:<br /> April 4/5 | (30 min) 1:1 with your mentor: set 12 week goals for your project | your mentor will assign you four [additional modules](http://mzl.la/open-leadership) based on your project and experience.
 **Week 4**:<br /> April 11/12 | (1 hour) Open office hours
 **Week 5**:<br /> April 18/19 | (30 min) 1:1 with your mentor: review goals & progress, bring in topic expert if needed. | additional module A [complete on your own or with your mentor]
-**Week 6**:<br /> April 25/26 | (1 hour) Full cohort: demo your progress & get help
+**Week 6**:<br /> April 25/26 | (1 hour) Full cohort: demo your progress & get help | *[together with WOW cohort]*
 **Week 7**:<br /> May 2/3 | (30 min) 1:1 with your mentor: review goals & progress, bring in topic expert if needed.  | additional module B [complete on your own or with your mentor]
 **Week 8**:<br /> May 9/10 | (1 hour) Open office hours
 **Week 9**:<br /> May 16/17 | (30 min) 1:1 with your mentor: review goals & progress, bring in topic expert if needed.  | additional module C [complete on your own or with your mentor]
-**Week 10**:<br /> May 23/24 | (1 hour) Full cohort: demo your progress & get help
+**Week 10**:<br /> May 23/24 | (1 hour) Full cohort: demo your progress & get help | *[together with WOW cohort]*
 **Week 11**:<br /> May 30/31 | (30 min) 1:1 with your mentor: review goals & progress, bring in topic expert if needed.  | additional module D [complete on your own or with your mentor]
 June 1/2 | (2 days) [Global Sprint](https://science.mozilla.org/programs/events/global-sprint-2017) | practical experience engaging a new set of contributors
-**Week 12**:<br /> June 6/7 | (1 hour) Full cohort: final demos!
+**Week 12**:<br /> June 6/7 | (1 hour) Full cohort: final demos! | *[together with WOW cohort]*
 **Week 13**:<br /> June 13/14 | (30 min) 1:1 with your mentor: celebrate & debrief.
 **Week 14**:<br /> June 20/21 | (1.5 hours) Full cohort meeting: maintaining + assessing | [Project Maintenance](https://mozilla.github.io/open-leadership-training-series/articles/open-project-maintenance/)
 
@@ -51,9 +51,9 @@ Date | Events
 --- | ---
 March 10-11 | (2 days) Working Open Workshop in Montreal, Canada
 mid-March - mid-June | (30 min) ongoing 1:1 mentorship meetings every two weeks with your personal mentor
-April 25/26 | (1 hour, together with online cohort) demo your progress & get help
-May 23/24 | (1 hour, together with online cohort) demo your progress & get help
+April 25/26 | (1 hour) demo your progress & get help *[together with online cohort]*
+May 23/24 | (1 hour) demo your progress & get help *[together with online cohort]*
 June 1-2 | (2 days) [Global Sprint](https://science.mozilla.org/programs/events/global-sprint-2017)
-June 6/7 | (1 hour, together with online cohort) demo your progress & get help
+June 6/7 | (1 hour) demo your progress & get help *[together with online cohort]*
 
 

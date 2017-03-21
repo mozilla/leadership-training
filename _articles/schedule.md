@@ -50,7 +50,7 @@ This Cohort is run in partnership with [Mozilla Science](http://science.mozilla.
 Date | Events
 --- | ---
 March 10-11 | (2 days) Working Open Workshop in Montreal, Canada
-mid-March - mid-June | (30 min) ongoing 1:1 mentorship meetings every two weeks with your personal mentor
+mid-March - mid-June | (30 min x 7) ongoing 1:1 mentorship meetings every two weeks with your personal mentor
 April 25/26 | (1 hour) demo your progress & get help *[together with online cohort]*
 May 23/24 | (1 hour) demo your progress & get help *[together with online cohort]*
 June 1-2 | (2 days) [Global Sprint](https://science.mozilla.org/programs/events/global-sprint-2017)

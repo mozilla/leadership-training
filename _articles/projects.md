@@ -221,3 +221,84 @@ First we will test the survey in our home institutions, but our goal is to distr
 *Riccardo Iaconelli ([@ruphy](https://github.com/ruphy))*
 
 WikiToLearn is an open source project, which wants to provide free and collaborative textbooks with the help of the world of University and Academia. There are many ways to get involved: you can write code, you can organize events, you can write OER, you can help newcomers or do promotional work.
+
+
+### WOW Cohort Projects
+
+
+#### Colper Science - Spile
+*Kambiz Chizari ([@ilyasst](https://github.com/ilyasst))*
+
+We are developing a novel open access publishing system, free for the authors and the users, with the goal of accelerating the progress in science. This system provides an interactive platform for an open/collaborative peer reviewing in order to improve the quality and reproducibility of published data, and to facilitate scientific exchange between researchers. We believe Colper Science can advance the present publishing system towards a more efficient and open system.
+
+
+#### DIY science network
+*Lucy Patterson ([@lu_cyp](https://twitter.com/lu_cyp))*
+
+Building a network of grassroots community-led, often volunteer-run citizen science/DIY science projects. The idea is to map and network our diverse communities, support each other through collaboration, sharing of tips, experience and information about funding opportunities, to help build a bridge towards funding organisations and policy-makers, and to support constructive collaboration with different partners.
+
+#### Echoburst (placeholder name)
+*Tyler Kolody ([@TyJK](https://github.com/TyJK))*
+
+A browser extension that utilizes sentiment analysis to find and highlight constructive comments on various social media platforms that oppose the users worldview, in order to encourage them to break out of the echo chambers the internet has allowed us to construct. Though the mechanism hasn't been established yet, we would also like to add an element of gamification to encourage people to overcome the natural tendency to not properly consider even well crafted positions that they disagree with.
+
+#### EEG 101
+*Dano Morrison ([@jdpigeon](https://github.com/jdpigeon))*
+
+An interactive tutorial teaching EEG basics with the Muse headband (Android app)
+
+#### Embryo Developmental Atlas
+*Paul Villoutreix ([@paulvill](https://github.com/paulvill))*
+
+Develop an interactive web based interface for the visualization of multimodal and multichannel data-driven visualizations of early embryogenesis in model embryogenesis. We rely on a data fusion algorithm that we have developed to generate integrative representations from heterogeneous datasets.
+
+#### GIBBON: The Geometry and Image-Based Bioengineering add-On
+*Kevin Mattheus Moerman ([@Kevin-Mattheus-Moerman](https://github.com/Kevin-Mattheus-Moerman))*
+
+GIBBON (http://www.gibboncode.org) is an open-source toolbox and includes image segmentation, computer aided design, surface and solid meshing tools, and is interfaced with free open source software such as TetGen, for robust tetrahedral meshing, and FEBio for finite element analysis. The combination provides a highly flexible image-based modeling environment and enables advanced computational modeling and computational design.
+
+#### NeurotechEDU
+*Sydney Swaine-Simon ([@syswsi](https://github.com/syswsi))*
+
+The core mission of NeuroTechEDU is to provide key resources and learning opportunities that are accessible to everyone. We believe that neurotechnology is key to better understanding and to improving who we are, and that everyone should be able to participate
+
+#### nteract
+*Lukas Geiger ([@lgeiger](https://github.com/lgeiger))*
+
+nteract is an ecosystem of open-source, desktop-based, interactive computing tools.
+The nteract notebook (https://nteract.io/), allows individuals to create documents that contain executable code, rich text, and images to convey a computational narrative compatible.
+Furthermore the nteract community develops Hydrogen (https://github.com/nteract/hydrogen), an open source package for the Atom text editor that allows users to run code with an interactive REPL session with your language of choice.
+
+#### Open the North
+*Monica Granados  ([@Monsauce](https://github.com/Monsauce))*
+
+If you unfold a map of the Province of Ontario and follow the highway northbound you would find that it abruptly ends. Yet, beyond that road lie thousands of people disconnected from scientific resources in the south. Open the North aims to connect indigenous communities in the Far North with scientific data relevant to the interests of their community, provide a portal for these communities to participate in open science and a medium to share traditional knowledge and local scientific data.
+
+#### Reproducible Research in Ocean Biosciences and Open-science Training
+*Hao Ye ([@ha0ye](https://github.com/ha0ye))*
+
+This seminar course is aimed at graduate students who have completed introductory classes in statistics and programming and are thinking about data analyses for their thesis projects. The goal is for students to develop technical skills (e.g. literate programming, version control), while also reproducing statistical analyses from the literature to gain first-hand experience with the data analysis workflow for scientific research.
+
+#### ResBaz
+*Julian Pistorius ([@julianpistorius](https://github.com/julianpistorius))*
+
+The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research.
+
+Includes weekly events - Hacky Hour, PhTea, Shut Up & Write, Software Carpentry-style workshops, and community building.
+
+We are the second ResBaz chapter in the USA.
+
+#### Semantic Modeling of Researcher Networks: Applying Linked Open Data for Discovery
+*Jason A. Clark ([@jasonclark](https://github.com/jasonclark))*
+
+I have built prototype software that allows one to visualize research and networks of expertise based on researcher interests and research collaborations. I have secured a partnership with the Montana State University (MSU) - Center For Biofilm Engineering (CBE) to describe Bioscience data for the next stage of the project. This work applies a novel methodology for describing researcher's networks and areas of expertise through the application of linked open data (LOD).
+
+#### The Method: a podcast
+*April Clyburne-Sherin ([@aprilcs](https://github.com/aprilcs))*
+
+A peer-reviewed, open source podcast about the state of science
+
+#### The Open Neuroimaging Masters
+*Grant R. Vousden-Dishington ([@GrantRVD](https://github.com/GrantRVD))*
+
+Inspired by The Open Data Science Masters project (datasciencemasters.org) by Clare Corthell, the goal is to assemble a syllabus of predominantly digital resources available to anyone who wants to learn how to do neuroimaging. To succeed, the project will need to create a webpage with enough links to free and low-cost materials in neuroscience and data-analysis to enable everyone with an undergraduate degree, regardless of field, to make progress toward understanding principles of neuroimaging.

@@ -181,3 +181,53 @@ I live in Nairobi, Kenya but occasionally spend my time in Kisumu in Kenya as we
 I live in Gainesville, FL where I work as a learning strategist for the Mozilla Science Lab. I also ride bikes, write and draw comics, drink tea, and do everything in my power to keep my houseplants alive.
 
 *Area(s) of Expertise*: Strategy and design for learning experiences; content development and curriculum creation.
+
+### WOW Cohort Mentors
+
+#### Alissa Nedossekina ([@snowwitje](https://github.com/snowwitje))
+
+Alissa Nedossekina is a User Experience Architect at Purdue University, West Lafayette, IN USA. Since 2006 Alissa has been a senior web developer of HUBzero project - a popular open source platform for scientific collaboration developed at Purdue. She now drives UX for the new HUBzero-based medical device informatics platform, contributing expertise in user-centered design and a passion for transforming overwhelming complexity into clarity.
+
+*Area(s) of Expertise*:
+
+#### Bastian Greshake ([@gedankenstuecke](https://github.com/gedankenstuecke))
+
+PhD student in applied bioinformatics & co-founder of openSNP.org
+
+*Area(s) of Expertise*: a little bit of everything (does that even qualify as expertise?)
+
+#### Bruno Vieira ([@bmpvieira](https://github.com/bmpvieira))
+
+PhD Student at WurmLab (QMUL) and Mozilla Science Lab Fellow. Founder of Bionode.io
+
+*Area(s) of Expertise*: Bioinformatics, Genomics, Node.JS, JavaScript
+
+#### Danielle Robinson ([@daniellecrobinson](https://github.com/daniellecrobinson))
+
+I see you got it from twitter #partymom
+
+*Area(s) of Expertise*: Community organizing, science policy, open data
+
+#### Madeleine Bonsma ([@mbonsma](https://github.com/mbonsma))
+
+PhD student in physics @ University of Toronto studying CRISPR systems, UofT Scientific Coders president :)
+
+*Area(s) of Expertise*: study groups, Git/GitHub, Python, open projects, leadership
+
+#### Peter Grabitz ([@petergrabitz](https://github.com/petergrabitz))
+
+Medical student from Berlin. Former Associate Technical Officer @WHOatEU. Access to knowledge
+
+*Area(s) of Expertise*: Access to medicines/ Open (health) data
+
+#### Teon Brooks ([@teonbrooks](https://github.com/teonbrooks))
+
+cognitive [neuro]scientist. Out. @MozillaScience Fellow. Former @NSFGRFP @ChateaubriandUS Fellow. @MNE_news, @NeuroTechX. #OpenScience #OpenSource #BlackandSTEM
+
+*Area(s) of Expertise*:
+
+#### Tim Head ([@betatim](https://github.com/betatim))
+
+Sceintific brain for hire. Used to work at CERN, now a data science consultant and open-sourcer
+
+*Area(s) of Expertise*: thinking with data, scientific thinking for problem solving (keep breaking your problem down till you can start solving something), all sorts of programming, AI,

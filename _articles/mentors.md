@@ -89,17 +89,17 @@ Student at Lancaster University studying Natural Sciences specializing in Maths 
 
 *Area(s) of Expertise*: Well science wise Physics and Mathematics, I also work on organising events and how to approach starting things like charity campaigns or schemes.
 
-#### Jon Tennant ([@Protohedgehog](https://github.com/Protohedgehog))
-
-Doctor of dinosaurs, Open Science wonk thingy, freelance science writer and conslutant, ScienceOpen Communications Director, PLOS Paleo Community Editor.
-
-*Area(s) of Expertise*: Dinosaurs.
-
 #### James Akin (Joe) ([@j-joe-akin](https://github.com/j-joe-akin))
 
 I work in the Boston area in the United States. With over 10 years of diverse wet lab/bench research experience, I have co-founded an open science startup where we are developing a tool to assist researchers in determining the reproducibility of an experiment, called ReFigure.
 
 *Area(s) of Expertise*:
+
+#### Jon Tennant ([@Protohedgehog](https://github.com/Protohedgehog))
+
+Doctor of dinosaurs, Open Science wonk thingy, freelance science writer and conslutant, ScienceOpen Communications Director, PLOS Paleo Community Editor.
+
+*Area(s) of Expertise*: Dinosaurs.
 
 #### Julia Vallera ([@jvallera](https://github.com/jvallera))
 

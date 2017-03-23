@@ -95,6 +95,12 @@ Doctor of dinosaurs, Open Science wonk thingy, freelance science writer and cons
 
 *Area(s) of Expertise*: Dinosaurs.
 
+#### James Akin (Joe) ([@j-joe-akin](https://github.com/j-joe-akin))
+
+I work in the Boston area in the United States. With over 10 years of diverse wet lab/bench research experience, I have co-founded an open science startup where we are developing a tool to assist researchers in determining the reproducibility of an experiment, called ReFigure.
+
+*Area(s) of Expertise*:
+
 #### Julia Vallera ([@jvallera](https://github.com/jvallera))
 
 My name is Julia (@colorwheelz). I've been working in the arts as an educator, printmaker, public engagement artist, illustrator, consultant and designer for 17 years. I am a technology enthusiast, avid cyclist, animal lover and have a passion for collaborative projects. I manage the Mozilla Clubs program at the Mozilla Foundation, which is a global network of community members that share Mozilla’s mission to ensure the Internet is a global public resource, open and accessible to all.

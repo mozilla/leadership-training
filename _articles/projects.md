@@ -138,16 +138,6 @@ Deliver series of videos about web literacy in local language to each schools so
 
 Collaborative writing of an exhaustive localization manual to be used as a reference by new volunteer translators of the Italian community.
 
-#### Melissa
-*Tanay Pant ([@tanay1337](https://github.com/tanay1337))*
-
-Melissa is a cross-platform voice controlled virtual assistant that is built primarily for the IoT to make them smarter (https://github.com/Melissa-AI).
-
-#### Mobile Map IO
-*Andrew Nelson ([@werdnanoslen](https://github.com/werdnanoslen))*
-
-A boilerplate mobile hybrid app for input/output with maps.
-
 #### Mozilla Campus Clubs
 *Srushtika Neelakantam ([@Srushtika](https://github.com/Srushtika))*
 

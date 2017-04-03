@@ -40,7 +40,7 @@ There are three main goals of these mentorship meetings. You'll see these reflec
 
 #### First Meeting
 
-AGENDA (see [full agenda in the template](https://public.etherpad-mozilla.org/p/project-mentorship-template)):
+AGENDA (see [full agenda in the template](https://public.etherpad-mozilla.org/p/project-mentorship-template-first-meeting)):
 * Review project lead needs/expectations (Goal setting exercise)
 * Check logistics for future meetings (times, people to include)
 * Reminder to join chat
@@ -80,7 +80,8 @@ Celebration, Debrief & Review
 
 ### Templates
 
-* [Meeting etherpad template (first week)](https://public.etherpad-mozilla.org/p/project-mentorship-template)
+* [Meeting etherpad template (first meeting)](https://public.etherpad-mozilla.org/p/project-mentorship-template-first-meeting)
+* [Meeting etherpad template](https://public.etherpad-mozilla.org/p/project-mentorship-template)
 
 ### Suggested Reading
 * [Roadies & Rockstars](http://blog.workopen.org/leadership/) on Working Open @ Mozilla | OpenMatt

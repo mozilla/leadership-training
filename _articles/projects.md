@@ -107,12 +107,6 @@ Course content to include:
 4. Online Reputation
 5. Webiquette
 
-
-#### Jifunze
-*Chandi Tome ([@chanditome](https://github.com/chanditome))*
-
-An open source curriculum for teaching East African children science beyond the classroom
-
 #### Jilinde
 *Peter Omondi Ochieng ([@pomochieng](https://github.com/pomochieng))*
 

@@ -132,11 +132,6 @@ Deliver series of videos about web literacy in local language to each schools so
 
 Collaborative writing of an exhaustive localization manual to be used as a reference by new volunteer translators of the Italian community.
 
-#### Mozilla Campus Clubs
-*Srushtika Neelakantam ([@Srushtika](https://github.com/Srushtika))*
-
-Mozilla Campus Clubs is an effort to make contributing to open source, easier, for Campus students. It provides various activities, teaching kits and learning materials using which the campus students can form groups and learn about open source technologies and most importantly, contribute back.
-
 #### Mozilla Campus Clubs (North America Region)
 *Semirah Dolan ([@semirahd](https://github.com/semirahd))*
 

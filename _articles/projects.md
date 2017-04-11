@@ -132,6 +132,11 @@ Deliver series of videos about web literacy in local language to each schools so
 
 Collaborative writing of an exhaustive localization manual to be used as a reference by new volunteer translators of the Italian community.
 
+#### Mobile Map IO
+*Andrew Nelson ([@werdnanoslen](https://github.com/werdnanoslen))*
+
+A boilerplate mobile hybrid app for input/output with maps.
+
 #### Mozilla Campus Clubs (North America Region)
 *Semirah Dolan ([@semirahd](https://github.com/semirahd))*
 

@@ -48,11 +48,6 @@ A key management tool and Public Key Infrastructure based on cross-referenced bl
 
 Connect Chicago is a cross-sector civic leadership initiative to make Chicago the most digitally skilled, connected, and dynamic city in America. The soon to be launched Connect Chicago Innovation Program will spur new interventions to improve Internet access and digital skills in Chicago. Three values will be built into the Connect Chicago Innovation Grant Program: innovation, equity, and openness.
 
-#### Digital Windows
-*Ashlanett Sanders ([@ashlanett](https://twitter.com/ashlanett))*
-
-Digital Windows is a platform for live streaming real-world activity that students wouldn’t normally be able to access. Through partnerships with a variety of organizations, students will have the opportunity to explore the worlds of medical research, policing, travel and more.
-
 #### Drawing Board Africa
 *Nyambura Mutanyi ([@cmutanyi](https://twitter.com/cmutanyi))*
 

@@ -234,6 +234,6 @@ cognitive [neuro]scientist. Out. @MozillaScience Fellow. Former @NSFGRFP @Chatea
 
 #### Tim Head ([@betatim](https://github.com/betatim))
 
-Sceintific brain for hire. Used to work at CERN, now a data science consultant and open-sourcer
+Scientific brain for hire. Used to work at CERN, now a data science consultant and open-sourcer
 
 *Area(s) of Expertise*: thinking with data, scientific thinking for problem solving (keep breaking your problem down till you can start solving something), all sorts of programming, AI,

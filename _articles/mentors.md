@@ -211,7 +211,7 @@ PhD Student at WurmLab (QMUL) and Mozilla Science Lab Fellow. Founder of Bionode
 
 #### Danielle Robinson ([@daniellecrobinson](https://github.com/daniellecrobinson))
 
-I see you got it from twitter #partymom
+Advocacy for science and the open web / 2016 @MozillaScience Fellow / new PhD @OHSUSOM / hangs with librarians / party mom / @wispdx / GitHub @daniellecrobinson
 
 *Area(s) of Expertise*: Community organizing, science policy, open data
 

@@ -16,6 +16,7 @@ code, science, open source and prototyping @mozilla (web + science = ) alum:@Moz
 
 #### Achintya Rao ([@RaoOfPhysics](https://github.com/RaoOfPhysics))
 Science communicator at CERN and PhD student in scicomm at UWE Bristol. Interested in open practices across all stages of research.
+
 *Area(s) of Expertise*: Science communication
 
 #### Akshay Roongta ([@clownbigmole](https://github.com/clownbigmole))

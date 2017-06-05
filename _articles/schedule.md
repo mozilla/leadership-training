@@ -54,6 +54,6 @@ mid-March - mid-June | (30 min x 7) ongoing 1:1 mentorship meetings every two we
 April 25/26 | (1 hour) demo your progress & get help *[together with online cohort]*
 May 23/24 | (1 hour) demo your progress & get help *[together with online cohort]*
 June 1-2 | (2 days) [Global Sprint](https://science.mozilla.org/programs/events/global-sprint-2017)
-June 6/7 | (1 hour) demo your progress & get help *[together with online cohort]*
+June 20/21 | (1 hour) demo your progress & get help *[together with online cohort]*
 
 

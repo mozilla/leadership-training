@@ -249,7 +249,7 @@ html.no-js .sidebar .collapsible-content {
 }
 
 .sidebar-header .moz-logo {
-  width:100px;
+  width:90px;
 }
 
 .sidebar-header span {
@@ -347,6 +347,10 @@ html.no-js .sidebar .collapsible-content {
 
 .sidebar-menu>li>a{
   padding: 20px 20px;
+}
+
+.sidebar-line {
+  border-top:1px solid #cfcfcf;
 }
 
 @media screen and (min-width: 1200px) {

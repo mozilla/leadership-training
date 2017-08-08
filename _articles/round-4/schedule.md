@@ -21,7 +21,7 @@ Date | Events
 --- | ---
 August 3-4 | (2 days) Working Open Workshop in Boston, MA
 mid-Aug - mid-Nov | (30 min x 6-8) ongoing 1:1 mentorship meetings every two weeks with your mentor
-September (dates TBA) | (1 hour) demo your progress & get help *[together with online cohort]*
-October (dates TBA) | (1 hour) demo your progress & get help *[together with online cohort]*
+September (dates TBA) | (1 hour) demo your progress & get help *[online call with cohort]*
+October (dates TBA) | (1 hour) demo your progress & get help *[online call with cohort]*
 Oct 27-29 | (3 days) [Mozilla Festival](http://mozillafestival.org/) + Satellite event in Boston
-November (dates TBA) | (1 hour) demo your progress & get help *[together with online cohort]*
+November (dates TBA) | (1 hour) demo your progress & get help *[online call with cohort]*

@@ -4,7 +4,7 @@ layout: home
 
 ### About the Program
 
-Our fourth cohort of Mozilla Open Leaders starts in September 2017! We’re looking for Open Project Leaders to fuel the Internet Health movement by engaging more contributors in their work and connecting with other leaders in the Mozilla Network. **Apply to be an Open Project Lead today!**
+Our fourth cohort of Mozilla Open Leaders starts in September 2017! We’re looking for Open Project Leaders to fuel the Internet Health movement by engaging more contributors in their work and connecting with other leaders in the Mozilla Network.
 
 ![](/leadership-training/img/mozfest.jpeg)
 
@@ -33,12 +33,6 @@ If you (or your team) are running or starting an open project and want to grow a
 Being an Open Project Lead requires you to add one meeting a week (from 30 to 90min) to your schedule and complete assignments around your open project.
 
 **Estimated time:** ~3h/week for 12 weeks + MozFest or Hacktoberfest
-
-### How to Apply
-All applicants must propose a MozFest session in order to be considered. **Applications close August 1, 11:59pm EST**
-
-* [Propose a session](https://mozillafestival.org/proposals) for MozFest
-* Fill out this [application form](https://goo.gl/forms/dd5UJBmy6SuOmYTj1).
 
 ### Receive our Newsletter
 

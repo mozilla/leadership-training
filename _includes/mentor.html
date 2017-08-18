@@ -1,37 +1,36 @@
-<b>Cohort A</b> Meets <a target="_blank" href="http://arewemeetingyet.com/Toronto/2017-09-12/12:00/w/Mozilla%20Open%20Leaders%20-%20Option%201">Tuesdays at 12pm ET</a> <br />
-<b>Cohort B</b> Meets <a target="_blank" href="http://arewemeetingyet.com/Toronto/2017-09-12/18:00/w/Mozilla%20Open%20Leaders%20-%20Option%202">Tuesdays at 6pm ET</a> <br />
-<b>Cohort C</b> Meets <a target="_blank" href="http://arewemeetingyet.com/Toronto/2017-09-13/10:00/w/Mozilla%20Open%20Leaders%20-%20Option%203">Wednesdays at 10am ET</a><br />
-<b>Boston Cohort</b> Met in-person in <a target="_blank" href="https://mozillascience.github.io/WOW-Boston/">Boston, August 2017</a>
-
 {% for mentor in include.mentors %}
-  <div class="mentor">
-  <div class="row">
-  <div class="col-md-3">
-  <h4>{{ mentor.name }}</h4>
-  <div class="subhead">{{ mentor.location }}</div>
-  {% if mentor.language %}
-    <i class="fa fa-language" aria-hidden="true"></i> {{ mentor.language }}<br />
-  {% endif %}
+  <div class="mentor row">
+    <div class="col-md-3">
+      <h4>{{ mentor.name }}</h4>
+      <div class="subhead">{{ mentor.location }}</div>
+      {% if mentor.language %}
+        <i class="fa fa-language" aria-hidden="true"></i> {{ mentor.language }}<br />
+      {% endif %}
+    </div>
 
+    <div class="col-md-9">
+      <p>
+        {% if mentor.bio %}
+          {{ mentor.bio }} <br />
+        {% endif %}
+        <span class="subhead"><b>Area(s) of Expertise</b>: {{ mentor.areas }}<br />
+          {% if mentor.cohort %}
+            <i class="fa fa-group" aria-hidden="true"></i>
+            {% if mentor.cohort == "Boston" %}
+              <a href="/leadership-training/round-4/schedule/#boston-cohort">Boston Cohort</a>
+            {% else %}
+              <a href="/leadership-training/round-4/schedule/#cohort-{{ mentor.cohort | downcase }}">Cohort {{ mentor.cohort }}</a>
+            {% endif %}
+            <br />
+          {% endif %}
+          {% if mentor.github %}
+            <i class="fa fa-github" aria-hidden="true"></i> <a target="_blank" href="https://github.com/{{ mentor.github }}">@{{ mentor.github }}</a><br />
+          {% endif %}
+          {% if mentor.twitter %}
+            <i class="fa fa-twitter" aria-hidden="true"></i> <a target="_blank" href="https://twitter.com/{{ mentor.twitter }}">@{{ mentor.twitter }}</a><br />
+          {% endif %}
+        </span>
+      </p>
+    </div>
   </div>
-  <div class="col-md-9">
-  <p>
-  {% if mentor.bio %}
-    {{ mentor.bio }} <br />
-  {% endif %}
-  <span class="subhead"><b>Area(s) of Expertise</b>: {{ mentor.areas }}<br />
-    {% if mentor.cohort %}
-      <i class="fa fa-group" aria-hidden="true"></i> Cohort {{ mentor.cohort }}<br />
-    {% endif %}
-    {% if mentor.github %}
-    <i class="fa fa-github" aria-hidden="true"></i> <a href="https://github.com/{{ mentor.github }}">@{{ mentor.github }}</a><br />
-  {% endif %}
-  {% if mentor.twitter %}
-    <i class="fa fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/{{ mentor.twitter }}">@{{ mentor.twitter }}</a><br />
-  {% endif %}
-
-   </span>
-  </p>
-  </div>
-  </div></div>
 {% endfor %}

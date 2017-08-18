@@ -177,15 +177,6 @@ Technovation Regional ambassador"
   language:
   cohort: C
 
-- name: Chris Ritzo
-  location: Washington, DC / Unites States
-  github: critzo
-  twitter: ChrisRitzo
-  bio: "I’ve spent my career in tech support, teaching, web development and information science work in a variety of public interest organizations like K12 schools, libraries, higher education, membership based advocacy orgs and for the past few years at New America’s Open Technology Institute. At OTI I work primarily on the Measurement Lab project but have also assisted with other initiatives like Ranking Digital Rights and Commotion Wireless. Broadly, I’m interested in socio-technical issues as they affect public resources and institutions, particularly libraries and schools."
-  areas: technical support, communications, web development, content strategy, information architecture, project management
-  language:
-  cohort: Boston
-
 - name: Daniela Saderi
   location: Portland, OR, USA
   github: dasaderi

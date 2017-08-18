@@ -450,10 +450,10 @@ html.no-js .sidebar .collapsible-content {
 }
 
 #content h4 {
-  margin-top:1.6em;
+  margin:0;
   font-family: Arvo,sans-serif;
-
 }
+
 
 strong {
   font-weight: 500;
@@ -759,4 +759,13 @@ hr {
 video {
   margin-bottom: 1.5rem;
   border: solid 1px #DDD;
+}
+.subhead {
+  font-style: italic;
+  margin: 0;
+  color: #777;
+}
+
+.mentor h4 {
+  color: #A95FAD;
 }

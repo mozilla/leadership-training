@@ -1,0 +1,26 @@
+{% for mentor in include.mentors %}
+  <div class="mentor">
+  <div class="row">
+  <div class="col-md-3">
+  <h4>{{ mentor.name }}</h4>
+  <div class="subhead">{{ mentor.location }}</div>
+  {% if mentor.language %}
+    <i class="fa fa-language" aria-hidden="true"></i> {{ mentor.language }}
+  {% endif %}
+  </div>
+  <div class="col-md-9">
+  <p>{{ mentor.bio }} <br />
+  <span class="subhead"><b>Area(s) of Expertise</b>: {{ mentor.areas }}<br />
+    <!-- <b>Cohort:</b> {% if mentor.cohort %} {{ mentor.cohort }} {% else %}  None {% endif %}<br /> -->
+      {% if mentor.github %}
+    <i class="fa fa-github" aria-hidden="true"></i> <a href="https://github.com/{{ mentor.github }}">@{{ mentor.github }}</a><br />
+  {% endif %}
+  {% if mentor.twitter %}
+    <i class="fa fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/{{ mentor.twitter }}">@{{ mentor.twitter }}</a><br />
+  {% endif %}
+
+   </span>
+  </p>
+  </div>
+  </div></div>
+{% endfor %}

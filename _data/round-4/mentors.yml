@@ -13,7 +13,7 @@
   twitter: adamgetchell
   bio: "Director of Information Technology and PhD student in quantum gravity at UC Davis. Currently writing high-performance simulations and data analysis pipelines."
   areas: Physics, C++, Python, Git/GitHub, Information technology and systems
-  language: English
+  language:
   cohort:
 
 - name: Akshay Roongta
@@ -157,7 +157,7 @@ Technovation Regional ambassador"
   twitter: chartgerink
   bio: "PhD-candidate in methods and statistics, focusing on meta-research and in particular detecting data fabrication. Shifting focus now towards incentivizing valid science practices based on which researchers can actually be evaluated properly. Enthusiastic about loads of things!"
   areas: Reproducibility/replicability, open access, open science, statistics, R, bash, linux, not having a Google account ;-)
-  language: English, Dutch, German
+  language: Dutch, German
   cohort: A
 
 - name: Chris Otta

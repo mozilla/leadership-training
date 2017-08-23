@@ -11,8 +11,9 @@
   location: Davis, CA, USA
   github: acgetchell
   twitter: adamgetchell
-  areas: C++  , Physics
-  language:
+  bio: "Director of Information Technology and PhD student in quantum gravity at UC Davis. Currently writing high-performance simulations and data analysis pipelines."
+  areas: Physics, C++, Python, Git/GitHub, Information technology and systems
+  language: English
   cohort:
 
 - name: Akshay Roongta

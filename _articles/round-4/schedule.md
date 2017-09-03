@@ -25,8 +25,8 @@ We'll be meeting online each week at three different times - one for each cohort
 
 Week | Meeting | Modules
 --- | --- | ---
-Week 0 <br /> Sept 12/13 | (30 min) Get to know your mentor, start thinking about 12 week goals for your project |
-Week 1 <br /> Sept 19/20 | (1.5 hours) Full cohort: Meet everyone! Online real-time training. | [what is open](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/introduction-to-working-open/), [about mozilla](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/getting-to-know-mozilla-and-the-leadership-network/), [project planning basics](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/)
+Week 0 <br /> Sept 12/13 | (1.5 hours) Full cohort: Meet everyone! Online real-time training. | [what is open](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/introduction-to-working-open/), [about mozilla](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/getting-to-know-mozilla-and-the-leadership-network/), [project planning basics](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/)
+Week 1 <br /> Sept 19/20 | (30 min) Get to know your mentor, start thinking about 12 week goals for your project |
 Week 2 <br /> Sept 26/27| (1.5 hours) Full cohort: Online real-time training. | Project communication & community building
 Week 3 <br /> Oct 3/4 | (30 min) 1:1 with your mentor: review goals & progress, bring in topic expert if needed. |
 Week 4 <br /> Oct 10/11 | (1 hour) Running Awesome Events | [facilitations & leadership, documentation](https://mozilla.github.io/open-leadership-training-series/articles/running-awesome-community-events/)

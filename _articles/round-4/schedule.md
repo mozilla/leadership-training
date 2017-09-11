@@ -29,13 +29,13 @@ Week 0 <br /> Sept 12/13 | (1.5 hours) Full cohort: Meet everyone! Online real-t
 Week 1 <br /> Sept 19/20 | (30 min) Get to know your mentor, start thinking about 12 week goals for your project |
 Week 2 <br /> Sept 26/27| (1.5 hours) Full cohort: Online real-time training. | Project communication & community building
 Week 3 <br /> Oct 3/4 | (30 min) 1:1 with your mentor: review goals & progress, bring in topic expert if needed. |
-Week 4 <br /> Oct 10/11 | (1 hour) Running Awesome Events | [facilitations & leadership, documentation](https://mozilla.github.io/open-leadership-training-series/articles/running-awesome-community-events/)
+Week 4 <br /> Oct 10/11 | (1 hour) Running Awesome Events | [facilitations & mentorship](https://mozilla.github.io/open-leadership-training-series/articles/running-awesome-community-events/)
 Week 5 <br /> Oct 17/18 | (30 min) 1:1 with your mentor: review goals & progress, bring in topic expert if needed. |
 Week 6 <br /> Oct 24/25  | (1 hour) Full cohort: demo your progress & get help | MozFest!
 Week 7 <br /> Oct 31 / Nov 1  | (30 min) 1:1 with your mentor: review goals & progress, bring in topic expert if needed. |
 Week 8 <br /> Nov 7/8 | (1.5 hours) Sustaining Momentum |
 Week 9 <br />Nov 14/15  | (30 min) 1:1 with your mentor: review goals & progress, bring in topic expert if needed. |
-Week 10 <br />Nov 21/22 |  (1 hour) Full Cohort: Mentorship & Community Building Skills |
+Week 10 <br />Nov 21/22 |  (1 hour) Full Cohort: Community Building 2.0 |
 Week 11 <br />Nov 28/29 | (30 min) 1:1 with your mentor: celebrate & debrief. |
 Week 12 <br />Dec 5/6 | (1 hour) Final Demos |
 

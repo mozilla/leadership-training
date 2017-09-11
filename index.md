@@ -6,6 +6,8 @@ layout: home
 
 Our fourth cohort of Mozilla Open Leaders starts in September 2017! We’re looking for Open Project Leaders to fuel the Internet Health movement by engaging more contributors in their work and connecting with other leaders in the Mozilla Network.
 
+<div class="home-card"><center><b>Applications are closed for Mozilla Open Leaders Round 4</b></center></div>
+
 ![](/leadership-training/img/mozfest.jpeg)
 
 An Open Project Lead is someone running or starting an open project that supports a healthy Internet. Over the course of the program, they will:

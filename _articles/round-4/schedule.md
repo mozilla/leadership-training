@@ -31,7 +31,7 @@ Week 2 <br /> Sept 26/27| (1.5 hours) Full cohort: Online real-time training. | 
 Week 3 <br /> Oct 3/4 | (30 min) 1:1 with your mentor: review goals & progress, bring in topic expert if needed. |
 Week 4 <br /> Oct 10/11 | (1 hour) Running Awesome Events | [facilitations & mentorship](https://mozilla.github.io/open-leadership-training-series/articles/running-awesome-community-events/)
 Week 5 <br /> Oct 17/18 | (30 min) 1:1 with your mentor: review goals & progress, bring in topic expert if needed. |
-Week 6 <br /> Oct 24/25  | (1 hour) Full cohort: demo your progress & get help | MozFest!
+Week 6 <br /> Oct 24/25  | (1 hour) Full cohort: demo your progress & get help | MozFest! (Oct 27-29)
 Week 7 <br /> Oct 31 / Nov 1  | (30 min) 1:1 with your mentor: review goals & progress, bring in topic expert if needed. |
 Week 8 <br /> Nov 7/8 | (1.5 hours) Sustaining Momentum |
 Week 9 <br />Nov 14/15  | (30 min) 1:1 with your mentor: review goals & progress, bring in topic expert if needed. |

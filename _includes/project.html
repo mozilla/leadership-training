@@ -1,0 +1,46 @@
+{% for project in include.projects %}
+  <div class="project row">
+    <div class="col-md-12">
+      <h3>{{ project.name }}</h3>
+      <p>
+        {% if project.description %}
+          {{ project.description }} <br />
+        {% endif %}
+      </p>
+    </div>
+    {% for lead in project.lead %}
+      {% assign person = include.participants | where:"name", lead  | first %}
+      {% if person %}
+      {% if person.img %}
+        <div class="col-md-3">
+          <img src="{{ person.img }}" />
+        </div>
+        <div class="col-md-9">
+      {% else %}
+        <div class="col-md-12">
+      {% endif %}
+          <h4>{{ person.name }}</h4>
+          <p>{{ person.bio }} <br />
+                  <span class="subhead">
+          {% if person.cohort %}
+            <i class="fa fa-group" aria-hidden="true"></i>
+              <a href="/leadership-training/round-4/schedule/#cohort-{{ person.cohort | downcase }}">Cohort {{ person.cohort }}</a>
+            <br />
+          {% endif %}
+          {% if person.github %}
+            <i class="fa fa-github" aria-hidden="true"></i> <a target="_blank" href="https://github.com/{{ person.github }}">@{{ person.github }}</a><br />
+          {% endif %}
+          {% if person.twitter %}
+            <i class="fa fa-twitter" aria-hidden="true"></i> <a target="_blank" href="https://twitter.com/{{ person.twitter }}">@{{ person.twitter }}</a><br />
+          {% endif %}
+        </span>
+        </p>
+        </div>
+        {% else %}
+          <div class="col-md-12">
+            <h4>{{ lead }}</h4>
+          </div>
+        {% endif %}
+    {% endfor %}
+  </div>
+{% endfor %}

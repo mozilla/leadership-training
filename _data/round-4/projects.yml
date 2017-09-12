@@ -1,0 +1,453 @@
+- name: "'LogOut' Cyber-Awareness-Campaign"
+  description: "We are planning for pan India campaign where we will reach out to maximum fellow Indians, our aim is to aware them about cyber security, what is privacy, cyber war, encryption, cyber-crime, how to prevent cyber-crime and cyber law. To reach the target of minimum 50,000 people we need army of awesome people who can spare some time to teach people and educate them about cyber security but we cannot reach everywhere so we need local support from local resident from every cities of India."
+  cohort: A
+  lead:
+  - Viral Parmar
+
+- name: "Baraza"
+  description: "Baraza is a platform built to facilitate traditional conflict resolution by digitizing the whole process of traditional elders and local figures of authority sitting down with residents to solve issues. The project is presented as a native android application."
+  cohort: A
+  lead:
+  - Walter Obadha
+
+- name: "Bias Crawler Project"
+  description: "My session aims to empower and provide practical tools and critical thinking skills aimed at analyzing the (written) information we consume. I will present a set of NLP metrics that will hopefully allow people to identify bias patterns in the information they consume online. I will develop a web bot/add-on for Firefox to this end "
+  cohort: B
+  lead:
+  - Diana Meca
+
+- name: "Brain Networks in Python"
+  description: "The Brain Networks in Python project seeks to provide open source, documented, tested and modular code to investigate the brain as a network. These analyses are reproducible, transparent and accessible to new and expert brain imaging researchers and network neuroscientists. Openly developed, this project will welcome users and contributors from all disciplines."
+  cohort: A
+  lead:
+  - Isla Staden
+
+
+- name: "BrainBox"
+  description: "BrainBox is a Web co-editing platform that facilitates crowdsourcing neuroimaging data with real-time interactive annotation and segmentation. BrainBox currently provides access to >13k brain imaging datasets. Similar to Wikipedia or Google Docs, it facilitates the creation of distributed teams of researchers collaborating in the analysis of open data – promoting a community effort instead of competition.
+"
+  cohort: C
+  lead:
+  - Katja Heuer
+  - Roberto Toro
+
+- name: "Brainwaves To The Browser"
+  description: "Pipeline the brand new open sourced OpenBCI Wifi Shield to the browser to build a powerful cross-platform web based framework for people to build web applications that analyze or visualize their brainwaves/bio-sensor signals.  "
+  cohort: A
+  lead:
+  - Andrew Keller
+
+- name: "Building Resources for WebExt 101 Development"
+  description: "This main aim of this project is to bring easy course material to get started with WebExtension Development through a series of small programming exercises."
+  cohort: C
+  lead:
+  - VISWAPRASATH KS
+
+- name: "Camoco - the co-analysis of molecular components"
+  description: "Camoco is a open source python tool that uses techniques developed from social networks to help biological researchers understand what genes do."
+  cohort: A
+  lead:
+  - Rob Schaefer
+
+- name: "ChickTech School Clubs & Kits"
+  description: "AfterSchool Clubs & Kits will provide underrepresented & underexposed girls & teachers with national community support, resources, & network of partners to help girls excel in their path to tech.  This will provide teachers and students with year-long curricula focused on hands-on, tech workshops for girls.  After each workshop, the girls will walk away with tangible products to showcase around the school and a new understanding of what it means to be a tech creator."
+  cohort: C
+  lead:
+  - Katie SanFilippo
+
+- name: "Code Is Science"
+  description: "My project aims to increase awareness of the importance of open source code in science - like all science, code too should be subject to peer review. I would like to conduct research into *why* code isn't treated as peer-reviewable science, and curate relevant resources from related open science/open source efforts. This would probably come in the form of interactive workshops and an online survey, with all results shared openly on the project website & hopefully published in scientific journals"
+  cohort: A
+  lead:
+  - Yo Yehudi
+
+- name: "Coding foundation"
+  description: "This project is aimed to help pre-university gals/non-binary people considering a career in computer science/tech to acquire skills prior to them entering the university. Many girls do not enroll to computer science or similar undergraduate topics as they see this as a rather challenging enterprise and they often feel that they do not posses the basic skills to pursue such an effort. "
+  cohort: C
+  lead:
+  - Tania Sanchez (Allard)
+
+- name: "Community event platform"
+  description: "A platform for optimizing some tasks related to event organization, like sending invitations, generate certificates of participation or manage attendees."
+  cohort: B
+  lead:
+  - Mario García
+
+- name: "Creating a Video Game Making Community"
+  description: "This project is inspired by and aims to work with Mozilla Clubs to create a community making video games together.
+
+We’ll make browser games and make getting involved in the club fun and open. The twin goal is to learn about internet health, the open web and open education.
+
+The project will run a game making club in Manchester, UK and create and adapt existing Mozilla Learning resources.  Creating a user friendly interface to these resources is the final output of the project."
+  cohort: A
+  lead:
+  - Mick Chesterman
+
+- name: "CS4All Blueprint"
+  description: "Computer Science for All (CS4All) is a 10-year initiative to expand computer science education to all NYC students. The CS4All Blueprint is a web resource that includes open education resources and content to support to implementation of CS4All. The Blueprint was developed with input from hundreds of stakeholders, and elevated educators voices through ongoing co-design of content. As we launch the Blueprint beta, we're seeking to learn from the open source community."
+  cohort: A
+  lead:
+  - Kara Chesal
+  - Aankit Patel
+
+- name: "Cut, Copy & Paste: Analog open source collaboration workshops"
+  description: "I want to give people the experience of working towards a creative goal (eg. an illustration, or zine) in an open source way - building upon an existing commons, collaborating with unknown others, and forking to their heart's content. No computers are used - just a photocopier, and the willingness to collaborate.
+This project started with a collage workshop in 2016 and is a companion to my ongoing Open Source Animation project: https://gitlab.com/cameralibre/FragDenStaat-Animation"
+  cohort: C
+  lead:
+  - Sam Muirhead
+
+- name: "Data playground "
+  description: "Development of a data playground for students to explore how data can be combined for analytics & data mining, how it relates to them and data for their own work"
+  cohort: A
+  lead:
+  - Samantha Ahern
+
+- name: "Data Sharing in Neuroscience"
+  description: "To find ways to integrate different data sharing approaches"
+  cohort: B
+  lead:
+  - Sara Mahallati
+
+- name: "Digital Infrastructure for Open Science Hardware"
+  description: "Open Science Hardware is a new field in Open Science and integral part of Open Innovation. Education and experimental sciences are inherently dependent on instrumentation which becomes increasingly digital and shareable. Yet, open hardware faces many challenges around documentation, sharing and replication that are different from open source software! DocuBricks and the Journal of Open Hardware are open, digital (scientific) infrastructure projects aiming to close the gap!"
+  cohort: A
+  lead:
+  - Tobias Wenzel "Tobey"
+
+- name: "Digital Rise - 3 stage digital literacy model"
+  description: "Digital Rise is based on my idea of using digital literacy as a foundation platform to self-empower common man by developing their skills to be self-learnable and self-sustainable. The three stage model is developed to address the following internet issues - Digital Inclusion, Web Literacy and Privacy and Security. The three stages include, Basics of Digital Devices, Basics of Internet and Basics of Programming. "
+  cohort: A
+  lead:
+  - Gauthamraj Elango
+
+- name: "Empower 1000 Vulnerable women and girls "
+  description: "Our Organization building employment skills and capacity of young people. "
+  cohort: C
+  lead:
+  - miah FEROZ
+
+- name: "European CO2 market : an ETS scraper "
+  description: "Since the creation of the CO2 market, 10 years ago, the information about some  14.000 industrial installations in 31 countries is open stored on the web. But it is not reachable in open format (you have to click 3 times to get the information about one installation). The EU has an open data portal, but there, the information is delivered by sector, at a macro level. In order to have the granularity that would unable an analysis by enterprise, we need a scraper. "
+  cohort: C
+  lead:
+  - Ana Lutzky
+
+- name: "Eyebeam Education"
+  description: "Working within our existing education programs, Digital Day Camp (DDC) and Playable Fashion, we want to develop a reusable template to launch open source curriculum resources for teachers. Going forward we will be applying this format to all educational programming developed at Eyebeam. We will be starting with some of the classes taught at DDC that deal with network infrastructure and privacy."
+  cohort: B
+  lead:
+  - Lauren Gardner
+
+- name: "Fashion Hacktivism for a ‘Responsive Design Practice'"
+  description: "By applying a lean method within the methodology of Fashion Hacktivism, an example can be set through Fashion for an empowering and sustainable disruptive design practice which can facilitate change, not just in emerging countries."
+  cohort: A
+  lead:
+  - Juliane Kahl
+
+- name: "GODI For All"
+  description: "More Ghanaians have access to mobile telephony than regular electricity or waste sanitation, yet less than 1 in 6 have a reliable internet connection according to a 2016 World Bank report. This project will create a mobile-friendly awareness toolkit to educate the public about the Ghana Open Data Initiative (GODI) and how the information can be harnessed and enhanced to support economic and ICT development. The objective is to increase government transparency and the use of public information.  "
+  cohort: C
+  lead:
+  - Tianca Crocker
+
+- name: "HackathonGirls, Banjul"
+  description: "
+There are many girls in the Gambia who are victorious in Science fields through senior school and University, and many who frequently perform at the top of their classes, but many girls lose hope when it comes to actually preparing and interviewing for professional technology positions."
+  cohort: B
+  lead:
+  - Juma Baldeh
+
+
+- name: "HBASet: Polygenic expression maps of the brain"
+  description: "The HBASet project will develop an online, web browser based portal for creating molecular maps of where and when gene sets are expressed in the mouse, monkey and human brains.
+The tool will take a gene set as input and output interactive visualizations and statistical tests showing the enrichment of expression at a specific developmental time point, brain region, cell type and species. The tool will simplify the examination of expression patterns of a set of genes (polygenic) in the brain."
+  cohort: A
+  lead:
+  - Derek Howard
+
+- name: "How does research treat underrepresented minorities?"
+  description: "Most of the existing studies in medicine or psychology are governed by a divide between researchers and participants. Very often, research is focused on underrepresented minority groups, but without explicitly taking their needs and feedback into account. In this project, we plan to collectively design a questionnaire that will be addressed to vulnerable populations and will assess how these populations perceive research done on them. "
+  cohort: A
+  lead:
+  - Athina Tzovara
+
+
+- name: "Influence TX"
+  description: "Influence TX is a mobile-first web app that allows users to track the influence of money on politics by juxtaposing Texas legislators' voting records with their campaign finance data."
+  cohort: B
+  lead:
+  - Jess Sauer
+  - Amy M. Mosley
+  - Gilbert Slade
+
+- name: "Jaguza Livestock App"
+  description: "Powering Livestock and Agriculture Production to Strengthen Food Security in Uganda and World wide"
+  cohort: C
+  lead:
+  - Katamba Ronald
+
+- name: "Journal Club Starter Kit"
+  description: "Preprint Journal Club Starter Kit is a project to develop resources to encourage the incorporation of preprints into journal clubs (JCs) at research institutions around the world. Preprints are free and immediately available versions of scientific manuscripts that have not yet undergone peer review. By encouraging the reading and evaluation of preprints among groups of scientists, we hope to increase the awareness, usage, and value of preprints, particularly in the biological sciences."
+  cohort: C
+  lead:
+  - Samantha Hindle
+
+- name: "Learn it,Make it,Map it with OSM (open street mapping)"
+  description: "OSM is short hand for Open street mapping , an open source community project aiming to map areas and make it available for rest of world. In this project we are going to map our respective regions using some map editing tools such as JOSM etc."
+  cohort: A
+  lead:
+  - Chandan Baba
+
+- name: "Lightbeam"
+  description: "Lightbeam is a key tool for Mozilla to educate the public about privacy. Using interactive visualisations, Lightbeam’s main goal is to show web tracking, aka, show the first and third party sites you interact with on the Web."
+  cohort: C
+  lead:
+  - Princiya Marina Sequeira
+
+- name: "Location-Centric Decentralized Instant Messaging Platform"
+  description: "A web based platform for instantly broadcasting messages publicly. Anyone within a 1 km surrounding ( distance can be varied internally ) can instantly connect to the local network and start chatting anonymously."
+  cohort: A
+  lead:
+  - Karthickeyan N
+
+
+- name: "Make Works "
+  description: "Make Works is an open access platform to source local manufacturing.
+
+We are working to make local manufacturing openly accessible to everyone. The platform helps people to find manufacturers, material suppliers and workshop facilities in their local area - something of an open library for finding the means of production. To do this we map, visit, film, collect data and document factories in local areas, before making this information and content openly available online, for free.
+
+
+"
+  cohort: C
+  lead:
+  - Fiona Duffy-Scott
+
+- name: "Mapping, Visualizing, & Documenting Traffic Accidents "
+  description: "My home town Addis Ababa has one of the highest numbers of traffic accidents in the world. No one has made an effort yet to map these accidents and show which areas are the worst affected. Also, there is a lack of thorough and user-friendly data analysis on these accidents. If there is one, it is mostly hidden in dissertation papers that 50 pages long.  "
+  cohort: A
+  lead:
+  - Berhan Taye
+
+
+
+- name: "Mental Hues"
+  description: "I want to create an open source web application that addresses stigma associated with mental illness.  Mental health issues can be viewed on a spectrum.  With this in mind, I want users of Mental Hues to be able to create a Hue, or topic, related to mental health.  When a Hue has been created, users can write a story related to the Hue to share their experiences.  I believe the best way to diminish stigma is to personalize the issues and allow people to relate to them. "
+  cohort: A
+  lead:
+  - Erin Cole
+
+
+- name: "Mozilla to School"
+  description: "Empower school-going students to focus on their respective areas of interest and start excelling in the field right from a young age so that they can build a better world in the future"
+  cohort: B
+  lead:
+  - Ruwaiz Razak
+
+- name: "MozScanned"
+  description: "In conversation with our session, we will have a projection wall installation of the scans of people at the event as well as online. Participants will be able to post their scans online on Instagram and Twitter via a hashtag, then converse about what it feels like to see many different kinds of people 3D scanned and exhibited digitally. This open way of exploring photogrammetry, will bring awareness to diversity and inclusion in emerging technologies and provide a platform for conversations. "
+  cohort: B
+  lead:
+  - Lequanne Collins-Bacchus
+
+- name: "Nightly Night"
+  description: "Exemplify a simple but practical way in which an effective promotion of Nightly can be carried out on potential users and how this form of promotion could benefit more FLOSS projects. All this through demonstrating with a small game, how collaboration and good practices at the beginning of a project become positive results and fewer bugs for Firefox for final users."
+  cohort: B
+  lead:
+  - Uriel Jurado
+
+
+- name: "Open Curriculum for Research Support Librarians "
+  description: "I’m a librarian leading a department supporting emerging research methods. Supporting content creation will be a big shift for our library, which has previously focused on content discovery. This requires training that provides an overview of best practices for research. I'd like to participate in the OL program to plan how to share the curriculum I am developing openly. I believe it will be most useful for the librarian community but may be of interest to other audiences."
+  cohort: B
+  lead:
+  - Brianna Marshall
+
+- name: "Open Data for Laws "
+  description: "Law out to be fair and we need better data out in the internet to make this possible.  During this year, in Article 19 - Brazil,  we are conducting an investigation of the data that is being collected on the topic of Violence Against Women, in particular for the topic of femicide, to improve their 2 years old femicide law . As an ultimate goal we want to empower people through the data that is out in the internet. With great data come great responsibility. "
+  cohort: B
+  lead:
+  - Paulina Bustos Arellano
+
+
+- name: "Open data research "
+  description: "Using open data to facilitate civic tech in solving community and government problems "
+  cohort: C
+  lead:
+  - Joseph De Guia
+
+- name: "Open Data/Open Minds"
+  description: "Open Data/Open Minds supports learners to convey stories of their local environment using science journaling, crafted visualization, and data investigation.  Participants develop stories based on scientific data and then visualize and illuminate their findings. We use NEXMAP's free paper circuitry templates, Jie Qi’s open source Chibi Chip and Arduino."
+  cohort: B
+  lead:
+  - Elisabeth Sylvan
+
+
+- name: "Open graduation classes"
+  description: "Since last year I've started working with open practices with my web design students. We are planning this year to bring our classes to Github and the students can share improvements on the materials, examples and the classes contents after we end each class (they will learn about Git, how to contribute with open source, versioning and stuff like that during that process)."
+  cohort: A
+  lead:
+  - Felipe Do Espirito Santo
+
+- name: "OpenML "
+  description: "An online platform (openml.org) for open and collaborative machine learning "
+  cohort: C
+  lead:
+  - Heidi Seibold
+
+- name: "OpenSpeaks"
+  description: "OpenSpeaks is a collaborative to build Open Educational Resources, Open Source Software, and Open Datasets and Methodology to train 'Citizen Archivists' for digitally-recording stories of their communities in their languages. The multimedia recordings are done following a set of procedures to ensure that the recordings cover diverse contemporary (of journalistic value) and linguistic content, so that the content can later be used to build digital-accessibility tools like text-to-speech"
+  cohort: C
+  lead:
+  - Subhashish Panigrahi
+
+- name: "Planet Friendly Web Guide"
+  description: "The Planet Friendly Web Guide is an freely available resource that a) presents an easy way to think about the process of building and delivering digital products, and where they create an environmental impact, then b) shows where as a practitioner you can make changes to have a measurable improvement in environmental sustainability of the product, and c) highlights the impact of specific techniques you might already be using, and ones you can adopt in future."
+  cohort: A
+  lead:
+  - Chris Adams
+
+- name: "Popper"
+  description: "The Popper Experimentation Protocol (http://falsifiable.us) is a convention for organizing experiments following a DevOps approach. The CLI tool allows researchers and students to quickly bootstrap open science projects that can be automatically re-executed and continuously validated."
+  cohort: B
+  lead:
+  - Ivo Jimenez
+  - Sina Hamedian
+
+- name: "Pre and post event engagement"
+  description: "I would like to develop an open framework of ideas for engaging volunteers and communities both in advance of and after events end. Events don't have to start and end with the in-person collaboration. There is a lot we can do to build up the anticipation and plan in advance and keep the momentum flowing after the event ends. I will be doing this at the Wikimedia Foundaiton regardless but thought it was a good match for this program. "
+  cohort: B
+  lead:
+  - Rachel Farrand
+
+- name: "Privacy and Security Situations Challenge"
+  description: "Explore and analyze everyday situations on the Internet and learn how to navigate safely using good online security and privacy practices. This game is proudly part of Offline Games Challenge from Mozilla Foundation."
+  cohort: B
+  lead:
+  - Geraldo Barros
+
+- name: "Project Code for Community Change"
+  description: "The Sprout Fund helps projects and programs in the early stages of development—when just a small amount of investment has the potential to yield big results in the community.
+
+With nearly $7 million invested in more than 1,000 early-stage organizations, innovators, and activities, we’re interested in applying techniques from software documentation to help open source the “project code” for changing local communities."
+  cohort: C
+  lead:
+  - Matt Hannigan, Dustin Stiver & Tricia Kievlan
+
+
+
+- name: "Resources for Open Science in Astronomy (ROSA)"
+  description: "ROSA aims to compile and tailor open science best practices from around the web into a kit for astronomers to work openly from proposal to publication. ROSA will be written for use by all research levels but its mission is to supply a single resource to senior researchers to best equip them to encourage early career scientists to practice open access/data/source - in order to successfully mentor the next generation of open science practitioners we also need to target those who advise them."
+  cohort: C
+  lead:
+  - Rachael Ainsworth
+
+- name: "Scientific computing for the terabyte-less"
+  description: "In short, we need an introduction lesson in scientific computing for people that do not need a cluster, do not need big data, and do not need to have super efficient distributed code. We need robust scientific computing for the masses, and the current training does not address this. I would like to develop this resource, by publishing a series of reproducible Jupyter notebooks highlighting the best practices."
+  cohort: C
+  lead:
+  - Timothée Poisot
+
+- name: "Security Check-up"
+  description: "Security Check-up is a project which will help an individual to create a unique strong password for their each account which will be easy to remember. Also this will notify one asking to change their password every month or as per their duration choice."
+  cohort: A
+  lead:
+  - Md Shahbaz Alam
+
+- name: "See Think Make"
+  description: "An online space for Arts Award and other creative young people projects to share, discover new things and feel inspired."
+  cohort: C
+  lead:
+  - Sarah Longfield
+
+- name: "Squadbox"
+  description: "Squadbox is a tool to help people experiencing online harassment via email by enlisting the help of a “squad” of friends, coworkers, or otherwise recruited moderators to review messages before they reach the intended recipient. It functions like a moderated mailing list where there is only one member, and is built on top of the code for Murmur, a mailing list project of ours.
+The code is available here: www.github.com/haystack/murmur
+Our website can be found here: squadbox.csail.mit.edu"
+  cohort: B
+  lead:
+  - Kaitlin Mahar
+
+- name: "TCLI HEATH PROJECTOR"
+  description: "It is a project aimed at creating health awareness in a manner that the regular people can understand such as staging plays to make people aware that women infected with HIV can get married, have children, without infecting their spouse and unborn children and reducing the stigma with HIV by creating awareness, means of transmission and the reducing stigma. With more disemmnation of this information beyond the stage play, making it available online, such that people have assess to it. "
+  cohort: C
+  lead:
+  - Towunmi Coker
+
+- name: "Teach The Web, without the Web"
+  description: "The internet is a crucial part of everyday life, but most people still lack the skills and resources to access it. I want to introduce solutions for communities with low/no connectivity to learn basic web skills. We will share several offline activities through which we can teach and learn. Since this is a participatory workshop, participants can create their own unique activities as we progress. We'll discuss about their impact on community and importance of offline learning."
+  cohort: A
+  lead:
+  - Vishal Chavan
+  - Mayur Patil
+
+- name: "Thalos"
+  description: "Thalos is a secure and distribuited system for file storage in cloud.
+Thalos design  makes it impossible for anyone who has physical or virtual access to the servers to decrypt files without the right key and neither to establish a connection between one file and its owner.
+Thalos relies on local elaborations to perform encryption.
+Furthermore, a smart and 'hierarchical' key management system makes it quick and simple to use for everyone who has an internet access."
+  cohort: A
+  lead:
+  - Luca Maria Castiglione
+
+- name: "Tor Integration Project"
+  description: "Integrate the Tor Browser features into Firefox so that:
+1. Firefox can be more secure and offer better privacy protection for users.
+2. Tor Browser team can have more resource on security/privacy research works.
+3. The two organizations, Mozilla and Tor Project, can be more aligned to protect Internet privacy."
+  cohort: C
+  lead:
+  - Ethan Tseng
+
+- name: "Ura Design"
+  description: "Ura is an initiative I started over a year ago to help open source projects with design services, ranging from branding, UI, UX and Graphic Design. We focus on connecting open source projects with industry standard design practices. We have clients which pay for our services but an integral part of our processes is Patreon, which aims to fund us to be able to help open source projects with a lack of budget to request design services free of charge."
+  cohort: A
+  lead:
+  - Elio Qoshi
+
+- name: "Voices of the Amazon"
+  description: "This project will help build a digital collective in the Amazon rainforest region with the contribution of participants at Mozilla Festival. This will be done by hands-on projects and conversation online w/ tribes. The proposers of this session already articulate universities, schools and indigenous populations also with the support of Caribbean internet groups working on community connectivity. "
+  cohort: A
+  lead:
+  - Renata Aquino Ribeiro
+
+
+
+- name: "Web Literacy for Web Accessibility"
+  description: "I would like to develop a web literacy course aimed at teaching the basics and fundamentals of making web accessible i.e. teaching web accessibility to developers and front-end designers using open curriculum."
+  cohort: A
+  lead:
+  - Moin Shaikh
+
+
+- name: "Web4All"
+  description: "The users of the Web have been blind consumers rather than creators, for far too long. This project is about adopting different ways to reinforce decentralization of the web by educating users, through fun and resourceful tools, puzzles and innovative kits, about what's been happening around the world and what we can do about it. The aim is to foster the next generation of Web creators and advocate for net neutrality, spread awareness about online harassment and other issues across communities."
+  cohort: C
+  lead:
+  - Pranshu Khanna
+
+- name: "Webumenia"
+  description: "Web umenia (Web of Art) is an on-line catalog of artworks from the collections of Central-European fine art galleries. You can find information about artworks and artists as well as articles and thematic collections. Digitized artworks are zoomable in high resolution and public domain artworks are made available to download."
+  cohort: C
+  lead:
+  - Philo van Kemenade
+
+
+- name: "What’s the Opposite of a Troll?"
+  description: "What’s the Opposite of a Troll? is a collaborative project to attempt to name, recognize and celebrate the behavior online that’s at the opposite end of the spectrum of how a troll behaves. "
+  cohort: B
+  lead:
+  - Meghan Lazier
+
+
+- name: "White Market Podcast"
+  description: "White Market Podcast is a show about free music and free culture."
+  cohort: C
+  lead:
+  - Rute Correia
+
+- name: "Wikimedia Resource Center"
+  description: "The Wikimedia Resource Center is a portal designed to be a single point of entry for Wikimedians all over the world to access specific Wikimedia resources, including documented best practices, program support, toolkits, and financial resources. We are now at the second iteration. We started with only a directory of resources, filtered by categories. In this new version, we have added another layer to filter resources: user personas, and have enabled contributions from anyone."
+  cohort: B
+  lead:
+  - María Cruz

@@ -608,9 +608,9 @@ Currently working in Kerala Startup Mission as Technology Innovation Fellow. Int
   img: https://drive.google.com/uc?id=0B183CwLYKDrYcmoyXzVCbENPWXc
 
 - name: Sina Hamedian
-  location:
-  github:
-  twitter:
+  location: Santa Cruz
+  github: shamedian
+  twitter: sina
   bio: "I'm an undergraduate researcher and student studying computer science at UC Santa Cruz. I've previously worked on SlugIOT, an open source platform for remote IoT data collection and code execution, as well as Librems, a smart learning management solution for higher education."
   project: Popper
   language:

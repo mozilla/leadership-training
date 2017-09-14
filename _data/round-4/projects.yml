@@ -255,7 +255,13 @@ We are working to make local manufacturing openly accessible to everyone. The pl
   cohort: B
   lead:
   - Uriel Jurado
+  - Luis A. Sanchez
 
+- name: "NO JOKE ABOUT JUNK!"
+  description: "Awareness raising to reduce waste."
+  cohort: C
+  lead:
+  - Fran Jones
 
 - name: "Open Curriculum for Research Support Librarians "
   description: "I’m a librarian leading a department supporting emerging research methods. Supporting content creation will be a big shift for our library, which has previously focused on content discovery. This requires training that provides an overview of best practices for research. I'd like to participate in the OL program to plan how to share the curriculum I am developing openly. I believe it will be most useful for the librarian community but may be of interest to other audiences."
@@ -281,6 +287,7 @@ We are working to make local manufacturing openly accessible to everyone. The pl
   cohort: B
   lead:
   - Elisabeth Sylvan
+  - David Cole
 
 
 - name: "Open graduation classes"

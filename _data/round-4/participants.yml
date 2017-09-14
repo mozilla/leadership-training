@@ -88,6 +88,15 @@
   cohort: A
   img: https://drive.google.com/uc?id=0BxtfH_Ft5yEMaHVZcVZ4MzV3RjA
 
+- name: David Cole
+  location:
+  github:
+  twitter:
+  bio: "I work at the intersection of creative learning, college and career readiness, literacy and technology. I'm leading NEXMAP.org. We focus on the Hack Your Notebook series and the Open Data / Open Minds initative, two paper and electronics projects that focus on the rituals and routines of craft, inquiry and artistic practice can be combined with introductory electronics, fabrication techniques and open data to build multiple literacies and connect learners to their communities."
+  language:
+  cohort: B
+  img: https://drive.google.com/uc?id=0B5zW5TOJFTExRUE2RzJFTFc5UUE
+
 - name: Derek Howard
   location: Toronto
   github: derekhoward
@@ -168,6 +177,17 @@
   cohort: C
   img: https://drive.google.com/uc?id=0BxbtVurLFnuDVXpkZDhKQmd0dEk
 
+- name: Fran Jones
+  location: Gosnells near Perth, Western Australia
+  github:
+  twitter: FRANDOM10
+  bio: "I call myself a sustainability practitioner, with project management and community capacity building experience working alongside people from diverse backgrounds.
+I am a keen recycler and waste minimizer and understand the importance of appropriate waste disposal methods, both from a public health perspective and a natural resources management perspective. My vision is to develop the growing demand for climate change interventions through sustainable partnerships.
+"
+  language:
+  cohort: C
+  img: https://drive.google.com/uc?id=0B8vC4cguJXhCUUNaLUEzbUF5czA
+
 - name: Gauthamraj Elango
   location: Erode, India
   github:
@@ -198,6 +218,15 @@
   language:
   cohort: B
   img: https://drive.google.com/uc?id=0BxvaD5_rWqakbTJFU2E1bnl2eUE
+
+- name: Heidi Seibold
+  location: Zurich
+  github: HeidiSeibold
+  twitter: HeidiBaya
+  bio: "Biostatistics PhD student at the University of Zurich, working on statistical methods for stratified and personalised medicine. Big fan of open science, OpenML core memeber, R programmer, R meetup organizer, member of the School of Data and assistant editor at the Journal of Statistical Software."
+  language: German, some Spanish
+  cohort: C
+  img: https://drive.google.com/uc?id=0By8gAftefcJTbl9hZllTNlQzMlU
 
 - name: Isla Staden
   location: London
@@ -350,6 +379,15 @@ While focusing her research on brain development, she is also working on project
   language: Italian
   cohort: A
   img: https://drive.google.com/uc?id=0ByI0Yb8rinNbNFFFbmtxZmY1dFk
+
+- name: Luis A. Sanchez
+  location:
+  github:
+  twitter:
+  bio: "Luis a.k.a lasr21 works at the nexus of community building, developers relations and events at Software Guru. He has been around Mozilla project  more than he would like to admit in several projects and roles. You can find Luis organizing or attending to Hackathons."
+  language:
+  cohort: B
+  img: https://drive.google.com/uc?id=0BzcYrjPs_gZzdU93RHVtTWpTYk0
 
 - name: María Cruz
   location: San Francisco, California

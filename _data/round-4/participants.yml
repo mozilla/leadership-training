@@ -365,11 +365,11 @@ While focusing her research on brain development, she is also working on project
   location: Tuxtla Gutiérrez, Mexico
   github: mattdark
   twitter: mariogmd
-  bio: "Free Software Enthusiast. Speaker. Teacher. Member of the Mozilla community in Mexico. Rustacean. Python developer. Blogger"
+  bio: "Free Software Enthusiast. Speaker. Teacher. Member of the Mozilla community in Mexico. Co-founder of Hacking Diem (hackingdiem.org). Mentor at TechWo (techwo.org). Rustacean. Python developer. Blogger"
   project: Community event platform
   language: Spanish
   cohort: B
-  img:
+  img: https://drive.google.com/uc?id=0B8eR1Sy6841GejFOdGNBMjU3WWM
 
 - name: Matt Hannigan, Dustin Stiver & Tricia Kievlan
   location: Pittsburgh, PA
@@ -608,9 +608,9 @@ Currently working in Kerala Startup Mission as Technology Innovation Fellow. Int
   img: https://drive.google.com/uc?id=0B183CwLYKDrYcmoyXzVCbENPWXc
 
 - name: Sina Hamedian
-  location: Santa Cruz
-  github: shamedian
-  twitter: sina
+  location:
+  github:
+  twitter:
   bio: "I'm an undergraduate researcher and student studying computer science at UC Santa Cruz. I've previously worked on SlugIOT, an open source platform for remote IoT data collection and code execution, as well as Librems, a smart learning management solution for higher education."
   project: Popper
   language:

@@ -91,8 +91,7 @@ The project will run a game making club in Manchester, UK and create and adapt e
   - Aankit Patel
 
 - name: "Cut, Copy & Paste: Analog open source collaboration workshops"
-  description: "I want to give people the experience of working towards a creative goal (eg. an illustration, or zine) in an open source way - building upon an existing commons, collaborating with unknown others, and forking to their heart's content. No computers are used - just a photocopier, and the willingness to collaborate.
-This project started with a collage workshop in 2016 and is a companion to my ongoing Open Source Animation project: https://gitlab.com/cameralibre/FragDenStaat-Animation"
+  description: "I want to give people the experience of working towards a creative goal (eg. an illustration, or zine) in an open source way - building upon an existing commons, collaborating with unknown others, and forking to their heart's content. No computers are used - just a photocopier, and the willingness to collaborate. Follow this project's progress on Gitlab: https://gitlab.com/cameralibre/cut-copy-and-paste. This project started with a collage workshop in 2016 and is a companion to my ongoing Open Source Animation project: https://gitlab.com/cameralibre/FragDenStaat-Animation"
   cohort: C
   lead:
   - Sam Muirhead

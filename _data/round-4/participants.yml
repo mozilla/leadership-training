@@ -403,11 +403,11 @@ While focusing her research on brain development, she is also working on project
   location: Tuxtla Gutiérrez, Mexico
   github: mattdark
   twitter: mariogmd
-  bio: "Free Software Enthusiast. Speaker. Teacher. Member of the Mozilla community in Mexico. Rustacean. Python developer. Blogger"
+  bio: "Free Software Enthusiast. Speaker. Teacher. Member of the Mozilla community in Mexico. Co-founder of Hacking Diem (hackingdiem.org). Mentor at TechWo (techwo.org). Rustacean. Python developer. Blogger"
   project: Community event platform
   language: Spanish
   cohort: B
-  img:
+  img: https://drive.google.com/uc?id=0B8eR1Sy6841GejFOdGNBMjU3WWM
 
 - name: Matt Hannigan, Dustin Stiver & Tricia Kievlan
   location: Pittsburgh, PA

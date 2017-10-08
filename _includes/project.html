@@ -1,7 +1,8 @@
 {% for project in include.projects %}
+  {% if project.cohort == include.cohort %}
   <div class="project row">
     <div class="col-md-12">
-      <h3>{{ project.name }}</h3>
+      <h4>{{ project.name }}</h4>
       <p>
         {% if project.description %}
           {{ project.description }} <br />
@@ -19,7 +20,7 @@
       {% else %}
         <div class="col-md-12">
       {% endif %}
-          <h4>{{ person.name }}</h4>
+          <h5>{{ person.name }}</h5>
           <p>{{ person.bio }} <br />
                   <span class="subhead">
           {% if person.cohort %}
@@ -43,4 +44,5 @@
         {% endif %}
     {% endfor %}
   </div>
+  {% endif %}
 {% endfor %}

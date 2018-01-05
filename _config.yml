@@ -1,12 +1,12 @@
-title: Open Leadership Training Series
+title: Mozilla Open Leaders
 subtitle:
 email: abby@mozillafoundation.org
 twitter: https://twitter.com/MozOpenLeaders
 chat: https://gitter.im/mozilla/open-leadership-training
 description: > # this means to ignore newlines until "baseurl:"
-  Does your MozFest session involve hands-on, project based learning? This
-  training is for anyone running an open project at MozFest. This can be
-  software, curriculum, or anything you can build together with a group.
+  Join a cohort of project leads fueling the Internet Health movement.
+  Receive mentorship and training through the Mozilla Network in this
+  14-week online program on working open.
 baseurl: "/leadership-training" # the subpath of your site, e.g. /blog
 url: "https://mozilla.github.io" # the base hostname & protocol for your site
 github:

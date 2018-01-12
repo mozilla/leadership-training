@@ -1,4 +1,4 @@
-#Mentor Tip Sheet
+# Mentor Tip Sheet
 
 Thank you so much for being a mentor in this program! You'll play a vital role supporting new leaders and facilitating connections within the network.
 

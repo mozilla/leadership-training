@@ -6,7 +6,20 @@ date: 2016-10-06 14:05:56
 
 ### Cohorts
 
-We will have several cohorts going through Mozilla Open Leaders this round. Times and dates haven't been scheduled yet, but here is the weekly schedule for all cohorts.
+We will have several cohorts going through Mozilla Open Leaders this round. The online group is split into [Cohort A](#cohort-a), [Cohort B](#cohort-b), [Cohort C](#cohort-c) and [Cohort D](#cohort-d). The online cohorts will go through the trainings during online cohort meetings.
+
+#### Cohort A
+Meeting time: [Tuesdays at 8am ET](http://arewemeetingyet.com/Toronto/2018-01-09/08:00/w/Mozilla%20Open%20Leaders%20-%20Option%20A)
+
+#### Cohort B
+Meeting time: [Tuesdays at 12pm ET](http://arewemeetingyet.com/Toronto/2018-01-09/12:00/w/Mozilla%20Open%20Leaders%20-%20Option%20B)
+
+#### Cohort C
+Meeting time: [Wednesday at 10am ET](http://arewemeetingyet.com/Toronto/2018-01-10/10:00/w/Mozilla%20Open%20Leaders%20-%20Option%20C)
+
+#### Cohort D
+Meeting time: [Wednesdays at 5pm ET](http://arewemeetingyet.com/Toronto/2018-01-10/17:00/w/Mozilla%20Open%20Leaders%20-%20Option%20D)
+
 
 #### Schedule
 

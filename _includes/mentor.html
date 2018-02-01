@@ -1,3 +1,4 @@
+{% assign link = "/leadership-training/round-" | append: include.round | append: "/schedule/" %}
 {% for mentor in include.mentors %}
   <div class="mentor row">
     <div class="col-md-3">
@@ -17,9 +18,9 @@
           {% if mentor.cohort %}
             <i class="fa fa-group" aria-hidden="true"></i>
             {% if mentor.cohort == "Boston" %}
-              <a href="/leadership-training/round-4/schedule/#boston-cohort">Boston Cohort</a>
+              <a href="{{ link }}#boston-cohort">Boston Cohort</a>
             {% else %}
-              <a href="/leadership-training/round-4/schedule/#cohort-{{ mentor.cohort | downcase }}">Cohort {{ mentor.cohort }}</a>
+              <a href="{{ link }}#cohort-{{ mentor.cohort | downcase }}">Cohort {{ mentor.cohort }}</a>
             {% endif %}
             <br />
           {% endif %}

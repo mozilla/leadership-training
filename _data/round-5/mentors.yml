@@ -1,0 +1,912 @@
+- name: Aankit Patel
+  location: Brooklyn
+  github: aankit
+  twitter: aankit
+  bio: "I am the senior director of academics on the CS4All team at the New York City Department of Education. I got involved with CS education in public schools as an intern in a classroom in the South Bronx while pursuing his Masters at NYU’s Interactive Telecommunications Program (ITP). I leverage my diverse background in data analytics, social entrepreneurship, and creative coding to show teachers the power of computing. In my free time, I bake sourdough, read everything I can, and sail with a club in Brooklyn Bridge Park."
+  areas: Systems, Data, Networks, Education
+  language: Gujurati
+  cohort: A
+
+- name: Achintya Rao
+  location: Geneva, Switzerland
+  github: RaoOfPhysics
+  twitter: RaoOfPhysics
+  bio: "Science communicator at CERN and PhD student in scicomm at UWE Bristol. Interested in open practices across all stages of research."
+  areas: Science Communication, Particle Physics, Open Data, Open Access, R
+  language: Hindi
+  cohort:
+
+- name: Adam Getchell
+  location: Davis
+  github: acgetchell
+  twitter: adamgetchell
+  bio: "I quantize space time and learn how to teach machines.'"
+  areas: C++, Physics, Behavior Driven Development, Continuous Integration
+  language:
+  cohort:
+
+- name: Adrienne Schmoeker
+  location: New York City
+  github:
+  twitter: frecklesforgood
+  bio: "I live and work in New York City as a part of the NYC Open Data Team through the Mayor's Office of Data Analytics. I enjoy working in impact-driven environments that leverage technology to bring that impact to scale. "
+  areas: Event production, promotion, designing an engagement strategy, project management, strategic planning, stakeholder management, product management, launch strategy development
+  language: French
+  cohort: B
+
+- name: Akshay Roongta
+  location: Mumbai, India
+  github: clownbigmole
+  twitter: akshayroongta
+  bio: "I am a design researcher, and have worked in the areas of renewable energy, sanitation and hygiene amongst others. I am interested in active participation, democratization and decentralisation in general, but my work focuses on these principles in social impact projects at scale. "
+  areas: Design Thinking, Human centred Design, Strategy, Social Impact
+  language: Hindi
+  cohort: A
+
+- name: Amel Ghouila
+  location: Tunis, Tunisia
+  github: AmelGH
+  twitter: AmelGhouila
+  bio: "Mozilla Science Fellow
+Bioinformatician @Institut Pasteur de Tunis/H3ABionet
+Technovation Regional ambassador"
+  areas: Bioinformatics, community building
+  language: French
+  cohort:
+
+- name: Amie Fairs
+  location: Nijmegen, The Netherlands
+  github: amiefairs
+  twitter: amiefairs
+  bio: "Open Science enthusiast doing a PhD on language processing"
+  areas: I'm a psychology/linguistic student, so for anyone working on psychology/linguistic/cognitive neuroscience topics I think I could contribute to their projects, or help them in a more specific way. I am also very pro Open Science (I'm an OA ambassador in my research institute) and try to keep up to date with the open science world, so I think I could contibute in any way on that topic also.
+  language:
+  cohort:
+
+- name: Amy Zhang
+  location: Cambridge, MA
+  github: amyxzhang
+  twitter: amyxzh
+  bio: "Amy X. Zhang is a Ph.D. student in Computer Science at MIT CSAIL and a research assistant in the Haystack Group at MIT. She works on designing and building systems to improve discourse, collaboration, and understanding on the web, with applications to social media, news, education, and civic engagement."
+  areas: academia, research, computer science, human-computer interaction
+  language:
+  cohort:
+
+- name: Andrew Nelson
+  location: New York, NY
+  github: werdnanoslen
+  twitter: werdnanoslen
+  bio: "I’m a civic technologist and design researcher, investigating how design and innovative technologies could best be used to improve public services and opportunities for civic engagement. I recently completed my M.S. in Human-Computer Interaction at Georgia Tech, where I focused on aspects of civic media and urban computing primarily with the Public Design Workshop. Now I design and research blockchain solutions related to food safety at IBM and collaborate with civic hackers at betaNYC in New York City."
+  areas: Design, research, food security, hacktivism, open internet, civic tech, HCI
+  language:
+  cohort:
+
+- name: Anna Krystalli
+  location: Sheffield, UK
+  github: annakrystalli
+  twitter: annakrystalli
+  bio: "I'm an ex-Macroecologist and current Research Software Engineer at the University of Sheffield. I help researchers do more with their code and data :)"
+  areas: rstats, Reproducibility, Research software
+  language: Greek
+  cohort: D
+
+- name: Anubha Maneshwar
+  location: Nagpur, India
+  github: anubhamane
+  twitter: anubhamane
+  bio: "Founder GirlScript Foundation, Mozilla Rep, Open Source Enthusiast"
+  areas: Diversity & Inclusion, Front End Development, Public Speaking, Entrepreneurship
+  language: Hindi, Marathi
+  cohort:
+
+- name: April Clyburne-Sherin
+  location: Brooklyn, NY, USA
+  github: aprilcs
+  twitter: april_cs
+  bio: "Open research advocate, scientist, podcast lover. "
+  areas: Community building, Facilitating events and training, Diversity and inclusion, Problem solving
+  language:
+  cohort:
+
+- name: Athina Tzovara
+  location: Berkeley
+  github: aath0
+  twitter: aath0
+  bio: "I am a neuroscientist, studying human perception and cognition. Apart from brains, I am interested in statistics, programming and ways to advance the inclusion of underrepresented minorities in STEM. "
+  areas: Neuroscience, electroencephalography, programming, statistics
+  language: French, Greek
+  cohort: B
+
+- name: Bastian Greshake Tzovaras
+  location: Berkeley, CA, USA
+  github: gedankenstuecke
+  twitter: gedankenstuecke
+  bio: "Loving all things open*: Co-founder of openSNP, Director of Research at Open Humans and visiting scholar to the Bioinformatics Open Source Project group at the Berkeley Lab."
+  areas: a little bit of everything (does that even qualify as expertise?)
+  language: German
+  cohort: D
+
+- name: Berhan Taye
+  location: Addis Ababa, Ethiopia
+  github: btayeg
+  twitter: btayeg
+  bio: ""
+  areas:
+  language: Amharic
+  cohort: A
+
+- name: Bonface Ochieng Okello
+  location: Kisumu , Kenya
+  github: TheBonface
+  twitter: thebonface
+  bio: "From Kisumu- Kenya ,  a social innovator , with background in science in Information technology  having  a keen   interest in Working Open  and how to leverage technology in solving social - economic problems . He is an ardent lover of open source technologies , web technologies  and health informatics technologies ."
+  areas: Project management, Documentation, Programing, Data analysis , Curriculum design management and implimentaion
+  language: Swahili and Little French
+  cohort: C
+
+- name: Brian Bot
+  location: Seattle, WA
+  github: brian-bot
+  twitter: BrianMBot
+  bio: "Principal Scientist, computational oncology and mobile health"
+  areas: open research / genomics / communities around open data
+  language:
+  cohort:
+
+- name: Brianna Marshall
+  location: Riverside, California
+  github:
+  twitter: notsosternlib
+  bio: "Brianna Marshall works at the University of California, Riverside, as Director of Research Services in the UCR Library. Previously, she led the University of Wisconsin's research data management program. She is a passionate advocate for exploring and advancing new ways that libraries can support open research. "
+  areas:
+  language:
+  cohort: D
+
+- name: Camille Maumet
+  location: Rennes, France
+  github: cmaumet
+  twitter: cmaumet
+  bio: "Data scientist for brain imaging research. Research scientist at Inria developing tools and standards to make data sharing (along with all the details that make that data reusable) as easy as possible. I initially trained as a software engineer. "
+  areas: Brain imaging research, Open practices in everyday research, git & GitHub, Python
+  language: French
+  cohort: A
+
+- name: Chad Sansing
+  location: Waynesboro, VA
+  github: chadsansing
+  twitter: chadsansing
+  bio: "Curriculum Manager, Open Leadership; opinions are mine; content is ours; I teach for the users."
+  areas: Education, Facilitation, Open Leadership, Web Literacy
+  language: Spanish
+  cohort:
+
+- name: Chandan Baba
+  location: Mumbai,India
+  github: cbaba20
+  twitter: t4templates
+  bio: "Computer Grad, Developer at Lionbridge, Avid Lover of jQuery , Comics and Open Source. Proud Mozillian and Social media buddy for Mozilla India.  "
+  areas: Web Development , jQuery, Blogs, Open Leadership, community building,github , SUMO
+  language: Hindi
+  cohort:
+
+- name: Chris Hartgerink
+  location: Tilburg, The Netherlands
+  github: chartgerink
+  twitter: chartgerink
+  bio: "Mozilla Science Fellow working on the sustainability of research."
+  areas: Reproducibility/replicability, open access, open science, statistics, R, bash, linux, not having a Google account ;-)
+  language: German, Dutch
+  cohort: A
+
+- name: Chris Otta
+  location: Kisumu, Kenya
+  github: ottagit
+  twitter: otta_chris
+  bio: "Tech community builder, founder and Club Captain Mozilla Maseno, version control aficionado and trainer, open source advocate, Computer Science graduate from Maseno University, Kenya."
+  areas: If there's ever anyone using Git and GitHub or wants to  version control their projects using Git or collaborate on GitHub, I am happy to advise.
+  language: Swahili
+  cohort: C
+
+- name: Christopher Madan
+  location:
+  github:
+  twitter:
+  bio: ""
+  areas:
+  language:
+  cohort:
+
+- name: Daina Bouquin
+  location: Cambridge
+  github: dbouquin
+  twitter: dainabouquin
+  bio: "I’m the Head Librarian at the Harvard-Smithsonian Center for Astrophysics. At the CfA, I primarily focus on lowering social and technical barriers that impact the astronomy community’s ability to create and share their work. Some of my specific topics of interest include open science, research software preservation, machine learning, and the history of science"
+  areas: Data analytics, data management, digital preservation
+  language:
+  cohort:
+
+- name: Daniela Saderi
+  location: Portland, OR, USA
+  github: dasaderi
+  twitter: Neurosarda
+  bio: "Daniela is a PhD Candidate in Neuroscience at Oregon Health and Science University. In her doctoral work she explores how attention and effort affect sound representation in the auditory midbrain. Daniela is an open science advocate, passionate about research and making scientific output available to everyone to advance knowledge and improve transparency. She is an ASAPbio and eLIFE Ambassardor, and recently co-founded PREreview (PREreview.org), a free online platform to collaboratively write reviews of preprints after discussions at academic journal clubs."
+  areas: Open Curriculum, Version Control (Git) and GitHub experience for project management, Community Building, Event Organization, Open Program Management
+  language: Italian
+  cohort: C
+
+- name: Danielle Robinson
+  location: Portland, OR, USA
+  github: daniellecrobinson
+  twitter: daniellecrobins
+  bio: "Co-Executive Director Code for Science & Society, supporting the Dat project,  Stencila, and ScienceFair. Advocate for open scholarship, science, data, and web. Hangs with librarians, toddlers."
+  areas: Sustainable project strategy and governance, community organizing, science policy, open data
+  language:
+  cohort: B
+
+- name: David Bild
+  location: Chicago, IL, USA
+  github: dbild
+  twitter: dbild
+  bio: "revising (shortening) my bio. will resubmit in the next day or two"
+  areas: Science Education, Environmental Education, Connected Learning, Secondary Education, Out-of-school time learning, Youth-led mapping
+  language:
+  cohort: A
+
+- name: David Ross
+  location: London, UK
+  github: bunnybooboo
+  twitter: n/a
+  bio: "Originally hailing from Australia, David now lives in London, UK. He's developing a open source endurance sports platform. Self-taught in tech, active community member, over a decade of retail flagship management, excited by operations and improvements, a transparently active community builder."
+  areas: Overcoming fear of public speaking, workshops, customer service, Mozfest, meetups & events
+  language:
+  cohort: A
+
+- name: Dellicia Shorter
+  location: Franklin, Massachusetts
+  github:
+  twitter:
+  bio: "Mozilla College Campus Regional Coach"
+  areas: Outreach, mentoring, college campus support,  Open source
+  language: Intermediate Spanish
+  cohort:
+
+- name: Derek Howard
+  location: Toronto
+  github: derekhoward
+  twitter: internautderek
+  bio: "I have broad interests in cellular/molecular neuroscience and mental health. I am interested in the novel use and integration of open data in a variety of contexts."
+  areas: Open science, neuroscience, genetics
+  language: French
+  cohort: D
+
+- name: Drashti
+  location: Dehgam, Gandhinagar, India
+  github: drashti4
+  twitter: drashtipandya1
+  bio: ""
+  areas: digital inclusion, especially local collaborative and approaches
+  language: Hindi, Gujarati
+  cohort: C
+
+- name: Edoardo Viola
+  location: Cagliari, Italy
+  github: edovio
+  twitter: edovio
+  bio: "Edoardo Viola is a Technical Office Manager for a little Biotech Corp and a Tutor within the University of Cagliari in Italy. Besides him formal activities, he's a singer, a developer, a community coach and help the citizens to build and improve their digital skills! "
+  areas: Management, ICT, Community, Electronic
+  language: Italian, Spanish
+  cohort: B
+
+- name: Elisabeth Sylvan
+  location: Mountain View CA
+  github: esylvan
+  twitter: lisard
+  bio: "Elisabeth Sylvan is Maker in Residence at the KCI Makerspace and Senior Research Scientist at the San Francisco-based nonprofit, NEXMAP. She has a lifelong passion for sociotechnical systems that support creativity, shared knowledge and collaboration.  Her current open project is Open Data/Open Minds, which supports young learners to develop data literacy through developing their own scientific investigations."
+  areas: education, making, data literacy
+  language:
+  cohort: D
+
+- name: Erin Cole
+  location: San Diego, CA
+  github: erindcole
+  twitter:
+  bio: "Erin studies computer science at UC San Diego.  Her current areas of focus are data science and cyber security."
+  areas: I think I would be most helpful in sharing about collaboration and community building because I felt this is where I learned most. I am not an expert concerning some topics about collaboration, but I like the idea of using my project as a case study because the community support I needed was a little unique, but emphasizes some of the essential needs of effective community building.
+  language:
+  cohort:
+
+- name: Fatma Guerfali
+  location: Tunis, Tunisia
+  github: FatmaZG
+  twitter: GuerfaliFatma
+  bio: "Institut Pasteur de Tunis"
+  areas: Parasitology, molecular biology, Next Generation Sequencing, bioinformatics
+  language: Arabic (Tunisian, Moroccan), French, Italian
+  cohort:
+
+- name: Felipe Do Espirito Santo
+  location: Jaboticabal - São Paulo -Brazil
+  github: felipez3r0
+  twitter: felipez3r0
+  bio: "Felipe is a Professor at FATEC in Taquaritinga (a small town of São Paulo state in Brazil), graduated in Data Processing and have graduate studies in IT Governance and Management. Since 2006 works with web development, and 3 years ago started volunteering at Mozilla involved in Mozilla Clubs, Mozilla Campus Clubs (CAC member, and Regional Coordinator), Tech Speakers, Mozilla Reps, and local community engagement/development."
+  areas: Education and Web dev related topics.
+  language: Portuguese
+  cohort: D
+
+- name: Geraldo Barros
+  location: Campinas, Brazil
+  github: barrosgeraldo
+  twitter: geraldobarros_
+  bio: "I'm a front-end instructor, learning design by hobby and a Mozilla community contribuitor highly engaged in community health, open design and web literacy programs. I love to explore and teach emerging technologies or anything else that can contribute to a Internet more healthier."
+  areas: Web developer, Web literacy, Emerging technologies, Diversity and Inclusion and Community engagement
+  language: Portuguese
+  cohort: B
+
+- name: Gilbert Slade
+  location: Austin, TX
+  github:
+  twitter:
+  bio: "I'm a data scientist with a background in educational research and algorithms, but when I'm not doing that I'm riding my bike, reading anything that's lying around, or learning new synthesizer tricks."
+  areas: Data science, juggling open projects with day jobs
+  language:
+  cohort:
+
+- name: Grant R. Vousden-Dishington
+  location: Mountain View, CA, USA
+  github: GrantRVD
+  twitter: usethespacebar
+  bio: "A computer scientist turned neuroscientist, aiming to make sense of the brains electrical bits."
+  areas: Machine Learning, Computer Science, Neuroscience
+  language:
+  cohort: D
+
+- name: Hao Ye
+  location: Gainesville, Florida, USA
+  github: ha0ye
+  twitter: hao_and_y
+  bio: "I am a University of Florida Postdoc and Moore Data Fellow. My research is in how ecological communities persist and change over time and exploring the stability-complexity question with data. I have a general interest in making STEM/academia more accessible and inclusive through open science training and culture change."
+  areas: time series, complex systems, ecology, R, open science, reproducibility
+  language:
+  cohort:
+
+- name: Harry Smith
+  location: Lancaster, UK
+  github: Zebetus
+  twitter: Zebetus
+  bio: "Student at Lancaster University studying Natural Sciences specializing in Maths and Physics. I've been with Mozilla since 2014 and helping in a variety of areas including mentoring for Open Leaders for several of the last cohorts. I've got a particular interest in quantum technologies and its wider impacts on the world at large as well as bridging the gap between experts with in professions and the wider populous."
+  areas: Well science wise Physics and Mathematics, I also work on organising events and how to approach starting things like charity campaigns or schemes.
+  language:
+  cohort: A
+
+- name: Heather Lent
+  location:
+  github:
+  twitter:
+  bio: ""
+  areas:
+  language:
+  cohort:
+
+- name: Hildah Nyakwaka
+  location: Nairobi, Kenya
+  github:
+  twitter: nyakwakah
+  bio: "A young woman after tech’s own heart with a particular interest in open education and women’s online and offline participation in all important affairs."
+  areas: "Open Education
+Women and the Web"
+  language: Swahili, German
+  cohort: C
+
+- name: Ivo Jimenez
+  location: Santa Cruz
+  github: ivotron
+  twitter: ivotron
+  bio: "PhD candidate at the UCSC Systems Research Lab (SRL) and Center for Open Source Software Research (CROSS). Interested in all things data, science and reproducibility. Popper project leader (http://falsifiable.us)"
+  areas: Reproducibility, devops/sciops
+  language: Español
+  cohort: D
+
+- name: Jason A. Clark
+  location: Bozeman, MT
+  github: jasonclark
+  twitter: jaclark
+  bio: "librarian @msulibrary, associate professor, hacker/developer, author, #SemanticWeb geek - doing it all under the Big Sky http://www.jasonclark.info  he/him/his"
+  areas: Sharing stories, UX and interface design, python and javascript programming, project management, metadata and structured data.
+  language:
+  cohort: B
+
+- name: Josh Wolf
+  location: Washington, DC
+  github:
+  twitter:
+  bio: "I began managing political campaigns in 2004; managing data, technology and reporting for political and advocacy campaigns in 2010 and leading operations, finance, governance, and administrative roles and responsibilities for 501c3, 501c4, and political action committees in 2012.  My knowledge is primarily US Based."
+  areas: Finance, Operations, and Administration are my passions.
+  language:
+  cohort:
+
+- name: Kade Morton
+  location: Wellington, New Zealand
+  github: KadeMorton
+  twitter: cypath
+  bio: "I'm a senior consultant for Deloitte in the Risk Advisory division by day and an open source evangelist by night."
+  areas: information security, community management
+  language:
+  cohort: B
+
+- name: Kaitlin Mahar
+  location: New York City
+  github: kmahar
+  twitter: k__mahar
+  bio: "I recently finished a master's in CS at MIT, where my research focused on designing tools to help people experiencing online harassment. Now, I live in NYC and work as a software engineer at MongoDB. "
+  areas: software development, online harassment
+  language:
+  cohort:
+
+- name: Katie SanFilippo
+  location: Chicago, IL
+  github: katiesf
+  twitter:
+  bio: "Katie currently lives in Chicago, IL and is the West/Midwest Regional Director for ChickTech, a non-profit dedicated to retaining women in the technology workforce and increasing the number of women and girls pursuing technology-based careers.  She loves traveling to meet and connect with new people from all different backgrounds and experiences.  She is passionate about building community while utilizing her experience in nonprofit and youth development to empower others."
+  areas: Youth Development, Community Development, Non-profit Management, Community Engagement, Facilitation, Project Planning
+  language:
+  cohort:
+
+- name: Katja Heuer
+  location: Paris
+  github: katjaq
+  twitter: katjaQheuer
+  bio: "Katja is an artist, philologist and neuroscientist. She studied Fine Arts, English and French Studies, and she is currently a PhD student in neuroscience working in Paris. Her work uses brain imaging, and she is developing various open Web applications, such as BrainBox (http://brainbox.pasteur.fr) and MicroDraw (http://microdraw.pasteur.fr).While focusing her research on brain development, she is also working on projects at the interface between art and neuroscience. "
+  areas: neuroscience
+  language: German, French
+  cohort: C
+
+- name: Kirstie Whitaker
+  location: Cambridge, UK
+  github: KirstieJane
+  twitter: kirstie_j
+  bio: "Turing Institute research fellow studying adolescent brain development and Mozilla Science Lab fellowship alumna. Passionate advocate for reproducible research and improving diversity in STEMM fields. In her spare time she hangs out with her dog in the Lake District."
+  areas: graph theory; neuroscience; reporting reproducible analyses; mental health; simple web development; hand holding through new and uncharted (by the mentee) waters
+  language:
+  cohort: C
+
+- name: Kshitiz Khanal
+  location: Kathmandu, Nepal
+  github: kshitizkhanal7
+  twitter: kshitizkhanal7
+  bio: "Currently involved in research (Open map infrastructure for Sustainable Development); and developing and trying out progressive curriculum on open science, open maps and open data. "
+  areas: Open source software, open hardware, open data, mechanical engineering, energy and sustainability
+  language: Nepali
+  cohort: C
+
+- name: Kumaresan.C.S
+  location: Kochi, Kerala, India
+  github: cskumaresan
+  twitter: cskumaresan
+  bio: "Mozilla Reps,Mozilla Kerala Community liaison  ,CAC Member,RAL,SuMo Lead "
+  areas: Curriculum development, Open Data (for sustainable development)
+  language: Malayalam, Tamil, Hindi
+  cohort: A
+
+- name: Lauren Gardner
+  location:
+  github:
+  twitter:
+  bio: ""
+  areas:
+  language:
+  cohort:
+
+- name: Lequanne Collins-Bacchus
+  location: Toronto
+  github: lequanne
+  twitter:
+  bio: "Lequanne Collins-Bacchus is the founder of PAERE, a digital media lab for social change. She loves exploring possibilities at the intersection of art and technology. "
+  areas: augmented reality, virtual reality, incubators.
+  language:
+  cohort:
+
+- name: Lisa Wright
+  location: Dublin
+  github: lisahandsonline
+  twitter: lisahandsonline
+  bio: "Director of Education at Kilroy's College (distance learning) & Wolfhound Education (film academy)"
+  areas: Open curriculum, course development, copywriting
+  language: Russian, French, German
+  cohort:
+
+- name: Luca Maria Castiglione
+  location: Napoli, Italy
+  github: ecleipteon
+  twitter: ecleipteon
+  bio: "Master student (M.Sc.) in computer science and engineering at University of Naples Federico II. Just another open source addict, his interests are mainly in privacy, security and machine learning. Luca leads the development of Thalos, an open tool that aims to provide anonymous and encrypted file storage and sharing in internet. "
+  areas: As computer engineer I would like to share my knowledge in the field of network security, privacy and cryptography, low level programming (C) and high level programming (Java and JavaScript)
+  language: Italian
+  cohort: C
+
+- name: Lucy Patterson
+  location: Berlin
+  github: lucypatterson
+  twitter: lu_cyp
+  bio: "Freelance science hacker and community organiser. I'm one of the co-organisers of the annual volunteer-run community hackathon, Science Hack Day Berlin, that brings together scientists, artists, designers, developers and enthusiasts for collaborative hacking. Over recent years I've dedicated a lot of my time to advocating for support for DIY science: the practice or application of science outside of an institutional context, typically for civic or cultural purposes. I am part of a collective space and community, Lacuna Lab, focussed on hybrid art practices involving science and technology and usually work as a freelance event organiser and community manager. I live in Berlin but am originally from the UK, and have a background in molecular biology. "
+  areas: Community building, communication, non-hierarchical organisation, coordination and facilitation of hackathons and collaborative events...
+  language: German
+  cohort: C
+
+- name: Madeleine Bonsma-Fisher
+  location: Toronto, Canada
+  github: mbonsma
+  twitter: mbonsma
+  bio: "PhD student in physics @ University of Toronto studying CRISPR systems, UofT Coders president "
+  areas: study groups, Git/GitHub, Python, open projects, leadership
+  language:
+  cohort: D
+
+- name: Marcos Vinícius Carneiro Vital
+  location: Maceió, Alagoas, Brazil
+  github: marcosvital
+  twitter: marcosvcvital
+  bio: "Biologist and Quantitative Ecologist, work as a Lecturer and Researcher at Universidade Federal de Alagoas. I have a broad interest in several themes related to Ecology, Evolution and Conservation Biology (usually working with quantitative methods to investigate those themes), and over the last few years I have grown concerned about Scientific Communication and Open Science."
+  areas: R language and Biostatistics; Working with git and GitHub (still consider myself at a beginner level with Git and GitHub); Scientific Outreach.
+  language: Portuguese
+  cohort: B
+
+- name: María Cruz
+  location: San Francisco, California
+  github: macruzbar
+  twitter: marianarra_
+  bio: "I am from Buenos Aires, and I live in San Francisco. My area of expertise is communication for Learning and Evaluation, including storytelling with  data. I currently work for the Wikimedia Foundation, focusing on creating learning resources, promoting community stories in different contexts, and training community members on two skills: storytelling and project management. "
+  areas: Strategic communications planning, storytelling with data, project planning and management
+  language: Spanish
+  cohort: B
+
+- name: Mario García
+  location: Tuxtla Gutiérrez, Mexico
+  github: mattdark
+  twitter: mariogmd
+  bio: "Free Software Enthusiast. Speaker. Teacher. Member of the Mozilla community in Mexico. Rustacean. Python developer. Blogger"
+  areas: Back-end development, Localization
+  language: Spanish
+  cohort:
+
+- name: Max Franz
+  location:
+  github:
+  twitter:
+  bio: ""
+  areas:
+  language:
+  cohort:
+
+- name: Meghan Lazier
+  location: Washington, DC USA
+  github: meghanlazier
+  twitter: meglaz
+  bio: "Meghan Lazier is a digital product designer who is interested in civic innovation and design for inclusion. She is a graduate of the Design for Social Innovation MFA program at the School of Visual Arts in NYC and was a Fulbright Scholar in Hong Kong. Her work has been featured in the New York Times and Fast Company."
+  areas: user experience, user interface design, participatory design, graphic design
+  language:
+  cohort:
+
+- name: Minn Soe
+  location: London, United Kingdom
+  github: MinnSoe
+  twitter: minn_so
+  bio: "AI Software Engineer in digital healthcare. I have an interest in creating value for the community by aligning for-profit activities. Formerly at CERN where I focused on improving tools for open access. King's College London alumnus."
+  areas: Problem solving in the context of conflicting technical, stakeholder, and user interests. Software Development (Python, Javascript, Java, and other web technologies), Hardware Prototyping, Graphics and Motion Graphics, and Developer Operations (Continuous Integration and Deployment).
+  language: Burmese
+  cohort:
+
+- name: Mmaki Jantjies
+  location: Cape Town, South Africa
+  github:
+  twitter: MmakiJ
+  bio: "Mmaki Jantjies is a researcher and also lecturers on various IT modules. She also researches on education technology software development and use in communities to enhance teaching and learning;  has a research interest on E-Governance and on Women in STEM. Mmaki also leads high school girls, boys and co-educaiton technology clubs which focus on empowering K12 leaners with basic programming and related digital skills. "
+  areas: Women and web literacy, education technology, technology contextualization and adoption, digital inclusion.
+  language: Setswana, isiXhosa, isiZulu, SeSotho, Sepedi
+  cohort:
+
+- name: Monica Granados
+  location: Guelph/Toronto, Canada
+  github: Monsauce
+  twitter: Monsauce
+  bio: "I am a postdoctoral fellow harnessing food web theory to forward conservation and a champion of open science. I study the structure of who-eats-whom in ecosystems and how the strength and location of these connections are changing in response to climate warming. As an open science advocate I not only work in the open but I develop tools to make data more accessible particularly to communities where climate change will have the greatest impact."
+  areas: Open Source development, Introduction to Git and Github, Privacy and Security, Decentralization, Internet Freedom, Academia
+  language: Spanish, French
+  cohort: B
+
+- name: Patricia Monticello Kievlan
+  location: Houston, USA
+  github: triciamonticellokievlan
+  twitter: pmkievlan
+  bio: "Tricia serves as a Program Associate at The Sprout Fund, a Pittsburgh-based nonprofit that works to solve problems, share knowledge, and seed change in western Pennsylvania and beyond. As part of Sprout's Community Building team, Tricia works to foster collaboration and partnerships, facilitate community dialogue, and design engagement events and activities in order to build robust communities of practice. She also works as an instructional designer and teaching consultant with local independent schools and nonprofits, and she has served as an expert edtech reviewer for Common Sense Media since 2013. Before joining Sprout, Tricia spent nearly a decade as a teacher and administrator in independent schools in the United States."
+  areas: community engagement, facilitation design, open educational resources, educational technology
+  language:
+  cohort:
+
+- name: Paul Villoutreix
+  location: Tel Aviv, Israel
+  github: paulvill
+  twitter: paulvilloutreix
+  bio: "Postdoc at the Weizmann Institute of Science - Visiting fellow of the Center for Data Arts - Lead The Embryo Digital Atlas - I love bright colors and twisted shapes "
+  areas: Scientific data visualization, interactive data visualization, applied mathematics, microscopy, open data, open science, WebVR
+  language: French
+  cohort: A
+
+- name: Peter Grabitz
+  location: Berlin, Germany
+  github: petergrabitz
+  twitter: peterrolandg
+  bio: "Medical student from Berlin. Former Associate Technical Officer @WHOatEU. Access to knowledge."
+  areas: Access to medicines/ Open (health) data
+  language: French
+  cohort: D
+
+- name: Peter Omondi Ochieng
+  location:
+  github:
+  twitter:
+  bio: ""
+  areas:
+  language:
+  cohort:
+
+- name: Philipp Bayer
+  location: Perth, Australia
+  github: philippbayer
+  twitter: philippbayer
+  bio: "Co-founder openSNP, bioinformatics postdoctoral researcher at UWA, Perth"
+  areas: Open (source) science, online communities, biology, bioinformatics, GitHub/git
+  language: German, Japanese
+  cohort:
+
+- name: Philo van Kemenade
+  location: Bratislava
+  github: phivk
+  twitter: phivk
+  bio: "Philo van Kemenade works at lab.SNG where he helps the Slovak National Gallery research how digital technology can help connect people to art."
+  areas: digital collections, open Galleries Libraries Archives Museums (openGLAM), digital storytelling, event facilitation
+  language: Dutch
+  cohort: C
+
+- name: Pranshu Khanna
+  location: Ahmedabad
+  github: pransh15
+  twitter: pransh15
+  bio: "Pranshu is an all-active, always working on some project maniac who loves to travel and have fun. He has always been keen on working with new innovative tech and open communities. Being a gourmet who's interested in football, tech and music, he is mostly found with his laptop, with his headphones on, working or playing FIFA or eating."
+  areas: Web Literacy, Decentralization, Web of Things
+  language: Hindi
+  cohort: B
+
+- name: Princiya Marina Sequeira
+  location: Berlin, Germany
+  github: princiya
+  twitter: princi_ya
+  bio: "Outreachy - Lightbeam intern with Mozilla. Extremely passionate about JavaScript. FOSS enthusiast and want to build a community for Lightbeam. Love to speak at conferences, network with people, motivate and mentor them."
+  areas: JavaScript, Data visualisations, D3.js, Technical blogging, Public speaking
+  language:
+  cohort:
+
+- name: Priyanka Nag
+  location: Pune, India
+  github: priyankanag
+  twitter: priynag
+  bio: "I am Priyanka, a Mozillian for a little more than 5 years now. Professionally I am a Technical Writer, working with Red Hat. I am an Open Source enthusiast, an irregular blogger, a Mozilla Reps mentor and a movie addict...well, these are a few from the list of my hobbies. "
+  areas: Professionally I am a technical writer...but I love to do community building and evangelism as a hobby.
+  language: Hindi, Bengali
+  cohort: C
+
+- name: Rachael Ainsworth
+  location: Manchester, UK
+  github: rainsworth
+  twitter: rachaelevelyn
+  bio: "Research Associate and Open Science Champion at the Jodrell Bank Centre for Astrophysics, University of Manchester. I observe jets from young stars with next-generation radio telescopes to investigate the physical processes that assemble stars like our Sun. I also organize a chapter of HER+Data in Manchester (@herplusdatamcr), a meetup group to bring together women who work with and love data - to support one another, share experiences and talk data. I am interested in promoting openness, inclusion, and well-being in STEM. "
+  areas: Astronomy, Open Science, Organising Events
+  language:
+  cohort: A
+
+- name: Raquel Martins
+  location: Basel, Switzerland
+  github: aromartins
+  twitter: _aromartins
+  bio: "Pharmacist, turned neuroscientist, turned healthcare consultant, turning digital health aficionada"
+  areas: being an academic researcher, neuroscience, healthcare subject matter and strategy, LGBTQ, gender-equality
+  language: Portuguese
+  cohort:
+
+- name: Renata Aquino Ribeiro
+  location: Fortaleza
+  github: renataaquino
+  twitter: renataaquino
+  bio: "Researcher, interested in internet governance, diversity, indigenous and vulnerable population, gender issues. From Fortaleza, Ceara, Northeast Brazil, working also in Amazonian and Caribbean regions."
+  areas: Digital inclusion, Community building,
+  language: Portuguese, Spanish
+  cohort: B
+
+- name: Riccardo Iaconelli
+  location: Milano, Italy
+  github: ruphy
+  twitter: ruphy
+  bio: "Riccardo is the Open Source Project Lead for the Italian Government. He is a physicist and free software developer since the age of 13 from Milano, Italy. Hardcore KDE developer, FSFE Fellow and Mozilla Tech Speaker. He has been an advocate of open principles for more than 10 years. He now leads WikiToLearn, an initiative to open and share creative content produced in universities, schools and research centers."
+  areas: Technical tools for collaboration, Introduction on open practices
+  language: Italian, French
+  cohort:
+
+- name: Rob Schaefer
+  location: St Paul, MN
+  github: schae234
+  twitter: CSciBio
+  bio: "I am a computational biologist working in agricultural research. Previously worked on nutritional quality in corn and currently studying metabolic disease in the horse. When I'm not in front of a computer screen, I'm on a yoga mat. Currently live in St Paul, Minnesota!"
+  areas: Python, Bioinformatics, Statisitcs, Javascript, Databases, Genetics
+  language:
+  cohort: C
+
+- name: Rute Correia
+  location: Lisbon, Portugal
+  github: aariops
+  twitter: WhiteMarketCast
+  bio: "I am a radio person and open content geek from Lisbon, Portugal. For nearly a decade, I have produced and hosted White Market Podcast, an advocate podcast about free music and free culture. I am also a Communication PhD student at ISCTE - IUL; trying to build bridges between open source and community radio stations."
+  areas: Content production
+  language: Portuguese
+  cohort:
+
+- name: Sam Muirhead
+  location: Wellington
+  github: cameralibre
+  twitter: cameralibre
+  bio: "I'm an animator, documentary filmmaker, and long-time advocate of Open Source in fields beyond software - from sustainable open source hardware and Circular Economy, to parametric underwear and animation for activism. Based in  Wellington, Aotearoa New Zealand."
+  areas: Open Source, Community Building, Free Culture, Video, Circular Economy, Animation
+  language: German
+  cohort: D
+
+- name: Samantha Ahern
+  location: "Live: Huntingdon, Work: London"
+  github: quirksahern
+  twitter: 2standandstare
+  bio: "I am a member of the Digital Education team at University College London, I work in London but live in Cambridgeshire. I escaping the city at the end of the day. I've spent the last year exploring learning analytics and ethical considerations, this is an extension of that. Expertise - education / pedagogy, information security and an understanding of machine learning basics."
+  areas: Learning design, pedagogy, online learning, data science ethics, educatonal data mining
+  language:
+  cohort:
+
+- name: Samantha Hindle
+  location: San Francisco
+  github: SamanthaHindle
+  twitter: HindleSamantha
+  bio: "Samantha Hindle was previously an Assistant Professional Researcher studying Neuroscience at UCSF in San Francisco and recently transitioned to the Content Lead position (editorial manager) at bioRxiv, the preprint server for biology. She has long been a keen advocate for Open Science and Science Communication initiatives, acting as an Ambassador for ASAPbio and iBiology, and as a Senior Producer at the science podcast Carry The One Radio. She was an Open Leader in the MOL Cohort #4 where she co-developed the preprint journal club starter kit/PREreview project with Daniela Saderi."
+  areas: Preprints/scientific publishing/peer review/open access
+  language:
+  cohort:
+
+- name: Sara Todaro
+  location: Arma di Taggia, Italy
+  github: kitsunenosarat
+  twitter: S4r4_T
+  bio: "Member of the Mozilla Italia volunteers' l10n team since 2012. Aside from translation and proofreading, I often tutor new volunteer localizers and coordinate their activities. Recently we developed an Open Source-friendly localization guide for the Open Leadership program: https://mozillaitalia.gitbooks.io/l10n-guide/"
+  areas: localization
+  language: Italian, Japanese
+  cohort:
+
+- name: Schalk Neethling
+  location: Pretoria, South Africa
+  github: schalkneethling
+  twitter: schalkneethling
+  bio: "Front end web engineer, JavaScript programmer, passionate about open source and the open web. A life long learner seeking new challenges, with a deep belief in equality, mutual respect, justice, happiness and prosperity for all. We are all part of the global human race, with a shared consciousness. What each of us do today, will have an impact on the future we will all share."
+  areas: Front-End Web Development, running open source projects, documentation, remote work
+  language: Afrikaans
+  cohort:
+
+- name: Shawn Goulet
+  location: Barnstable, MA
+  github: shawnmgoulet
+  twitter: shawnmgoulet
+  bio: "I'm a Geospatial Developer based outside of Boston, Massachusetts, USA that uses data with a spatial component to solve problems.  I started working with GIS and now build web mapping applications leveraging JavaScript technologies."
+  areas: curriculum development; geospatial/geography; web application development; environmental
+  language:
+  cohort:
+
+- name: Shreyas Narayanan Kutty
+  location: Bangalore, India
+  github: dunebuggie
+  twitter: dun3buggi3
+  bio: ""
+  areas: Community building, online communities, events, conferences, social media, collaboration
+  language: Hindi, Malayalam, Tamil
+  cohort:
+
+- name: Siddharth Prakash Rao
+  location: Helsinki, Finland
+  github: sidtechnical
+  twitter: sidnext2none
+  bio: "@FordFoundation @MozillaAdvocacy Open Web Fellow @edri. PhD candidate @AaltoUniversity. Ex "
+  areas: Privacy, Security, Cryptography, Data Science, Machine Learning, Open source anything.
+  language: Kannada, Konkani, TuLu, Tamil, Hindi, Finnish
+  cohort:
+
+- name: Subhashish Panigrahi
+  location: Bengaluru, India
+  github: psubhashish
+  twitter: subhapa
+  bio: "Subhashish is an educator, and long time Openness advocate. He currently works as the Chapter Development Manager at the Internet Society, and was leading Community Development for Asia at Mozilla, and played various community catalyst roles at Wikimedia Foundation and Centre for Internet Society. He founded OpenSpeaks to build digital documentation for native languages and cofounded a nonprofit O Foundation that stands for developmental work in Openness, Diversity and Inclusion, and STEM."
+  areas: Community/capacity building, social media marketing, mentorship
+  language: Odia, Hindi, Kannada, Bengali
+  cohort:
+
+- name: Sydette Harry
+  location: Far Rockaway
+  github: Sydette
+  twitter: blackamazon
+  bio: "Sydette came to make trouble in the name of love and has focused her professional "
+  areas: Community, Online community, Social media , peer mentorship
+  language: French
+  cohort:
+
+- name: Sydney Swaine-Simon
+  location: Montreal, Canada
+  github: syswsi
+  twitter: syswsi
+  bio: "Born and raised in Montreal, my mission in life is to:Catalyze innovation, Push for accessible Neurotech, Empower people through education in entrepreneurship and technology.About three years ago I cofounded one of the larger incubators in Quebec called District 3 which provides free support for startups. I fell in love with the maker ideology in 2013 during a visit to my first maker fair in New York which shifted my energy towards pushing for accessible neurotechnology.Currently, I'm a co-founder of NeurotechX, a non-profit organization which is facilitating the advancement of Neurotechnology by offering networking opportunities and learning resources and open source tools. "
+  areas: Neuroscience, project management, team building
+  language: French
+  cohort: D
+
+- name: Taís de Souza Lessa
+  location: Vancouver, Canada
+  github: taisdesouzalessa
+  twitter: taislessa
+  bio: "UI/UX Designer at Mozilla Foundation. I believe in making eye catching interfaces that work well and bring delight to users. "
+  areas: interactive design (UI and UX), html and css, visual design
+  language: Brazilian Portuguese
+  cohort:
+
+- name: Tim Head
+  location: Zurich, Switzerland
+  github: betatim
+  twitter: betatim
+  bio: "Scientific brain for hire. Used to work at CERN, now a data science consultant and open-sourcer"
+  areas: thinking with data, scientific thinking for problem solving (keep breaking your problem down till you can start solving something), all sorts of programming, AI,
+  language: German
+  cohort: A
+
+- name: Uriel Jurado
+  location:
+  github:
+  twitter:
+  bio: ""
+  areas:
+  language:
+  cohort:
+
+- name: Viral Parmar
+  location: Ahmedabad, Gujarat, India
+  github: veerskyfire
+  twitter: viralparmarhack
+  bio: "I am Cyber Security researcher by profession and open source enthusiast, working in a field of information security from last two years with the expertise in Cyber Crime Investigation, Public Key Infrastructure, Web App Penetration Testing, Digital Forensics and Mobile Security. I started my contribution in Mozilla last year with the privacy events to aware people about privacy and security and till now i gave more than 50 session and aware more than 15,000 people. Recently we started an initiative called Logout where our planning is to aware more than 50,000 people in india  about rights to privacy,  cyber security, net neutrality, surveillance , issues with bio-metric scan(aadhar card) and cyber disorder.      "
+  areas: I m an entrepreneur, with experience of two years i can work on big projects to make them market ready, manage the project, deploy the project and do market reach out as well as get the feed back as soon as possible and improvise, so using my skill i can help out the project leads. My technical expertise is in information security domain and delicately working on aware people about privacy and security
+  language: Hindi, Gujarati
+  cohort:
+
+- name: Will Kearney
+  location:
+  github:
+  twitter:
+  bio: ""
+  areas:
+  language:
+  cohort:
+
+- name: Yo Yehudi
+  location: Cambridge
+  github: yochannah
+  twitter: yoyehudi
+  bio: "Software Engineer at InterMine in the University of Cambridge. Loves Open Source, quiet working spaces, sci fi, bicycles, and veggies. "
+  areas: Web development (including JavaScript, HTML, markdown - happy to help with weird bugs!), Usability
+  language: Hebrew
+  cohort: D
+
+- name: Zannah Marsh
+  location: Gainesville FL
+  github: zee-moz
+  twitter:
+  bio: "I'm an educator/designer, artist, and writer living in sunny Gainesville, FL in the USA. "
+  areas: "I'm a learning strategist for Mozilla. I've taught web tech, digital art, and design in formal and informal learning environments. I've also worked in content strategy and experience design for museums and cultural centers with a special focus on science communication. I also have an expertise in visual/sequential communications (comics and cartooning)."
+  language:
+  cohort:
+

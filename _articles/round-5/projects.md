@@ -4,7 +4,7 @@ title: "Projects"
 date: 2016-10-06 14:05:56
 ---
 
-Project in Round 5 will be announced on February 8.
+Project in Round 5 will be announced on **February 8**.
 
 ### Cohorts
 

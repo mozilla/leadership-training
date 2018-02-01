@@ -6,7 +6,7 @@ layout: home
 
 Our fifth cohort of Mozilla Open Leaders starts in February 2018! We’re looking for Open Project Leaders to fuel the Internet Health movement by engaging more contributors in their work and connecting with other leaders in the Mozilla community.
 
-<div class="home-card"><center><h4><a href="https://goo.gl/forms/O0bx7OtL2cw7fOsI3">Apply Now!</a></h4><br />Applications close January 17, 11:59pm EST</center></div>
+<div class="home-card"><center><h4>Applications are Closed for Round 5</h4><br /></center></div>
 
 ![](/leadership-training/img/mozfest.jpeg)
 

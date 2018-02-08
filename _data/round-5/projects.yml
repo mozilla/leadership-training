@@ -1,0 +1,553 @@
+- name: "#Rethink Web Literacy!"
+  description: "This project seeks to invigorate a whole new concept of “Pact” model in Web literacy among local young people in Cape Town, South Africa by providing an enabling environment, multidisciplinary and safe space for informal learning and exchange of experiences around the digital space. The aim is to provide young people with the skills they need to become digital players, content producers and leaders so they can advance in their personal and professional lives.
+"
+  cohort: A
+  lead:
+  - Oarabile Mudongo
+
+- name: "Activismo Lenguas: a online resource exchange for language digital activism"
+  description: "The project seeks to create a portal for peer learning and exchange for communities participating in an open and linguistically diverse web. Built upon the shared experiences of indigenous language digital activists in Latin America, the portal will document existing initiatives, resources to start a project what tools to use, and what strategies to follow to make your project of language digital activism sustainable."
+  cohort: A
+  lead:
+  - Mónica Bonilla
+
+- name: "Commons Platform (Mycelium?)"
+  description: "The Commons Platform is an open source, decentralised commons-owned social network for community organising, activism, resource-sharing, crowd-sourcing, open access research and data, independent media, ethical commerce and a new economy.
+
+Mission: to create a network that every person who wants to can access by 2025, which will enable them to collaborate to create solutions for themselves, their communities and the wider world, by harnessing and developing new open source technologies."
+  cohort: A
+  lead:
+  - Sophie Varlow
+  - Nick Wood
+
+- name: "floWeaver (old name 'sankeyview' on GitHub)"
+  description: "My vision is build common tools with other researchers for analysing and visualising data about stocks & flows of materials, so researchers can effectively share data and communicate results: in particular, opportunities to reduce the 20% of industrial carbon emissions due to making these materials.
+
+I am developing an open-source framework for analysing and visualising flow data as Sankey diagrams. My ambition is to grow this beyond my research group to be a core tool for this analysis."
+  cohort: A
+  lead:
+  - Rick Lupton
+
+- name: "India.data: Indian data analysis and inference for the wide open world"
+  description: "India.data is an open source initiative with two aims: 1) to aid government decision making and policy framing through knowledge and trends drawn from data based visualizations, graphs, maps and charts; and 2) knowledge dissemination to the citizens of India and everyone else on the internet by analysing, cleaning, segregating and visualizing the vast troves of data made public through OGD, the open Goverment data initiative. "
+  cohort: A
+  lead:
+  - Karan Sapolia
+
+- name: "Kickstart the city (working title)"
+  description: "
+Birmingham, the UK’s second largest city, has few options for public discussion of online privacy and security, with most work focused in London.
+
+I want build my research and experience into a collaborative community that kickstarts the West Midlands conversation (2.5 million pop.). I hope to find collaborators (activists, artists, technologists) to develop new projects leading to long-term impact.
+
+End documentation will inspire other regions to kickstart their own hubs of activity.
+"
+  cohort: A
+  lead:
+  - Fiona Cullinan
+
+- name: "Maker Learning Curriculum for Rapid Prototyping"
+  description: "My first exposure to hardware prototyping was because of a rapid prototyping class at Georgia Tech where I worked on a Arduino Weather Lamp as seen here https://www.youtube.com/watch?v=ubEovpiNTng. And while the project itself was not very sophisticated or hi-fidelity it served as an amazing training ground for learning hardware hacking.
+My project aims to capture the curriculum taught in the class and make it available to instructors so they can appropriate it to their own context of teaching."
+  cohort: A
+  lead:
+  - Manasvi M Lalwani
+
+- name: "Makered.io"
+  description: "Open online community forum for maker educators"
+  cohort: A
+  lead:
+  - Carlos Izsak
+
+- name: "MBac - Computer vision tool for bacterial motility assays"
+  description: "Bacterial surface colonization and biofilm formation depends on motility in surface environments. Therefore studying bacterial motility is very important to better understand bacterial virulence and persistence. Unfortunately setups vary quite a lot and the reproducibility of bacterial motility assays is comparatively low. For this reason I want to develop an open source imaging setup and computer vision based software to perform and analyse bacterial motility assays!"
+  cohort: A
+  lead:
+  - Alexander Kutschera
+
+- name: "Method Cards: Bringing Web Literacy Curriculum into UX"
+  description: "Web literacy is important for all people, but what about the researchers and designers who dedicate their careers to user-centered products and services? What tools do they need to ensure an open, accessible web? Reading, writing and participating on the web are the foundations of literacy. Once achieved, how do we know we are designing and shipping accessible products and services?
+
+This project aims to bring Mozilla’s Web Literacy curriculum into the domain of UX. "
+  cohort: A
+  lead:
+  - Meag Doherty
+
+- name: "Open Apparel Registry (OAR)"
+  description: "My company - Sourcemap (sourcemap.com) - is working with the C&A Foundation to design and build an online open map + database of all apparel factories worldwide. The OAR aims to create one standardized registry of factory names and addresses that will a) eliminate issues with matching factories across multiple, inconsistent databases, and b) facilitate collaboration across all kinds of stakeholders working in the apparel industry - from brands and suppliers to civil society organizations."
+  cohort: A
+  lead:
+  - Rhea Rakshit
+
+- name: "Parliamentary Debates Open"
+  description: "The tool aims to make parliamentary speeches open and accessible covering Hungarian parliamentary debates since 1990.
+The scraped speeches are processed using Natural Language Processing, ElasticSearch is used for search backend, and Kibana will be applied for data visualization.
+The minimal viable product is a filterable dashboard for name, topic, party, and date, returning the relevant speeches. Additional features will include top lists, histograms and comparisons."
+  cohort: A
+  lead:
+  - Borbala Toth
+
+- name: "Teaching & Learning on/with the Open Web Expertise Hub - TLOWEH"
+  description: "In a media environment where we have increasingly lost control of our personal data and commodifying spaces are so ubiquitous, it is essential to nurture and understand the value of those digital ‘oasis’ that allow people to take more ownership of their online presence. TLOWEH aims to gather insights, inspiring examples and models contributed by educators and learners from all over the world who have incorporated the Open Web into their teaching and learning practice (e.g Domains of One's Own). "
+  cohort: A
+  lead:
+  - Daniel Villar-Onrubia
+
+- name: "The Foundation For Public Code"
+  description: "We try and create an open source ecosystem for public code, both computer and legal, with an explicit focus on cities. We want to be like the Linux Foundation or Apache Foundation for city open source projects. I'm currently embedded in the City of Amsterdam's data-portal team to help them transition into open source and we're hoping that we'll soon be able to bring more projects into a shared collective foundation."
+  cohort: A
+  lead:
+  - Boris van Hoytema
+
+- name: "The Open Reflectometry Project"
+  description: "Reflectometry researchers must understand plasma physics, microwave propagation, RF electronics and data processing; taking months to years browsing publications and dissertations, before becoming productive.
+The Open Reflectometry Project aims i) to facilitate the knowledge transfer and collaboration between reflectometry researchers; ii) to educate plasma physicists and engineers that use reflectometry data; iii) and to improve the transparency and reliability of reflectometry diagnostic data."
+  cohort: A
+  lead:
+  - Diogo Aguiam
+
+- name: "The People's Roadmap to a Digital New York City"
+  description: "BetaNYC is leading the update of the People's Roadmap (nycroadmap.us), a community vision document that helps guide our city's digital future. Our first Roadmap, issued in 2013, contained 34 policy recommendations. Since then, 14 of these ideas were drafted into legislation, 9 were signed into law, and another 9 became public-private partnerships. In this update, we want the visioning and writing process to be more inclusive and create a product that is more user friendly."
+  cohort: A
+  lead:
+  - Lauren Rennée
+  - Ashley Cortez
+
+- name: "Translating open research in Agriculture to local language for Ethiopian farmers understanding to promote citizen science"
+  description: "
+This project propose to translate the open research outputs in agriculture to local languages like Amharic  and also making  the  translation pf the scientific terms to everyday language that the farmers can understand. The translations will be openly available using an online platform to farmers and also to the public so that facilitates citizen engagement in open science including data collection and data analysis which will promote citizen science to increase agricultural productivity.
+"
+  cohort: A
+  lead:
+  - Solomon Mekonnen
+
+- name: "Voices under Threat"
+  description: "This project is part of my work as a member of the Support and Safety Team of the Wikimedia Foundation. We have been aware for a long time that volunteers on the Wikimedia projects are under pressure from governments or other agencies of power because of their contributions to the projects. We aim to find ways to help them mitigate such threats.
+
+The goal of this project is to create a series of toolkits, resources and processes for supporting individuals and communities under such threats.
+"
+  cohort: A
+  lead:
+  - Christel Steigenberger
+
+- name: "Building connections between UNESCO and the open movement"
+  description: "I have been working as Wikimedian in Residence at UNESCO for two years and have funding to continue my work for 2018, an overview is available here https://goo.gl/Wq7eqv
+
+UNESCO shares many goals with open organisation including: adoption of Open Access, Free and Open Source Software, Universal Access to information and a healthy internet. To date there has been little cooperation, UNESCO would like to change this, I would like to use the three months to understand how this could happen.
+"
+  cohort: B
+  lead:
+  - John Cummings
+
+- name: "Endangered Data Week Open Curriculum"
+  description: "Endangered Data Week (http://endangereddataweek.org/) is a program that sheds light on the social, political, and technical threats to access to public data. We coordinate educational events and workshops to enable citizens to fight for government transparency and accountability. In our first year, we had over 50 events internationally, though most were associated with US universities. Our goal this year is to broaden our reach to include more populations and communities outside of academia."
+  cohort: B
+  lead:
+  - Brandon Locke
+  - Sarah Melton
+  - Jason Heppler
+  - Rachel Mattson
+
+- name: "Life long learning and digital literacy"
+  description: "During our non-formal activities we often see that youth workers or volunteers who need to validate the learning of young people online via Open Badges, isn't able yet to support the young person on the digital level, as well as recognising the learning. We want to support these adults in overcoming this digital gap. I want to do this through developing a tool that will support these adults."
+  cohort: B
+  lead:
+  - Sandra van de Kraak
+
+- name: "Live Whiteboard"
+  description: "Internet has replaced almost everything but conventional teaching methods.Though there are many online resources but they lack one to one interaction of the teacher and students.
+So we have come up with the idea of a Live Whiteboard where people can connect live using the app or the web solution and write/discuss/scribble their ideas.Students studying from distance can get the blackboard teaching experience, people collaborating on remote projects can discuss and develop their ideas graphically."
+  cohort: B
+  lead:
+  - Apoorvaa Gupta
+  - Bhavya Aggarwal
+
+- name: "Make Rwanda Web literate"
+  description: "Our project aims at increasing digital literacy and the number of people using internet and web in Rwanda.We train and equip  youth leaders with the skills and knowledge to teach web literacy in low-resourced areas across the country those trained youth leaders become Digital Ambassadors. In the next 5 years, the ambassadors are expected to reach millions of individuals who are (or will be) coming online for the first time."
+  cohort: B
+  lead:
+  - Solange Tuyisenge
+
+- name: "Open repository for tech for good global"
+  description: "In my day job at Bethnal Green Ventures, we're starting to build techforgood.global as media platform and knowledge hub for all things tech for good. However, despite our principles reflecting that making things open, we haven't really been practising what we preach. I have the ambition for tech for good global to become the go-to platform for community building and information with regards to tech for good, and build a repository of tech for good case studies that is truly global. "
+  cohort: B
+  lead:
+  - Dama Sathianathan
+
+- name: "Open Source Microwave"
+  description: "Making our products open source is essential to build a more sustainable, fair and circular economy. We are a team of designers and developers in the process of establishing an open cooperative committed to create social and sustainable impact using the power of open source design. We think there is a huge opportunity in designing a product platform of open source appliances, and we want to start with a microwave. "
+  cohort: B
+  lead:
+  - Vinay Bhajantri
+  - Jose Carlos Urra Llanusa
+
+
+- name: "Open Sourcing DuraCloud: Beyond the License"
+  description: "DuraCloud, our successful digital preservation storage service, uses an open source license, but lacks the community contribution model that typically defines an open source project. Our Mozilla Open Leadership Training project aims to correct this by developing strategies and communication techniques to foster greater engagement and collaboration around digital preservation and the software used to ensure digital content remains accessible to everyone for the long term."
+  cohort: B
+  lead:
+  - Erin Tripp
+
+- name: "Open Web for Social Good"
+  description: "Promoting the usage Open Web tools to increase productivity and efficiency of the work done towards social good"
+  cohort: B
+  lead:
+  - Shashikanth Reddy Palvatla
+
+- name: "OpenLearn through open research"
+  description: "Open Learning through Open research project will be researching how large scale of students can learn in groups in Open learning environments.
+MOOCs are trending yet it  uses pedagogy of information transfer, students are often isolated and there will be no collaborations among students.
+Our goal is to make MOOCs more effective by identifying active, interactive and collaborative designs
+We will set up small groups and facilitate to take online courses in MOOC platforms
+
+"
+  cohort: B
+  lead:
+  - Dilrukshi Gamage
+  - Hasara Maithree
+
+- name: "Oregon Nonprofit Index"
+  description: "My project focuses on creating open data about nonprofit organizations in the state of Oregon.  This web project will provide the groundwork for a reproducible workflow for all US states and territories.  Also, this will allow people easy access to geographically referenced financial data on nonprofits and will also enable people wh without data searching, access, and cleaning skills increased access to these resources."
+  cohort: B
+  lead:
+  - Jonathan O. Cain
+
+- name: "Pawah! Tech for human rights"
+  description: "Pawah! is a project that seeks to foster free speech, protect human rights and help activists and journalists that might be in danger. Pawah! has a fake front-end and hides files on device seizure cases. The files are automatically encrypted and then sent to a secured cloud once the device can connect to a network. To reinforce the capabilities of Pawah! we want to develop skills on how to integrate Pawah! to other practices and useful digital security tools. "
+  cohort: B
+  lead:
+  - Cristian Leon Coronado
+  - Antonella Maia Perini
+  - Matías Bianchi
+
+- name: "PhyloProfile"
+  description: "In Evolutionary Biology, the presence/absence pattern of a gene over a set of species is called its “phylogenetic profile”. Phylogenetic profiling is a technique for finding the biological relationships between genes. Due to the uninformative of the basic profile, I am developing PhyloProfile, a visualization method that allows to enrich regular profiles with further data, to make phylogenetic profiling more meaningful. PhyloProfile is open source written in R, making heavy use of Shiny library."
+  cohort: B
+  lead:
+  - Ngoc-Vinh Tran
+
+- name: "Privacy manual for journalists"
+  description: "Create a Resource that journalists can use to understand how to manage their privacy and secure their communications and their sources"
+  cohort: B
+  lead:
+  - Guillermo Movia
+
+- name: "Reading for Gender Bias"
+  description: "
+Implicit gender bias in evaluations negatively impacts women at every stage of their career. The goal of this project is to create a web-based text-mining tool that scans and reveals language bias associated with evaluations and letters of recommendation written for trainees and applicants. Bringing awareness to the existence of implicit bias may impact how evaluations for women are drafted and judged, thereby providing a concrete way to tackle gender disparities."
+  cohort: B
+  lead:
+  - Mollie Marr
+
+- name: "Spread Open Healthy Web"
+  description: "With my knowledge in open source, I will bring up women to the web. I will help them and support them to learn, teach and participate in open web. I will be happy and excited to conduct online and offline events for enthusiastic contributors."
+  cohort: B
+  lead:
+  - Fahima Zulfath A
+
+- name: "The Aquarius Project"
+  description: "Last year a meteor broke up 60 miles over Wisconsin & splashed down into Lake Michigan.  We know of no previous systematic attempt at underwater recovery of meteorites. It's this combination of knowns & unknowns that has inspired students & science professionals to mount, “The Aquarius Project.”  This multidisciplinary endeavor is the first student driven attempt at underwater meteorite retrieval & we wish to include the greatest number of students in this hands on science endeavor."
+  cohort: B
+  lead:
+  - Chris Bresky
+
+- name: "Viva las Venus"
+  description: "Nowadays, mostly of our lives are online, but in times of excessive mass surveillance, data collection, harassment, net neutrality in danger, it becomes more than necessary to know how to protect yourself and the loved ones through learning about privacy and security in digital media. Las Venus is a long term project that aims to be a seeder for other projects for a healthier, safe and diverse internet, who teaches women- cis and trans - through workshops, debates, talks, in person and online."
+  cohort: B
+  lead:
+  - Cybelle Oliveira
+
+- name: "WeTalk."
+  description: "It is a forum or an anonymous community, where teenagers can ask questions only related to INTEGRAL SEX EDUCATION. Maybe many teenagers are 'embarrassed' to talk to an adult or their peers. Our app wants to cross the TABÚ towards the Integral Sexual Education, because this is not a forbidden topic, it is not a sensitive issue, it is something necessary and it must be informed in all the institutions! We want to give young people access and avoid accidents!"
+  cohort: B
+  lead:
+  - Camila Roson
+  - Aixa Acosta
+
+- name: "WordPress Plugin Observatory"
+  description: "WordPress has become one of the most popular FLOSS CMS systems and it comes with a continuously growing community responsible for over 50K plugins also available as FLOSS. Unfortunately not all of the plugins play well with each other, nor are properly maintained. We aim in creating an open platform that will crowd source the experience of combining different plugins of WordPress with state of the art software quality metrics helping developers build faster and more secure websites."
+  cohort: B
+  lead:
+  - Apostolos Kritikos
+
+- name: "An R software toolkit to simplify an open, collaborative scientific workflow"
+  description: "Many fields of science are far behind adopting open scientific practices (e.g. share code). I believe these will be a requirement for publication in the future. However, one of the biggest challenges for many researchers/scientists is that it's not (at this point) easy to do these practices. This toolkit will simplify and automate many of these tasks. I have already started work on this software project with prodigenr (https://github.com/lwjohnst86/prodigenr)."
+  cohort: C
+  lead:
+  - Luke Johnston
+
+- name: "BklynConnect"
+  description: "Working with group of youth from the Brownsville Community Justice Center, The Brooklyn Public Library, and the New York City Mayor's Office of Technology and Innovation to co-design and deploy wireless access in a public plaza, and an interactive kiosk. Topics could include teaching the public about how surveillance, data, and networks impact the lives of young Brooklynites. "
+  cohort: C
+  lead:
+  - Maya Wagoner
+
+- name: "Broadband Performance and Internet Measurements Data in Africa"
+  description: "I am a Ford-Mozilla Open Web Fellow hosted by Research ICT Africa. I am working on a Broadband Performance and Internet Measurements project. The idea is to collect/analyse performance data. I would like to develop a portal that hosts this data, with the ability for users (even basic Internet end-users) to make sense of this data in terms of graphs, charts, images, etc to guide decision-making and improve service provision. "
+  cohort: C
+  lead:
+  - Sarah Kiden
+
+- name: "Coding the Mind: Advancing Global Wellbeing through Open Digital Health"
+  description: "The absence of theoretical rigor and transparency in mHealth intervention and innovation too often results in a black box approach, yielding tools that are neither generalizable nor scalable. Given the explosion of knowledge about psychiatric disorders, our platform (codingthemind.org) will delineate how a cognitive sciences and neuroscience approach can inform the selection, operationalization, and design of digital health technology to intervene in processes hindering wellbeing worldwide."
+  cohort: C
+  lead:
+  - Kathy Trang
+
+- name: "ContextExplorer: Analysis of organized cell behavior"
+  description: "I want to understand mammalian development and contribute to regenerative medicine cell therapies against currently untreatable diseases. As part of my PhD project, I am using Python and Qt to develop a GUI-driven image data processing application to help biologists study organized cellular behavior in this context in a quantitative manner. These analysis methods are currently not accessible to scientists without a programming background, which is hindering widespread study of these biological processes."
+  cohort: C
+  lead:
+  - Joel Ostblom
+
+- name: "Crowd2Map Tanzania"
+  description: "Crowd2Map was born at Mozfest15 with the aim of mapping rural Tanzania, which is currently missing from maps, particularly to help protect girls from FGM. We’ve recruited >3500 online volunteers, trained >400 community mappers in Tanzania and mapped >2 million buildings into OpenStreetMap. Having better maps helped protect >2000 girls from FGM in the last “cutting season”. We were awarded a microgrant from HOT in June and are organising a 3 day training conference in Dar in December."
+  cohort: C
+  lead:
+  - Janet Chapman
+
+- name: "IGNITE"
+  description: "This project aims to put up a training and incentive program in Science Communication to young scientists. The first step would be to gather information about scientists’ needs and worries when they are asked to do SciComm. The next step will be to put up (fun and not much time consuming) training modules focused on these information. We will also look for international applications for funding, so we could offer a fellowship for the trainees or a prize in a contest at the end of the training."
+  cohort: C
+  lead:
+  - Gracielle Higino
+
+- name: "lab.js"
+  description: "We're trying to make building browser-based behavioral experiments easy and accessible. To this end, our project provides a visual interface for constructing studies (e.g. in psychology, economics, or cognitive- and neuroscience) without code.
+Besides ease of use, the second goal of our project is to encourage the open exchange of study materials and tasks, so that they can be adapted and replicated. Any part of a study can be shared and re-used by fellow researchers."
+  cohort: C
+  lead:
+  - Felix Henninger
+
+- name: "M4Labs"
+  description: "The project aims to collect methologies used by global labs for innovation. As part of a larger project (dig. platform), Ill classify labs via attributes such as: tools, methodologies, collaboration processes, data type, policies / law, docs (licenses), skills, actors .  Systematize the methodologies, compare and analyze its (repo) and find gaps. I m interested in demonstrate the potential to establish links between education, science and open data movements related in this case to methodologies"
+  cohort: C
+  lead:
+  - Virginia Brussa
+
+- name: "ME-BIDS"
+  description: "Functional magnetic resonance imaging (fMRI) is a widely used tool providing a non-invasive, high-resolution index of brain activity. Recently, the Brain Imaging Data Structure (BIDS) was introduced to standardize fMRI data sets, enabling data discovery and—through associated BIDS Apps—analysis. A remaining challenge of fMRI data is its sensitivity to artifacts. Multi-echo analysis (Kundu et al., 2011, NeuroImage) was developed to address this; however, no multi-echo BIDS App currently exists."
+  cohort: C
+  lead:
+  - Elizabeth DuPre
+
+- name: "Mission:Information"
+  description: "Mission:Information is a media and web literacy curriculum aimed at empowering teens to be strong producers, consumers, and distributors of information and media online. The curriculum currently includes three open-source lessons that focus on misinformation. I hope to expand the curriculum to to incorporate computer science concepts that equip students to both better understand and combat the current misinformation crisis, and to fully engage with and shape the internet itself. "
+  cohort: C
+  lead:
+  - Sarah Morris
+
+- name: "Open Advocacy"
+  description: "Open Advocacy is a collection of Open Source Advocacy tools/services, exciting part is all these are secure.
+
+Advoacacy is a essential part of socities and so does Internet, in this era of data tracking, mass-surveillance and unethical attempts of monitization of advocacy platforms, this project will be a very needed resource to provide free, accessible, open-source, privacy secured apps/services at one place.
+
+Inviting activists, techies, organizations working with similar goals to collaborate."
+  cohort: C
+  lead:
+  - Ranjith Raj Vasam
+
+- name: "Open Data Kit"
+  description: "Open Data Kit (ODK) is a set of tools to author, field, and manage mobile data collection solutions used primarily for humanitarian purposes. ODK has recently transitioned out of the University of Washington to being a community-led project. As part of that effort, I have been involved in setting up a new forum (forum.opendatakit.org), Slack (slack.opendatakit.org), contributor guides for sub projects (e.g. https://github.com/opendatakit/collect/blob/master/CONTRIBUTING.md), etc."
+  cohort: C
+  lead:
+  - Hélène Martin
+
+- name: "Open Source Circular Economy Days"
+  description: "The Open Source Circular Economy Days is a global project and community exploring Open Source methodologies for the development of sustainable circular economy that is capable of fighting climate change, resource depletion and and species extinction.
+
+The project started in 2015 with a global event. Over the past 3 years over 100 people in over 100 cities got involved. But there is a lot of work to do to progress in the future!
+
+Website: https://oscedays.org"
+  cohort: C
+  lead:
+  - Seigo Robinson
+  - James Gien Wong
+
+- name: "p5.js"
+  description: "p5.js is an open-source JavaScript framework that makes coding and creating visual media on the web accessible to artists, designers, educators, beginners, engineers, and anyone! It's taught in K-12 to universities worldwide, in art and design programs as well as engineering programs. The key part for me is that diversity, inclusion, and access are core values upon which p5.js is built, allowing all technical, design, and outreach efforts to flow from this: http://p5js.org/community."
+  cohort: C
+  lead:
+  - Lauren McCarthy
+
+- name: "Parkology: An Open Online Community for People Who Love Parks"
+  description: "Parkology is an open, nonprofit partnership being developed by City Parks Alliance, National Recreation and Park Association, and The Trust for Public Land. Its aim is to increase local stewardship and park creation by empowering individuals and communities to leverage knowledge, share information, inform park advocacy, and develop best practices for accessing quality parks. This free, online platform will strengthen communities facing disparities in a fair allocation of resources. "
+  cohort: C
+  lead:
+  - Natalie Garcia
+  - Jeffrey Keefer
+
+- name: "Phinch: An interactive, exploratory data visualization framework for environmental –Omic datasets"
+  description: "Phinch is a open source browser-based, interactive data visualization tool for exploring environmental genomics datasets that enables rapid scientific visualization during the typical scientific research workflow. The project is a collaboration between Dr. Holly Bik (Assistant Professor at UC Riverside) and Pitch Interactive (a data visualization studio in Oakland, CA), and is funded by the Alfred P. Sloan Foundation. End users include reserachers, educators, students, and citizen scientists."
+  cohort: C
+  lead:
+  - Holly Bik
+
+- name: "Sentencing with Numbers"
+  description: "Risk assessment algorithms and facial recognition software are used for surveillance and censorship in the United States. My proposed project will help communities promote more transparent and accountable law enforcement practices. Communities should have a right to dismantle these “black boxes” and evaluate whether these tools are perpetuating racial, ethnic, and economic biases. Citizens have the right to know how governments design and implement surveillance and predictive policing tools."
+  cohort: C
+  lead:
+  - Di Luong
+
+- name: "StoryEngine"
+  description: "StoryEngine is an impact narrative method that can be used for research, evaluation/assessments, and grant reporting -- all the while creating useful communication/marketing/onboarding/network-building assets for both participants and the organization. It is unique because it is open, adaptable, and seeks to provide value to participants (many similar methods are extractive, never giving back to interviewees). "
+  cohort: C
+  lead:
+  - Christine Prefontaine
+  - Alecia Kuhl
+
+- name: "Teaching open digital literacy to refugees"
+  description: "In the past 2 years, I've been organizing digital literacy courses for refugees, migrants & asylum seekers arriving in Italy (where I live) from Africa and Asia. Most of them have received very little education. I would like to find a way to improve the curriculum in order to include elements of digital awareness (privacy, data protection, Internet rights etc) while we teach the the basics (how to use a computer, navigate on the Web) -- preferably with non-standard education practices."
+  cohort: C
+  lead:
+  - Martina Puppi
+
+- name: "The Rust Content Team"
+  description: "I will be leading the Rust Content Team, a sub-group of the Rust Community Team. As leader I will initiate new posts for the community blog, organise and promote content such as videos and podcasts, and help people who want to write their own blog posts about Rust.
+
+This is an exciting opportunity given the popularity of our existing resources.
+
+The community team is a small group of individuals, the content team even smaller, so we plan to engage the community to help us achieve our goals.
+"
+  cohort: C
+  lead:
+  - Mark Sta Ana
+
+- name: "Beyond Activismo (BA)"
+  description: "Is exciting because it aims to document the experience and stories of activists in causes related to Human Rights around the world. Our purpose is to understand how people from different cultures, religions and countries have in common the activism. In addition, we are trying to share the experiences of these activists with others to serve as a source of inspiration. How? doing interviews, photos, videos, then translating the content into different languages and publishing them in the BA website"
+  cohort: D
+  lead:
+  - Josefina Caro Magaña
+  - Danny Rayman Labrin
+  - Valentin De Negri Fischer
+
+- name: "Citizen's Proxy"
+  description: "With this project I'm trying to make a digital place and physical experience that connect the citizens, teacher in particulars, with the importance of learn and teach about Net Neutrality, privacy an Open Web for the defence of our rights and a collective constructions of a healthy Internet."
+  cohort: D
+  lead:
+  - Alvar Maciel
+
+- name: "Digital Grassroots"
+  description: "Digital Grassroots is a program formed by 2017 Internet Society Youth@IGF fellows, all of whom are below 25 years old. Our program aims to actively engage youths in addressing internet problems at a grassroots level with a bottom-up approach. We host an Ambassadors program to train local champions below 29 years old on internet literacy to accomplish the SDGs through training, mentorship and global community engagement. "
+  cohort: D
+  lead:
+  - Rebecca Ryakitimbo
+  - Joy Wathagi Ndungu
+  - Uffa Modey
+  - Esther Mwema
+  - Adisa Bolutife
+  - Noha Ashraf Abdel Baky
+  - Katie Watson
+  - N’Guessan Charlette
+  - Adja Maty SEMBENE
+
+- name: "Digital Safety for Open Researchers"
+  description: "Digital safety is a new and evolving issue in academia. Scholars who wish to work openly do not have time to investigate the topic in addition to their already full teaching and research schedules. Few online resources exist to address these issues in an academic context. We hope to empower researchers/instructors to take charge of their own digital safety through the creation of an online toolkit that can be used at point of need and incorporated into higher education coursework."
+  cohort: D
+  lead:
+  - Verletta Kern
+  - Beth Lytle
+  - Elliott Stevens
+
+- name: "ETER || open educational resources on citizen science & environmental monitoring for teachers"
+  description: "Our project aims to disseminate open source practices among high school teachers by co-prototyping with them an open air quality monitor, publishing open air quality data they can reuse with students and documenting the  experience in an OER kit. We want teachers to experience the potential that open practices have to address local community issues. Teachers can play a key role in influencing students towards local social innovation, but most of them feel 'outdated' regarding ICTs."
+  cohort: D
+  lead:
+  - Julieta Arancio
+
+- name: "FlyCAGE"
+  description: "FlyCAGE is a web application that allow users to search for genes in fruit flies that follow a specific expression pattern. The user can either enter a known gene name to find other genes with similar expression profiles, or the user can enter a custom expression pattern based on experimental data to find genes that follow the pattern. FlyCAGE would be useful in identifying candidate genes involved in a given process and discovering regulatory interactions in genetic networks."
+  cohort: D
+  lead:
+  - Basheer Becerra
+
+- name: "GirlsGetGeeky"
+  description: "The project will take ladies through programming skills.  This will be done through Ruby On Rails. We will have weekly meet up every Saturday. The main aim of the project is to bridge the gap in women in tech which has been decreasing in the past decades.  At the end of the program each attendee will have a working web application. It will also open doors for the attendees to the many women in tech opportunities."
+  cohort: D
+  lead:
+  - StellaMaris Njage
+  - Sigu Magwa
+
+- name: "HACKccessibility: expose the documentation and contribution guides that live in developers heads!"
+  description: "Documentation requires a lot of human energy. Tons of programs are fully featured and yet little documented.
+
+An HACKccessibility wizard will help developers to document undocumented code and a webapp populated by data from an analysis of git repositories will provide insight on pieces of code with regards to their documentation and code patterns.
+
+A set of free software projects exposing little documentation will be contacted and proposed to use the wizard for documentation sprints. "
+  cohort: D
+  lead:
+  - Jibé Bohuon
+
+- name: "Information Activism Student Group"
+  description: "My project draws on our students’ activist nature and commitment to addressing social inequities and empowering students to be open leaders. Our students tend to be very interested in engaged when discussing information privilege. Thus, the purpose of an information activism student club would be twofold: students will lead campus efforts to 1) to promote Open Access and reduce barriers to information by supporting openness and 2) to advocate for OER adoption across the institution."
+  cohort: D
+  lead:
+  - Cynthia Mari Orozco
+
+- name: "Money Talks and So Should We: Personal Assessment Tools for Finance Education"
+  description: "At Pockets Change we’re changing the way money is taught. We combine Hip Hop, Finance, and Design Thinking to build financial capability in K-12 and early adulthood.
+
+Our workshops and lessons are a start but useful and accessible finance personal assessments are severely lacking in education. Those that exist do little to support the development of self-efficacy and understanding, rather they focus on calculating compound interest and other out of date skills. Let’s build them!! "
+  cohort: D
+  lead:
+  - Andrea Ferrero
+
+- name: "Newbook Digital Texts"
+  description: "The project that I co-direct aims to publish lesser known yet significant historical texts. The scope of our work has included 19th century Nile and Iraqi travel journals, Georgian literature, and Ottoman poetry.We aim to bring these important works to a global audience by publishing them openly online, along with the digital tools that we are developing to assist us with our work.  "
+  cohort: D
+  lead:
+  - Sarah Ketchley
+
+- name: "NoConnect"
+  description: "NoConnect is a project to connect the unconnected part of the world.
+
+It is an android application (for now)which enables chat & message passing without any network, off the grid.
+It creates a decentralized, end to end encrypted scalable peer to peer mesh network.It can use a combination of wifi and bluetooth interchangeably to create the mesh network. It is not bound to any one of them, can use both separately or mixed in a network. Also if 1 node has Internet that can be shared among everyone"
+  cohort: D
+  lead:
+  - Rabimba Karanjai
+
+- name: "Open African Repository"
+  description: "The aim of this project is to build an open plateform that will be a repository of scientifics and non scientifics knowledges of Africa. This repository will regroup documents (audios,  videos, articles) about knowledges of Africa.
+I first want to inventory all the sources of Africa knowledges (websites, forum, etc... ) before building the plateform that will probably be a web plateform."
+  cohort: D
+  lead:
+  - Ahinon Sègbédji Justin
+
+- name: "Open Stories"
+  description: "Open Stories aims to gather success stories of Open advocates and practitioners to show that a successful Open career is possible. Many researchers view Open as a potential risk and they may not see their fields represented in well-known Open advocates. By collecting Open success stories and making them discoverable by storyteller location, discipline, career level, and language, we can better represent the success stories of open practitioners and encourage other researchers to go Open."
+  cohort: D
+  lead:
+  - Chealsye Bowley
+
+- name: "Open Yeast Engineering Project (OYEP)"
+  description: "Would you drink a GMO beer? What if you brewed it yourself? The open yeast engineering project (OYEP) at BosLab is an open-ended exploration into yeast engineering. We get together, run experiments, do analyses, and engineer yeast strains to produce flavors, fragrances, and small molecules with the hopes of dextinctifying forgotten flavors or using some resultant strains to produce glowing banana flavored chocolate stout and artificial rosé. "
+  cohort: D
+  lead:
+  - Timothy Stiles
+
+- name: "OpenHeart Project"
+  description: "The OpenHeart Project aims to improve research practices within the field of mechanical circulatory support (MCS) to improve quality of life for heart failure patients. We aim to promote collaboration and standardization through an open-source research platform. Furthermore, we aim to leverage the existing resources and expertise to develop new and improved solutions for MCS. Through development of online curricula and training tools we aim to improve education and training of researcher.
+"
+  cohort: D
+  lead:
+  - Jo Pauls
+
+- name: "We are All Connected - Educational Video Center"
+  description: "The We are All Connected open educational resource site will work to bridge the urban/rural and digital equity divides.  This digital media curriculum will foster dialogues among rural/urban youth, address challenges in rural areas, embody social justice/digital equity values & best practices of urban & place-based rural pedagogies. This model of digital media teaching/learning will be sent to the broader Mozilla Hive NYC community, educators/practitioners from New York, Tennessee, among others."
+  cohort: D
+  lead:
+  - Mary Grueser
+  - Emmanuel Garcia
+
+- name: "Whose Data?"
+  description: "Whose Data? aims to help Canadians understand who owns our data and how it can be used. As lines between ‘online life’ & ‘real life’ become increasingly irrelevant, we're realizing how much data is generated by--and about--each of us. This data may be about me, but whose is it, really? What rights over it & its use do I have? Whose Data aims to make it easier for everyday Canadians to know the answers to those questions and participate in related discussions that affect our lives & livelihoods."
+  cohort: D
+  lead:
+  - Sam Burton
+
+- name: "WikiPathways"
+  description: "WikiPathways using the same platform as wikipedia, but instead of editing articles, researchers log in to draw pathway diagrams for biomedical research. The project is open source; our content is all CC0; and we have some community-building success stories so far. But we could do better. My goals include learning how to (1) lead this open project better, (2) recruit contributors at all levels, especially other leaders, (3) organize the first Community Summit meeting in late 2018, and more..."
+  cohort: D
+  lead:
+  - Alexander Pico

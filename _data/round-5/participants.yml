@@ -14,7 +14,7 @@
   cohort: B
   img: https://drive.google.com/uc?id=1yDWszUhQKNPUmokhkVqoBnLhhuShu3zJ
 
-- name: Alecia
+- name: Alecia Kuhl
   location: Washington, DC
   github: ankuhl
   twitter: retroladybug
@@ -40,7 +40,7 @@ Cofounder of Loup, a boutique consulting firm specializing in human centred desi
   cohort: D
   img: https://drive.google.com/uc?id=12vwd__YIF-4Ss8oOeEv62NSDMJGtN6wt
 
-- name: Alvar
+- name: Alvar Maciel
   location: Buenis Aires, Argentina
   github: alvarmaciel
   twitter: amaciel
@@ -128,7 +128,7 @@ Cofounder of Loup, a boutique consulting firm specializing in human centred desi
   cohort: B
   img: https://drive.google.com/uc?id=1rcZmoAabqq1qitDpYallbciP673A-5As
 
-- name: Borbala
+- name: Borbala Toth
   location: Barcelona / Budapest
   github: borbota
   twitter: borbota
@@ -649,6 +649,15 @@ projects and organizations both for the State and also for NGOs."
   cohort: A
   img: https://drive.google.com/uc?id=1hIGdSIHPdIDNvpkCUeOvEOSQveNR9eQY
 
+- name: Rabimba Karanjai
+  location: Houston, TX
+  github: rabimba
+  twitter: rabimba
+  bio: "Rabimba Karanjai is a graduate student studying at Rice University, Houston - Texas. As part of his research at present he is teaching computers to code.
+He also is a Mozilla TechSpeaker and works with Mozilla Research Mixed Reality team to make our reality more interesting and virtual. In another life he has worked with IBM Watson, biometrics and blockchain teams in Almaden Research and TJ Watson Lab. He is passionate about mixed reality, security, privacy and would love to have a chat with you over a cup of coffee or beer"
+  cohort: D
+  img: https://lh3.googleusercontent.com/umWDgMyv7-KxcpOwFXgjvbEdQvOPjNP-0OZBCcqA3ITqvkMwm5sXKC4_Q0eC2toBJODNOsHiHM4ciK6XKbZxHCbjH8lUwxl2mGao_Qiw_Pg5n5PJVXPhQK2VbVaurYP0tfXB1aw_PIclmMuwwlGb6NV5cv83QPYcAmV6fi7WmAZYeoeVkDumyNioFlYZSulko69YkvmSQE-95_gmUTx-ZF4KPurdmF2UVvt3FJqtMNkLolJhD2MLnrOWX7a07lhf9Ld6MevFVb5mftOg3s5d81yCrIB41H2QWH3WN4y1JpCCkTvwbiDtO1WPZUHd59xBc2qWpm1xVM3tCFx526hvxTmAB60KckrhGJ7ejBuEmxjG7WfDB91-y2t49zg8XNXjTnVbZ2xsTQKfOGcFTQn6kcLLRXGioUaBjijmVl0ZdNqB1ZbXZSMEbdydrK7Xzt6XM3KGE8HYS1ncPetv2lQQiljYW5UdOJkBIKT7v7DLmIVcj3GKIkHF45MqTOKrEEB-3UVDsUFfDdhaRpX6Ojv8xQpi3oKzTqn_kXg7V0_KnNWnYmjFXphlqkw7vkaOq0EzmYS1KoF2FraHJgb7akJC4a-iGRNw-pNkOXzULcA=w596-h447-no
+
 - name: Rachel Mattson
   location: Brooklyn, NY
   github: rachmattson
@@ -657,7 +666,7 @@ projects and organizations both for the State and also for NGOs."
   cohort: B
   img: https://drive.google.com/uc?id=1M013mo18GDGdN_I9_6v_k263Sx0KX_nr
 
-- name: Ranjith Raj
+- name: Ranjith Raj Vasam
   location: Hyderabad, India
   github: RanjithRajV
   twitter: RanjithRajV
@@ -667,7 +676,7 @@ He has his expertise in Web Development, Cyber Security and Data Science.  Often
   cohort: C
   img: https://drive.google.com/uc?id=1LfE4GZV8n1rdesefTRZc8f6eaiew_kQB
 
-- name: Rhea
+- name: Rhea Rakshit
   location: Mumbai
   github:
   twitter: rrakshit

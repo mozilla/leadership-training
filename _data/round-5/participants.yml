@@ -14,7 +14,7 @@
   cohort: B
   img: https://drive.google.com/uc?id=1yDWszUhQKNPUmokhkVqoBnLhhuShu3zJ
 
-- name: Alecia Kuhl
+- name: Alecia
   location: Washington, DC
   github: ankuhl
   twitter: retroladybug
@@ -40,7 +40,7 @@ Cofounder of Loup, a boutique consulting firm specializing in human centred desi
   cohort: D
   img: https://drive.google.com/uc?id=12vwd__YIF-4Ss8oOeEv62NSDMJGtN6wt
 
-- name: Alvar Maciel
+- name: Alvar
   location: Buenis Aires, Argentina
   github: alvarmaciel
   twitter: amaciel
@@ -96,6 +96,14 @@ Cofounder of Loup, a boutique consulting firm specializing in human centred desi
   cohort: D
   img: https://drive.google.com/uc?id=1t65DXdOJFjFD7nw2AUsi6m6ynoeD7Izu
 
+- name: Ben Chrobot
+  location: Brooklyn, New York
+  github: bchrobot
+  twitter:
+  bio: "I work on tooling for computational genomics research at Weill Cornell Medicine's Mason Lab in New York City. Tools like Github and Bitbucket have made developing software in the open easy to do and I am interested in identifying open workflows for other processes."
+  cohort: A
+  img: https://drive.google.com/uc?id=14O46ZbidiaXHGPDsb-1ZZYZwNQhBQOam
+
 - name: Beth Lytle
   location: Seattle
   github:
@@ -112,7 +120,15 @@ Cofounder of Loup, a boutique consulting firm specializing in human centred desi
   cohort: B
   img: https://drive.google.com/uc?id=1utAlOb-qVmpgybdMAKcgoAY6ulo5azdM
 
-- name: Borbala Toth
+- name: Bill Branan
+  location: Melbourne, Florida
+  github: bbranan
+  twitter:
+  bio: "Bill works at DuraSpace in the development and operations of hosted software services based on open source technology and is interested in sustainable models which allow open source software projects to be built and expanded."
+  cohort: B
+  img: https://drive.google.com/uc?id=1rcZmoAabqq1qitDpYallbciP673A-5As
+
+- name: Borbala
   location: Barcelona / Budapest
   github: borbota
   twitter: borbota
@@ -136,7 +152,7 @@ Cofounder of Loup, a boutique consulting firm specializing in human centred desi
   cohort: B
   img:
 
-- name: Camila Roson
+- name: Camila
   location:  THE MATANZA - SAN JUSTO
   github: Camilaroson
   twitter: camilaRoson1
@@ -151,6 +167,14 @@ Cofounder of Loup, a boutique consulting firm specializing in human centred desi
   bio: "I work as an educator and in community development , interested in maker, steam, project based learning and developing 21st century skills for children and young people. Currently working on makercart project (pop-up mobile makerspace) and building maker ed community (makered.io)."
   cohort: A
   img: https://drive.google.com/uc?id=1GIF5noIH86UhM_6mayOPDmW4qB5JUlOs
+
+- name: Ceciliah Wairimu
+  location: Nairobi, Kenya
+  github: cesswairimu
+  twitter: cesswairimu254
+  bio: "I live in and work in Nairobi, Kenya. I am a Ruby on rails developer and currently diving into python and nodejs. I am interested in IOT."
+  cohort: D
+  img:
 
 - name: Chealsye Bowley
   location: Boulder, CO, USA
@@ -221,7 +245,7 @@ Cofounder of Loup, a boutique consulting firm specializing in human centred desi
   github: drdvo
   twitter: villaronrubia
   bio: "I work at Coventry University's Disruptive Media Learning Lab (DMLL) as Principal Innovation Lead. My work focuses on the adoption of digital practices and cultures within Higher Education, with a special interest in Open Education, online media literacies and Internet-based intercultural collaborations. One of the most interesting things I am doing as part of my current role is to lead on the development of a Domains of One's Own (DoOO) initiative."
-  cohort: A
+  cohort: D
   img: https://drive.google.com/uc?id=1xR95FXK4kW3FwzEeNhXbTbzajxEjA46P
 
 - name: Danny Rayman Labrin
@@ -259,19 +283,11 @@ Other than my main research, I take leading roles in to close the gap between wo
   img: https://drive.google.com/uc?id=1p4D0HtFHEn24iYoX7Nc9Cy21SmlMbjnQ
 
 - name: Diogo Aguiam
-  location: Portugal
+  location: Lisbon, Portugal
   github: daguiam
   twitter: digooaguiam
   bio: "I am an Electronics Engineer with passion for systems integration, working towards a PhD in Physics developing microwave diagnostics for Nuclear Fusion, the future of energy! I travel often between Lisbon, Portugal and Munich, Germany. I try to promote Open Science as much as possible in my work and within my institute.
 "
-  cohort: A
-  img:
-
-- name: Diogo Elói Aguiam
-  location: Lisbon, Portugal
-  github: daguiam
-  twitter: diogoaguiam
-  bio: "I am an Electronics Engineer with passion for systems integration, working towards a PhD in Physics developing microwave diagnostics for Nuclear Fusion, the future of energy! I travel often between Lisbon, Portugal and Munich, Germany. I try to promote Open Science as much as possible in my work and within my institute."
   cohort: A
   img:
 
@@ -513,6 +529,22 @@ projects and organizations both for the State and also for NGOs."
   cohort: C
   img: https://drive.google.com/uc?id=1wK1_b9Dtc7b3JEwZJUVWkT30CUbAQAHp
 
+- name: Madeline Mundt
+  location: Seattle
+  github:
+  twitter: madelinem47
+  bio: "Head of the UW Libraries' Research Commons, an interdisciplinary space for student researchers. Interested in equity in higher education, student research, information literacy, public scholarship, interdisciplinarity, representation, and more."
+  cohort: D
+  img: https://drive.google.com/uc?id=1PBdM4PYhL1jXUy42g9_sTP9-qg3oQvys
+
+- name: Madison Sullivan
+  location: Seattle, WA
+  github:
+  twitter: beastlibrarian
+  bio: "I am a Business Research and Instruction Librarian at the University of Washington. I am passionate about open scholarship, OER, outreach, and scholarly communications."
+  cohort: D
+  img: https://drive.google.com/uc?id=1MwBeFrOGZoKfHLt7ArX7d7QDn9Q5lxVw
+
 - name: Manasvi M Lalwani
   location: Jersey City
   github: manasvil
@@ -625,16 +657,7 @@ projects and organizations both for the State and also for NGOs."
   cohort: B
   img: https://drive.google.com/uc?id=1M013mo18GDGdN_I9_6v_k263Sx0KX_nr
 
-- name: Rabimba Karanjai
-  location: Houston, TX
-  github: rabimba
-  twitter: rabimba
-  bio: "Rabimba Karanjai is a graduate student studying at Rice University, Houston - Texas. As part of his research at present he is teaching computers to code.
-He also is a Mozilla TechSpeaker and works with Mozilla Research Mixed Reality team to make our reality more interesting and virtual. In another life he has worked with IBM Watson, biometrics and blockchain teams in Almaden Research and TJ Watson Lab. He is passionate about mixed reality, security, privacy and would love to have a chat with you over a cup of coffee or beer"
-  cohort: D
-  img: https://lh3.googleusercontent.com/umWDgMyv7-KxcpOwFXgjvbEdQvOPjNP-0OZBCcqA3ITqvkMwm5sXKC4_Q0eC2toBJODNOsHiHM4ciK6XKbZxHCbjH8lUwxl2mGao_Qiw_Pg5n5PJVXPhQK2VbVaurYP0tfXB1aw_PIclmMuwwlGb6NV5cv83QPYcAmV6fi7WmAZYeoeVkDumyNioFlYZSulko69YkvmSQE-95_gmUTx-ZF4KPurdmF2UVvt3FJqtMNkLolJhD2MLnrOWX7a07lhf9Ld6MevFVb5mftOg3s5d81yCrIB41H2QWH3WN4y1JpCCkTvwbiDtO1WPZUHd59xBc2qWpm1xVM3tCFx526hvxTmAB60KckrhGJ7ejBuEmxjG7WfDB91-y2t49zg8XNXjTnVbZ2xsTQKfOGcFTQn6kcLLRXGioUaBjijmVl0ZdNqB1ZbXZSMEbdydrK7Xzt6XM3KGE8HYS1ncPetv2lQQiljYW5UdOJkBIKT7v7DLmIVcj3GKIkHF45MqTOKrEEB-3UVDsUFfDdhaRpX6Ojv8xQpi3oKzTqn_kXg7V0_KnNWnYmjFXphlqkw7vkaOq0EzmYS1KoF2FraHJgb7akJC4a-iGRNw-pNkOXzULcA=w596-h447-no
-
-- name: Ranjith Raj Vasam
+- name: Ranjith Raj
   location: Hyderabad, India
   github: RanjithRajV
   twitter: RanjithRajV
@@ -644,7 +667,7 @@ He has his expertise in Web Development, Cyber Security and Data Science.  Often
   cohort: C
   img: https://drive.google.com/uc?id=1LfE4GZV8n1rdesefTRZc8f6eaiew_kQB
 
-- name: Rhea Rakshit
+- name: Rhea
   location: Mumbai
   github:
   twitter: rrakshit
@@ -668,7 +691,15 @@ He has his expertise in Web Development, Cyber Security and Data Science.  Often
   cohort: D
   img: https://drive.google.com/uc?id=1RLDr9Ex84UZnzFB9hdSsTkJmQqMSCe_m
 
-- name: Sarah Melton
+- name: Sandra van de Kraak
+  location: The Netherlands
+  github:
+  twitter:
+  bio: "Hi, I'm Sandra van de Kraak, resident in The Netherlands but working internationally as youth worker and trainer in the field of youth. Awareness and proactivity towards a life long learning attitude and understanding importance of  digital literacy is an important principle in my work nowadays."
+  cohort: B
+  img: https://drive.google.com/uc?id=17trL9G1BlTUGJMYy6pccocKWkhMGJoLl
+
+- name: Sarah
   location: Melton
   github: svmelton
   twitter: WorldCatLady
@@ -794,6 +825,6 @@ He has his expertise in Web Development, Cyber Security and Data Science.  Often
   location: Rosario, Argentina
   github:
   twitter: virbrussa
-  bio: "Virginia  is an internationalist, living in Rosario, Argentina. Interested in the digital world, innovation and open practices ( academic + gov + humanitarian issues). She is a former SBTF Regional Coordinator , co-organized the First Latin American MSF Scientific Day , Coord +Datalab and the Argentine Network of Open Education (AREA). Member of the Argentine Association of Digital Humanities, CIM and others academics/researcher spaces. Also she work closely with a citizen innovation lab ( hacking civic area - Santa Fe), gender projects, open movement(s). Love maps and the ritual of 'mate'!"
+  bio: "Virginia  is an internationalist, living in Rosario, Argentina. Interested in the digital world, innovation and open practices ( academic + gov + humanitarian issues). She is a former SBTF Regional Coordinator , co-organized the First Latin American MSF Scientific Day , Coord +Datalab and the Argentine Network of Open Education (AREA). Member of the Argentine Association of Digital Humanities, CIM and others academics/researcher spaces. Also she work closely with a citizen innovation lab ( hacking civic area - Santa Fe), gender projects, open movement(s). Love maps and the ritual of \"mate\"!"
   cohort: C
   img:

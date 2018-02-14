@@ -33,9 +33,9 @@ Week | Meeting | Modules
 <b>6:</b> Mar 27/28 | (30 min) 1:1 with your mentor: review goals & progress, bring in topic expert if needed. |
 <b>7:</b> Apr 3/4  | (1.5 hours) Full cohort: Running Awesome Events |
 <b>8:</b> Apr 10/11  | (30 min) 1:1 with your mentor: review goals & progress, bring in topic expert if needed. |
-<b>9:</b> Apr 17/18 | (1 hour) Full cohort: Demos | Share your progress & ask for help
+<b>9:</b> Apr 17/18 | (1.5 hours) Full Cohort: Community Building 2.0 |
 <b>10:</b> Apr 24/25  | (30 min) 1:1 with your mentor: review goals & progress, bring in topic expert if needed. |
-<b>11:</b> May 1/2 |  (1.5 hours) Full Cohort: Community Building 2.0 |
+<b>11:</b> May 1/2 |  (1 hour) Full cohort: Demos | Share your progress & ask for help
 <b>12:</b> May 8/9 | no meeting - get ready for the sprint | Mozilla's Global Sprint (May 10-11 -- NEW DATE)
 <b>13:</b> May 15/16 | (30 min) 1:1 with your mentor: Final mentor meeting! Celebrate & debrief. |
 <b>14:</b> May 22/23 | (1 hour) Full cohort: Final Demos |

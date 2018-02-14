@@ -708,8 +708,8 @@ He has his expertise in Web Development, Cyber Security and Data Science.  Often
   cohort: B
   img: https://drive.google.com/uc?id=17trL9G1BlTUGJMYy6pccocKWkhMGJoLl
 
-- name: Sarah
-  location: Melton
+- name: Sarah Melton
+  location:
   github: svmelton
   twitter: WorldCatLady
   bio: "Sarah Melton is the Head of Digital Scholarship at Boston College Libraries, where her team explores and documents new tools and supports teaching and research using broad methodologies. Sarah received her PhD from Emory University’s Graduate Institute of the Liberal Arts.

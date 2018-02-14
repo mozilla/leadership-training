@@ -451,6 +451,7 @@ html.no-js .sidebar .collapsible-content {
 #content img {
   max-width:100%;
   border:1px solid #CCC;
+  image-orientation:from-image;
 }
 
 #content h4 {

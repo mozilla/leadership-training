@@ -617,6 +617,14 @@ projects and organizations both for the State and also for NGOs."
   cohort: A
   img: https://drive.google.com/uc?id=1c-FdkTNIJjN5LBUVfENx-HiQUMlqPKTr
 
+- name: Mark Whiting
+  location: Mountain View, California
+  github: markwhiting
+  twitter: markwhiting
+  bio: "I'm a postdoctoral scholar at Stanford in the HCI group in Computer Science. I am facenated by how we make decisions and what we can do to do that better, individually, in communities, and as a species. In this way, I study how to design automated decision systems and how to design communities around specific goals."
+  cohort: B
+  img: whiting.me/Headshot.jpeg
+
 - name: Natalie Garcia
   location: New York, New York
   github:

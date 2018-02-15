@@ -543,7 +543,7 @@ projects and organizations both for the State and also for NGOs."
   twitter: beastlibrarian
   bio: "I am a Business Research and Instruction Librarian at the University of Washington. I am passionate about open scholarship, OER, outreach, and scholarly communications."
   cohort: D
-  img: https://drive.google.com/uc?id=1MwBeFrOGZoKfHLt7ArX7d7QDn9Q5lxVw
+  img: https://drive.google.com/uc?id=1fBoDRKT5UzavBbeDbUKjbG9WhWa3ebSF
 
 - name: Manasvi M Lalwani
   location: Jersey City
@@ -560,6 +560,14 @@ projects and organizations both for the State and also for NGOs."
   bio: "i live in Colchester, and work in the City of London. I'm a software engineer for a Japanese Megabank. I'm a member of the Rust Community team and lead their Content sub-team."
   cohort: C
   img: https://drive.google.com/uc?id=1t8UaFCOAFNvXpWEoYHKmci2YtWqSBGmQ
+
+- name: Mark Whiting
+  location: Mountain View, California
+  github: markwhiting
+  twitter: markwhiting
+  bio: I'm a postdoctoral scholar at Stanford in the HCI group in Computer Science. I am facenated by how we make decisions and what we can do to do that better, individually, in communities, and as a species. In this way, I study how to design automated decision systems and how to design communities around specific goals."
+  cohort: B
+  img: https://drive.google.com/open?id=1_rgDBUkjC81mQTsZ9meuK8_a5pWrEpDL
 
 - name: Martina Puppi
   location: Rovereto, Italy
@@ -616,14 +624,6 @@ projects and organizations both for the State and also for NGOs."
   bio: "Hello! My name is Monica Bonilla, I am from Colombia and I am a linguist and researcher. I have worked on projects of inclusion, empowerment and digital literacy with different communities, especially with speakers of indigenous languages from several Latin American countries."
   cohort: A
   img: https://drive.google.com/uc?id=1c-FdkTNIJjN5LBUVfENx-HiQUMlqPKTr
-
-- name: Mark Whiting
-  location: Mountain View, California
-  github: markwhiting
-  twitter: markwhiting
-  bio: "I'm a postdoctoral scholar at Stanford in the HCI group in Computer Science. I am facenated by how we make decisions and what we can do to do that better, individually, in communities, and as a species. In this way, I study how to design automated decision systems and how to design communities around specific goals."
-  cohort: B
-  img: whiting.me/Headshot.jpeg
 
 - name: Natalie Garcia
   location: New York, New York
@@ -844,4 +844,4 @@ He has his expertise in Web Development, Cyber Security and Data Science.  Often
   twitter: virbrussa
   bio: "Virginia  is an internationalist, living in Rosario, Argentina. Interested in the digital world, innovation and open practices ( academic + gov + humanitarian issues). She is a former SBTF Regional Coordinator , co-organized the First Latin American MSF Scientific Day , Coord +Datalab and the Argentine Network of Open Education (AREA). Member of the Argentine Association of Digital Humanities, CIM and others academics/researcher spaces. Also she work closely with a citizen innovation lab ( hacking civic area - Santa Fe), gender projects, open movement(s). Love maps and the ritual of \"mate\"!"
   cohort: C
-  img:
+  img: https://drive.google.com/uc?id=16SxgF2sNpvLkgGR6wWimN_lcc6kz7lPq

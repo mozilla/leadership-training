@@ -3,7 +3,7 @@
   github: aankit
   twitter: aankit
   bio: "I am the senior director of academics on the CS4All team at the New York City Department of Education. I got involved with CS education in public schools as an intern in a classroom in the South Bronx while pursuing his Masters at NYU’s Interactive Telecommunications Program (ITP). I leverage my diverse background in data analytics, social entrepreneurship, and creative coding to show teachers the power of computing. In my free time, I bake sourdough, read everything I can, and sail with a club in Brooklyn Bridge Park."
-  areas: Systems, Data, Networks, Education
+  areas: Systems, Data, Networks, Education, Python, JS, Databases, APIs, and Data Analysis with Python and R
   language: Gujarati
   cohort: A
 
@@ -47,10 +47,8 @@
   location: Tunis, Tunisia
   github: AmelGH
   twitter: AmelGhouila
-  bio: "Mozilla Science Fellow
-Bioinformatician @Institut Pasteur de Tunis/H3ABionet
-Technovation Regional ambassador"
-  areas: Bioinformatics, community building
+  bio: "Mozilla Science Fellow and Bioinformatician @Institut Pasteur de Tunis working on an African Bioinformatics capacity building network: H3ABionet. She is the Regional ambassador for Technovation, the largest global tech entrepreneurship program for girls."
+  areas: Bioinformatics, Open science, community building
   language: French
   cohort:
 
@@ -367,7 +365,7 @@ Technovation Regional ambassador"
   bio: "I am a University of Florida Postdoc and Moore Data Fellow. My research is in how ecological communities persist and change over time and exploring the stability-complexity question with data. I have a general interest in making STEM/academia more accessible and inclusive through open science training and culture change."
   areas: time series, complex systems, ecology, R, open science, reproducibility
   language:
-  cohort:
+  cohort: B
 
 - name: Harry Smith
   location: Lancaster, UK
@@ -758,10 +756,11 @@ Women and the Web"
   cohort: D
 
 - name: Samantha Ahern
-  location: "Live: Huntingdon, Work: London"
+  location: "Cambridgeshire / London, UK"
   github: quirksahern
   twitter: 2standandstare
-  bio: "I am a member of the Digital Education team at University College London, I work in London but live in Cambridgeshire. I escaping the city at the end of the day. I've spent the last year exploring learning analytics and ethical considerations, this is an extension of that. Expertise - education / pedagogy, information security and an understanding of machine learning basics."
+  bio: "I am a member of the Digital Education team at University College London, I work in London but live in Cambridgeshire. I was a Secondary ICT teacher for 8.5yrs before joining UCL initially as an IT Trainer, then spent 20 months with the Information Security team.
+  Since October 2016 I have been exploring learning analytics and the related ethical consideration. In addition I have been working with Research IT Services to develop online courses. I am a Software Carpentry Instructore and a Fellow of the HEA. Expertise - education / pedagogy, information security and an understanding of machine learning basics."
   areas: Learning design, pedagogy, online learning, data science ethics, educatonal data mining
   language:
   cohort:

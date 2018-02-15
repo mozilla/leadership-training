@@ -15,12 +15,12 @@ There are three cohorts going through the online version of Mozilla Open Leaders
 
 ### Cohortzilla (aka Cohort A)
 
-{% include project.html projects=site.data.round-4.projects  participants=site.data.round-4.participants cohort="A"%}
+{% include project.html projects=site.data.round-4.projects  participants=site.data.round-4.participants cohort="A" round=4%}
 
 ### Open Succulent Project (aka Cohort B)
 
-{% include project.html projects=site.data.round-4.projects  participants=site.data.round-4.participants cohort="B"%}
+{% include project.html projects=site.data.round-4.projects  participants=site.data.round-4.participants cohort="B" round=4%}
 
 ### Rebel Foxes (aka Cohort C)
 
-{% include project.html projects=site.data.round-4.projects  participants=site.data.round-4.participants cohort="C"%}
+{% include project.html projects=site.data.round-4.projects  participants=site.data.round-4.participants cohort="C" round=4%}

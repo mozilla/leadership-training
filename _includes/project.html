@@ -27,7 +27,7 @@
                   <span class="subhead">
           {% if person.cohort %}
             <i class="fa fa-group" aria-hidden="true"></i>
-              <a href="/leadership-training/round-4/schedule/#cohort-{{ person.cohort | downcase }}">Cohort {{ person.cohort }}</a>
+              <a href="/leadership-training/round-{{ include.round }}/schedule/#cohort-{{ person.cohort | downcase }}">Cohort {{ person.cohort }}</a>
             <br />
           {% endif %}
           {% if person.github %}

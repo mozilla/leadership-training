@@ -197,16 +197,12 @@ So we have come up with the idea of a Live Whiteboard where people can connect l
   - Shashikanth Reddy Palvatla
 
 - name: "OpenLearn through open research"
-  description: "Open Learning through Open research project will be researching how large scale of students can learn in groups in Open learning environments.
-MOOCs are trending yet it  uses pedagogy of information transfer, students are often isolated and there will be no collaborations among students.
-Our goal is to make MOOCs more effective by identifying active, interactive and collaborative designs
-We will set up small groups and facilitate to take online courses in MOOC platforms
-
-"
+  description: "Open Learning through Open research project will be researching how large scale of students can learn in groups in Open learning environments. MOOCs are trending yet it  uses pedagogy of information transfer, students are often isolated and there will be no collaborations among students. Our goal is to make MOOCs more effective by identifying active, interactive and collaborative designs. We will set up small groups and facilitate to take online courses in MOOC platforms."
   cohort: B
   lead:
   - Dilrukshi Gamage
   - Hasara Maithree
+  - Mark Whiting
 
 - name: "Oregon Nonprofit Index"
   description: "My project focuses on creating open data about nonprofit organizations in the state of Oregon.  This web project will provide the groundwork for a reproducible workflow for all US states and territories.  Also, this will allow people easy access to geographically referenced financial data on nonprofits and will also enable people wh without data searching, access, and cleaning skills increased access to these resources."

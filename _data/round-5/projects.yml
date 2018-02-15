@@ -20,10 +20,10 @@ Mission: to create a network that every person who wants to can access by 2025, 
   - Sophie Varlow
   - Nick Wood
 
-- name: "floWeaver (old name 'sankeyview' on GitHub)"
-  description: "My vision is build common tools with other researchers for analysing and visualising data about stocks & flows of materials, so researchers can effectively share data and communicate results: in particular, opportunities to reduce the 20% of industrial carbon emissions due to making these materials.
-
-I am developing an open-source framework for analysing and visualising flow data as Sankey diagrams. My ambition is to grow this beyond my research group to be a core tool for this analysis."
+- name: "floWeaver"
+  description: "Many kinds of data can be thought of as 'flows': energy and materials moving through industry, money flowing through the economy, telephone lines moving between providers, voters moving between parties. floWeaver is an open-source framework for analysing and visualising flow data using Sankey diagrams.
+  
+In my research, I'm particularly interested in physical flows of materials, aiming to reduce the 20% of global industrial carbon emissions due to making these materials. My vision is build common tools with other researchers for analysing and visualising data about physical stocks & flows, so researchers can effectively share data and communicate results; I hope to grow this project beyond my research group to be a core tool for this analysis."
   cohort: A
   lead:
   - Rick Lupton

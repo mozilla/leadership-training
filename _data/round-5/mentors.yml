@@ -793,10 +793,10 @@ Women and the Web"
   cohort:
 
 - name: Shawn Goulet
-  location: Barnstable, MA
+  location: Barnstable, MA, USA
   github: shawnmgoulet
   twitter: shawnmgoulet
-  bio: "I'm a Geospatial Developer based outside of Boston, Massachusetts, USA that uses data with a spatial component to solve problems.  I started working with GIS and now build web mapping applications leveraging JavaScript technologies."
+  bio: "A Geospatial Developer based outside of Boston, Massachusetts, USA that uses data to solve problems. Shawn is a **_huge_** fan of open source technologies; namely Free Open Source Software for Geospatial (FOSS4G). Shawn began his professional career working exclusively in GIS desktop software and now builds web applications professionally and volunteers his 'spare' time to geogrpahy education."
   areas: curriculum development; geospatial/geography; web application development; environmental
   language:
   cohort:
@@ -917,4 +917,3 @@ Women and the Web"
   areas: "I'm a learning strategist for Mozilla. I've taught web tech, digital art, and design in formal and informal learning environments. I've also worked in content strategy and experience design for museums and cultural centers with a special focus on science communication. I also have an expertise in visual/sequential communications (comics and cartooning)."
   language:
   cohort:
-

@@ -1,3 +1,11 @@
+- name: Adisa Bolutife
+  location: Lagos, Nigeria
+  github:
+  twitter: bologger
+  bio: "I am an Electronics engineer and Open Access advocate based in Lagos, Nigeria. Co-founder at Open Switch Africa. I was an Internet Society Fellow to the 2017 United Nations’ Internet Governance Forum in Geneva and I am passionate about advancing a more open knowledge sharing process on the Internet, hence my interest in Internet literacy. My hobbies include cooking and R. "
+  cohort: D
+  img: https://drive.google.com/uc?id=1us7A9DFZASh1Bj2YSQgpxNjE-AJ5UL5M
+
 - name: Ahinon Sègbédji Justin
   location: Parakou, Bénin
   github: JustinyAhin
@@ -323,6 +331,14 @@ Other than my main research, I take leading roles in to close the gap between wo
   cohort: B
   img: https://drive.google.com/uc?id=10l4K8j0B_oKBvYX00ggtGjYUrJZJsVPW
 
+- name: Esther Mwema
+  location: Lusaka, Zambia
+  github:
+  twitter: hadassahlouis
+  bio: "Esther Mwema is President of Digital Grassroots - a youth initiative to increase digital citizenship in local communities. She is also an independent Data Analyst and Researcher working to advance the interest of girls safety, women's health and socioeconomic development through her youth-led organization SAFIGI Outreach Foundation in Zambia.  Esther is a certified Open Knowledge Advocate, a trained World Youth Alliance member, and a youth Fellow with Internet Society (ISOC)."
+  cohort: D
+  img: https://drive.google.com/uc?id=1VMoXHppMVD-h0n-juOoppvPxd3fPtu6_
+
 - name: Fahima Zulfath A
   location: Salem, Tamil Nadu, India
   github: FahimaZulfath
@@ -480,6 +496,14 @@ Latinamerican culture, specially Brazilian culture. I have worked for
 projects and organizations both for the State and also for NGOs."
   cohort: D
   img: https://drive.google.com/uc?id=1_x6zx35CLo3DMdymPOGA6lrFstmMXUrO
+
+- name: Joy Wathagi Ndungu
+  location: Nairobi, Kenya
+  github:
+  twitter: wathagindungu
+  bio: "Wathagi is a student in her final year of Law School in Kenya. Her interests are Internet Governance, Youth Advocacy, Human Rights and Travel. She is the Vice President/ Co-founder of Digital Grassroots where she has embarked on a journey to increase Digital Citizenship. Follow her on Twitter @Wathagindungu "
+  cohort: D
+  img: https://drive.google.com/uc?id=1EOE81IBGpg5rUVJL5UVnhnelnXA4139R
 
 - name: Julieta Arancio
   location: Buenos Aires, Argentina

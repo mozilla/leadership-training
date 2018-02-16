@@ -205,15 +205,6 @@
   language: Swahili
   cohort: C
 
-- name: Christopher Madan
-  location:
-  github:
-  twitter:
-  bio: ""
-  areas:
-  language:
-  cohort:
-
 - name: Daina Bouquin
   location: Cambridge
   github: dbouquin
@@ -376,15 +367,6 @@
   language:
   cohort: A
 
-- name: Heather Lent
-  location:
-  github:
-  twitter:
-  bio: ""
-  areas:
-  language:
-  cohort:
-
 - name: Hildah Nyakwaka
   location: Nairobi, Kenya
   github:
@@ -485,15 +467,6 @@ Women and the Web"
   language: Malayalam, Tamil, Hindi
   cohort: A
 
-- name: Lauren Gardner
-  location:
-  github:
-  twitter:
-  bio: ""
-  areas:
-  language:
-  cohort:
-
 - name: Lequanne Collins-Bacchus
   location: Toronto
   github: lequanne
@@ -566,13 +539,13 @@ Women and the Web"
   language: Spanish
   cohort:
 
-- name: Max Franz
-  location:
-  github:
-  twitter:
-  bio: ""
-  areas:
-  language:
+- name: Marios Isaakidis
+  location: London, UK
+  github: misaakidis
+  twitter: misaakidis
+  bio: "Marios Isaakidis (Prometheas) is a hacktivist developing Open Source tools that secure our digital freedoms. As a PhD student at University College London, he is researching the intersection of privacy, anonymity and decentralization. In the past, he has lead development of eQualitie’s CENO censorship circumvention tool, contributed to the Freenet anonymous publishing platform, and represented communities such as Mozilla and fedora."
+  areas: Decentralization and Privacy
+  language: Greek, Spanish
   cohort:
 
 - name: Meghan Lazier
@@ -637,15 +610,6 @@ Women and the Web"
   areas: Access to medicines/ Open (health) data
   language: French
   cohort: D
-
-- name: Peter Omondi Ochieng
-  location:
-  github:
-  twitter:
-  bio: ""
-  areas:
-  language:
-  cohort:
 
 - name: Philipp Bayer
   location: Perth, Australia
@@ -796,7 +760,7 @@ Women and the Web"
   location: Barnstable, MA, USA
   github: shawnmgoulet
   twitter: shawnmgoulet
-  bio: "A Geospatial Developer based outside of Boston, Massachusetts, USA that uses data to solve problems. Shawn is a **_huge_** fan of open source technologies; namely Free Open Source Software for Geospatial (FOSS4G). Shawn began his professional career working exclusively in GIS desktop software and now builds web applications professionally and volunteers his 'spare' time to geogrpahy education."
+  bio: "A Geospatial Developer based outside of Boston, Massachusetts, USA that uses data to solve problems. Shawn is a **_huge_** fan of open source technologies; namely Free Open Source Software for Geospatial (FOSS4G). Shawn began his professional career working exclusively in GIS desktop software and now builds web applications professionally and volunteers his 'spare' time to geography education."
   areas: curriculum development; geospatial/geography; web application development; environmental
   language:
   cohort:
@@ -873,15 +837,6 @@ Women and the Web"
   language: German
   cohort: A
 
-- name: Uriel Jurado
-  location:
-  github:
-  twitter:
-  bio: ""
-  areas:
-  language:
-  cohort:
-
 - name: Viral Parmar
   location: Ahmedabad, Gujarat, India
   github: veerskyfire
@@ -889,15 +844,6 @@ Women and the Web"
   bio: "I am Cyber Security researcher by profession and open source enthusiast, working in a field of information security from last two years with the expertise in Cyber Crime Investigation, Public Key Infrastructure, Web App Penetration Testing, Digital Forensics and Mobile Security. I started my contribution in Mozilla last year with the privacy events to aware people about privacy and security and till now i gave more than 50 session and aware more than 15,000 people. Recently we started an initiative called Logout where our planning is to aware more than 50,000 people in india  about rights to privacy,  cyber security, net neutrality, surveillance , issues with bio-metric scan(aadhar card) and cyber disorder.      "
   areas: I m an entrepreneur, with experience of two years i can work on big projects to make them market ready, manage the project, deploy the project and do market reach out as well as get the feed back as soon as possible and improvise, so using my skill i can help out the project leads. My technical expertise is in information security domain and delicately working on aware people about privacy and security
   language: Hindi, Gujarati
-  cohort:
-
-- name: Will Kearney
-  location:
-  github:
-  twitter:
-  bio: ""
-  areas:
-  language:
   cohort:
 
 - name: Yo Yehudi

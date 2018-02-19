@@ -92,6 +92,8 @@ The minimal viable product is a filterable dashboard for name, topic, party, and
   cohort: A
   lead:
   - Daniel Villar-Onrubia
+  - Luca Morini
+  - Lauren Heywood
 
 - name: "The Foundation For Public Code"
   description: "We try and create an open source ecosystem for public code, both computer and legal, with an explicit focus on cities. We want to be like the Linux Foundation or Apache Foundation for city open source projects. I'm currently embedded in the City of Amsterdam's data-portal team to help them transition into open source and we're hoping that we'll soon be able to bring more projects into a shared collective foundation."

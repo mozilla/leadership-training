@@ -117,9 +117,7 @@ The Open Reflectometry Project aims i) to facilitate the knowledge transfer and 
   - Ben Chrobot
 
 - name: "Translating open research in Agriculture to local language for Ethiopian farmers understanding to promote citizen science"
-  description: "
-This project propose to translate the open research outputs in agriculture to local languages like Amharic  and also making  the  translation pf the scientific terms to everyday language that the farmers can understand. The translations will be openly available using an online platform to farmers and also to the public so that facilitates citizen engagement in open science including data collection and data analysis which will promote citizen science to increase agricultural productivity.
-"
+  description: "This project propose to translate the open research outputs in agriculture to local languages like Amharic and also making the translation of the scientific terms to everyday language that the farmers can understand. The translations will be openly available using an online platform to farmers and also to the public so that it facilitates citizen engagement in open science including data collection and data analysis which will promote citizen science to increase agricultural productivity."
   cohort: A
   lead:
   - Solomon Mekonnen

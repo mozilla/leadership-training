@@ -765,6 +765,15 @@ Women and the Web"
   language:
   cohort:
 
+- name: Sharada Prasanna Mohanty
+  location: Geneva, Switzerland
+  github: spMohanty
+  twitter: MeMohanty
+  bio: "S.P. Mohanty is a PhD Student at École Polytechnique Fédérale de Lausanne   associated with School of Life Sciences and School of Computer and Communications. His research is around the role and use of Machine Learning and Artificial Intelligence to solve real world problems in biology, from detection of diseases in real patients from images, to using reinforcement learning to teach simulate musculoskeletal models how to walk and run. He is the co-founder of crowdAI(.org), a platform which organizes machine learning challenges on real world problems, while encouraging open and reproducible research in artificial intelligence. As an open source enthusiast, he has been involved with Google Summer of Code since 2012, as a student, mentor and as an org-admin for a humanitarian open source organisation called as Sigmah. During a stint at CERN, he was involved in running the CERN Public Computing Challenge with the Theoretical Physics Department, CERN and Citizen Cyberscience Center, IT Department, CERN. Over the years, he also helped organised the CERN Webfest, an annual hackathon at CERN in collaboration with Mozilla Science Labs and Citizen Cyberscience Center, IT Department CERN.  During another stint at UNOSAT, he was the lead developer for GeoTag-X, an opensource crowdsourcing platform for Humanitarian Data Analysis. And finally, a tinkerer at heart, he religiously attends all hackathons he can, spending sleepless weekends building 3D games to teach kids particle physics, to digital harnesses to help demining dogs be more efficient and safe during demining operations."
+  areas: Machine Learning, Open Science
+  language:
+  cohort:
+
 - name: Shreyas Narayanan Kutty
   location: Bangalore, India
   github: dunebuggie

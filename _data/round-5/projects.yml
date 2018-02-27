@@ -221,7 +221,6 @@ We will set up small groups and facilitate to take online courses in MOOC platfo
   lead:
   - Cristian Leon Coronado
   - Antonella Maia Perini
-  - Matías Bianchi
 
 - name: "PhyloProfile"
   description: "In Evolutionary Biology, the presence/absence pattern of a gene over a set of species is called its “phylogenetic profile”. Phylogenetic profiling is a technique for finding the biological relationships between genes. Due to the uninformative of the basic profile, I am developing PhyloProfile, a visualization method that allows to enrich regular profiles with further data, to make phylogenetic profiling more meaningful. PhyloProfile is open source written in R, making heavy use of Shiny library."

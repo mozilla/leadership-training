@@ -1,5 +1,15 @@
 {% assign link = "/leadership-training/round-" | append: include.round | append: "/schedule/" %}
 {% for mentor in include.mentors %}
+  {% if include.expert == true %}
+    {% if mentor.cohort %}
+      {% continue %}
+    {% endif %}
+  {% else %}
+    {% if mentor.cohort %}
+    {% else %}
+      {% continue %}
+    {% endif %}
+  {% endif %}
   <div class="mentor row">
     <div class="col-md-3">
       <h4>{{ mentor.name }}</h4>
@@ -23,6 +33,8 @@
               <a href="{{ link }}#cohort-{{ mentor.cohort | downcase }}">Cohort {{ mentor.cohort }}</a>
             {% endif %}
             <br />
+          {% else %}
+          <b>Role: </b><a href="https://goo.gl/UthgL1">Expert</a><br />
           {% endif %}
           {% if mentor.github %}
             <i class="fa fa-github" aria-hidden="true"></i> <a target="_blank" href="https://github.com/{{ mentor.github }}">@{{ mentor.github }}</a><br />

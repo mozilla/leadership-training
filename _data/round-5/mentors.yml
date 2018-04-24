@@ -683,15 +683,6 @@ Women and the Web"
   language: Portuguese, Spanish
   cohort: B
 
-- name: Riccardo Iaconelli
-  location: Milano, Italy
-  github: ruphy
-  twitter: ruphy
-  bio: "Riccardo is the Open Source Project Lead for the Italian Government. He is a physicist and free software developer since the age of 13 from Milano, Italy. Hardcore KDE developer, FSFE Fellow and Mozilla Tech Speaker. He has been an advocate of open principles for more than 10 years. He now leads WikiToLearn, an initiative to open and share creative content produced in universities, schools and research centers."
-  areas: Technical tools for collaboration, Introduction on open practices
-  language: Italian, French
-  cohort:
-
 - name: Rob Schaefer
   location: St Paul, MN
   github: schae234

@@ -1,6 +1,9 @@
 ---
 layout: home
 ---
+<script>
+window.location.replace("https://foundation.mozilla.org/opportunity/mozilla-open-leaders/");
+</script>
 
 ### About the Program
 
